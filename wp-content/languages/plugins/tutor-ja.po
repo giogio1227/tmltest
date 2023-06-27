@@ -1,0 +1,6503 @@
+# Translation of Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-06-25 12:45:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - Tutor LMS &#8211; eLearning and online course solution - Stable (latest release)\n"
+
+#: classes/Template.php:465
+msgid "Profile Page"
+msgstr "プロフィールページ"
+
+#: views/pages/tools/manage-tokens.php:123
+msgid "Generate"
+msgstr "生成"
+
+#: views/pages/tools/manage-tokens.php:78
+msgid "Generate API Key, Secret"
+msgstr "API キー、シークレットを生成"
+
+#: views/pages/tools/manage-tokens.php:61
+msgid "No record available"
+msgstr "記録がありません"
+
+#: views/pages/tools/manage-tokens.php:46
+#: views/pages/tools/manage-tokens.php:101
+msgid "Permission"
+msgstr "権限"
+
+#: views/pages/tools/manage-tokens.php:45
+msgid "Secret"
+msgstr "シークレット"
+
+#: views/pages/tools/manage-tokens.php:44
+msgid "API Key"
+msgstr "API キー"
+
+#: views/pages/tools/manage-tokens.php:43
+#: views/pages/tools/manage-tokens.php:91
+msgid "User"
+msgstr "ユーザー"
+
+#: restapi/RestAuth.php:243
+msgid "Revoke"
+msgstr "取り消し"
+
+#: restapi/RestAuth.php:128
+msgid "API keys revoke failed, please try again."
+msgstr "API キーの失効に失敗しました、再試行してください"
+
+#: restapi/RestAuth.php:126
+msgid "API keys permanently revoked"
+msgstr "API キーを永久に取り消し"
+
+#: restapi/RestAuth.php:118
+msgid "Invalid meta id"
+msgstr "無効なメタ ID"
+
+#: classes/Tools_V2.php:337
+msgid "Token List"
+msgstr "トークン一覧"
+
+#: classes/Tools_V2.php:335
+msgid "Rest API"
+msgstr "Rest API"
+
+#: views/pages/course-bundle.php:21
+msgid "Get Tutor Pro"
+msgstr "Tutor Pro を入手"
+
+#: views/pages/course-bundle.php:20
+msgid "Create course bundles to sell multiple courses together. Offer a course package for a complete eLearning experience for your students and boost sales!"
+msgstr "複数のコースをまとめて販売するコースバンドルを作成。受講者に完全な e ラーニング体験を提供するコースパッケージを提供し、売上を向上させましょう !"
+
+#: views/pages/course-bundle.php:19
+msgid "Boost your course sale with bundle!"
+msgstr "バンドルでコース販売を強化 !"
+
+#: classes/Utils.php:8945
+msgid "Create Bundle"
+msgstr "バンドルを作成"
+
+#: classes/Options_V2.php:670
+msgid "Auto Complete Course on all Lesson Completion"
+msgstr "全レッスン修了時にコースを自動で完了"
+
+#: classes/Admin.php:106
+msgid "Course Bundle <span class=\"tutor-badge-new\">New</span>"
+msgstr "コースバンドル <span class=\"tutor-badge-new\">新規</span>"
+
+#: classes/Admin.php:106
+msgid "Course Bundles"
+msgstr "コースバンドル"
+
+#: classes/Addons.php:139
+msgid "Group multiple courses to sell together."
+msgstr "複数のコースをグループ化してまとめて販売。"
+
+#: classes/Addons.php:138
+msgid "Course Bundle"
+msgstr "コースバンドル"
+
+#: templates/dashboard/settings/withdraw-settings.php:155
+msgid "There's no Withdrawal method selected yet! To select a Withdraw method, please contact the Site Admin."
+msgstr "出金方法がまだ選択されていません! 引き出し方法を選択するには、サイト管理者までご連絡ください。"
+
+#: templates/dashboard/my-courses.php:103
+msgid "Co-author"
+msgstr "共著者"
+
+#: classes/Utils.php:9758
+msgid "You are not authorzied to perform this action"
+msgstr "このアクションを実行する権限がありません。"
+
+#: classes/Utils.php:9753
+msgid "Something went wrong"
+msgstr "何かが間違っています"
+
+#: classes/Options_V2.php:1159
+msgid "Enable to show course level"
+msgstr "コースレベルの表示を有効にする"
+
+#: classes/Addons.php:135
+msgid "Let users register & login through social network like Facebook, Google, etc."
+msgstr "Facebook や google などのソーシャルネットワークで登録・ログイン。"
+
+#: classes/Addons.php:134
+msgid "Social Login"
+msgstr "ソーシャルログイン"
+
+#: templates/single/assignment/content.php:282
+msgctxt "Assignment attachment"
+msgid " file)"
+msgstr " ファイル)"
+
+#: templates/single/assignment/content.php:281
+msgctxt "Assignment attachment"
+msgid "Attach assignment files (Max: "
+msgstr "課題ファイルを添付 (最大: "
+
+#: includes/translate-text.php:208 includes/translate-text.php:244
+msgctxt "Month name"
+msgid "December"
+msgstr "12月"
+
+#: includes/translate-text.php:205 includes/translate-text.php:241
+msgctxt "Month name"
+msgid "November"
+msgstr "11月"
+
+#: includes/translate-text.php:202 includes/translate-text.php:238
+msgctxt "Month name"
+msgid "October"
+msgstr "10月"
+
+#: includes/translate-text.php:199 includes/translate-text.php:235
+msgctxt "Month name"
+msgid "September"
+msgstr "9月"
+
+#: includes/translate-text.php:196 includes/translate-text.php:232
+msgctxt "Month name"
+msgid "August"
+msgstr "8月"
+
+#: includes/translate-text.php:193 includes/translate-text.php:229
+msgctxt "Month name"
+msgid "July"
+msgstr "7月"
+
+#: includes/translate-text.php:190 includes/translate-text.php:226
+msgctxt "Month name"
+msgid "June"
+msgstr "6月"
+
+#: includes/translate-text.php:187 includes/translate-text.php:223
+msgctxt "Month name"
+msgid "May"
+msgstr "5月"
+
+#: includes/translate-text.php:184 includes/translate-text.php:220
+msgctxt "Month name"
+msgid "April"
+msgstr "4月"
+
+#: includes/translate-text.php:181 includes/translate-text.php:217
+msgctxt "Month name"
+msgid "March"
+msgstr "3月"
+
+#: includes/translate-text.php:178 includes/translate-text.php:214
+msgctxt "Month name"
+msgid "February"
+msgstr "2月"
+
+#: includes/translate-text.php:175 includes/translate-text.php:211
+msgctxt "Month name"
+msgid "January"
+msgstr "1月"
+
+#: includes/translate-text.php:170
+msgctxt "Week name"
+msgid "Sunday"
+msgstr "日曜日"
+
+#: includes/translate-text.php:167
+msgctxt "Week name"
+msgid "Saturday"
+msgstr "土曜日"
+
+#: includes/translate-text.php:164
+msgctxt "Week name"
+msgid "Friday"
+msgstr "金曜日"
+
+#: includes/translate-text.php:161
+msgctxt "Week name"
+msgid "Thursday"
+msgstr "木曜日"
+
+#: includes/translate-text.php:158
+msgctxt "Week name"
+msgid "Wednesday"
+msgstr "水曜日"
+
+#: includes/translate-text.php:155
+msgctxt "Week name"
+msgid "Tuesday"
+msgstr "火曜日"
+
+#: includes/translate-text.php:152
+msgctxt "Week name"
+msgid "Monday"
+msgstr "月曜日"
+
+#: views/maintenance.php:77
+msgid "Sorry for the inconvenience."
+msgstr "ご迷惑をおかけして申し訳ありません。"
+
+#: views/maintenance.php:76
+msgid "Under Maintenance"
+msgstr "メンテナンス中"
+
+#: classes/Addons.php:127
+msgid "Translate & manage multilingual courses for global reach with full edit control."
+msgstr "多言語コースを翻訳・管理し、完全な編集コントロールでグローバルに展開。"
+
+#: includes/tutor-template-functions.php:53
+msgid "The file you are trying to load does not exist in your theme or Tutor LMS plugin location. If you are extending the Tutor LMS plugin, please create a php file here: "
+msgstr "読み込もうとしているファイルがテーマまたは Tutor LMS プラグインの場所に存在しません。Tutor LMS プラグインを拡張している場合は、ここに php ファイルを作成してください: "
+
+#: includes/tutor-general-functions.php:406
+#: includes/tutor-general-functions.php:413
+msgid "file not exists"
+msgstr "ファイルが存在しません"
+
+#: classes/Course.php:899
+msgid "Only main instructor can delete this course"
+msgstr "このコースを削除できるのは、メインインストラクターのみです。"
+
+#: views/qna/qna-single.php:127
+msgid "ago"
+msgstr "前"
+
+#: views/pages/instructors.php:292
+msgid "Enter Your Email"
+msgstr "メールアドレスを入力"
+
+#: views/pages/instructors.php:281
+msgid "Enter Phone Number"
+msgstr "電話番号を入力"
+
+#: views/pages/instructors.php:273
+msgid "Enter Username"
+msgstr "ユーザー名を入力"
+
+#: views/pages/instructors.php:263
+msgid "Enter Last Name"
+msgstr "姓を入力"
+
+#: views/pages/instructors.php:255
+msgid "Enter First Name"
+msgstr "名を入力"
+
+#: views/options/template/common/reset-button-template.php:23
+#: views/options/template/google_classroom.php:19
+#: views/options/template/gradebook.php:19
+msgid "Reset to Default"
+msgstr "デフォルトにリセット"
+
+#: views/fragments/thumbnail-uploader.php:54
+msgctxt "tutor-supported-image-type"
+msgid "jpg, .jpeg,. gif, or .png"
+msgstr "jpg、 .jpeg、 . gif、 または .png"
+
+#: classes/Tutor_Setup.php:698
+msgctxt "tutor-wizard-greeting"
+msgid " welcome to Tutor LMS!"
+msgstr " Tutor LMSへようこそ !　"
+
+#: classes/Tutor_Setup.php:696
+msgctxt "tutor-wizard-greeting"
+msgid "Hello "
+msgstr "こんにちは "
+
+#: classes/Tutor_Setup.php:596
+msgctxt "tutor-setup-assistance"
+msgid "contact form."
+msgstr "お問い合わせフォーム"
+
+#: classes/Tutor_Setup.php:594
+msgctxt "tutor-setup-assistance"
+msgid "If you need further assistance, please don’t hesitate to contact us via our "
+msgstr "さらにサポートが必要な場合は、ご遠慮なく私たちへご連絡ください。"
+
+#: classes/Tutor_Setup.php:591
+msgctxt "tutor setup content"
+msgid "that covers everything!"
+msgstr "それがすべてをカバーしている!"
+
+#: classes/Tutor_Setup.php:589
+msgctxt "tutor setup content"
+msgid "documentation"
+msgstr "ドキュメンテーション"
+
+#: classes/Tutor_Setup.php:587
+msgctxt "tutor setup content"
+msgid "Tutor LMS is up and running on your website! If you really want to become a Tutor LMS genius, read our "
+msgstr "Tutor LMS は、あなたのウェブサイトで稼働しています ! もしあなたが本当に Tutor LMS の達人になりたいのであれば、私たちの"
+
+#: classes/Ajax.php:487
+msgid "Nonce verification failed"
+msgstr "Nonce の検証に失敗"
+
+#: views/quiz/attempt-details.php:234
+msgid "min-width:180px"
+msgstr "min-width:180px"
+
+#: classes/Quiz.php:1046 classes/Quiz.php:1067
+msgid "Invalid quiz question ID"
+msgstr "無効なクイズの問題 ID"
+
+#: classes/Post_types.php:440
+msgid "Course scheduled for:"
+msgstr "コースの予定:"
+
+#: views/quiz/attempt-table.php:206
+msgid "Would you like to delete Quiz Attempt permanently? We suggest you proceed with caution."
+msgstr "クイズ回答履歴を永久に削除しますか ? 慎重に進めることをお勧めします。"
+
+#: views/pages/addons.php:60
+msgctxt "addon-last-checked"
+msgid "from now"
+msgstr "今から"
+
+#: views/pages/addons.php:58
+msgctxt "addon-last-checked"
+msgid "ago, It will check again after"
+msgstr "の後に再度チェックされます。"
+
+#: views/pages/addons.php:56
+msgctxt "addon-last-checked"
+msgid "Last checked"
+msgstr "最終チェック"
+
+#: templates/single/course/reviews.php:109
+msgid "%s Rating"
+msgid_plural "%s Ratings"
+msgstr[0] "%s レーティング"
+
+#: templates/dashboard/withdraw.php:66
+msgid "Current Balance is %s"
+msgstr "現在の残高 %s"
+
+#: templates/dashboard/settings/reset-password.php:44
+#: templates/dashboard/settings/reset-password.php:74
+msgid "Type Password"
+msgstr "パスワードを入力"
+
+#: templates/dashboard/purchase_history.php:191
+msgid "Pay"
+msgstr "支払い"
+
+#: templates/dashboard/my-courses.php:259
+msgid "Cancel Submission"
+msgstr "送信のキャンセル"
+
+#: templates/dashboard/my-courses.php:240
+msgid "Move to Draft"
+msgstr "下書きに移す"
+
+#: templates/dashboard/my-courses.php:221
+msgid "Duplicate"
+msgstr "複製"
+
+#: classes/Quiz.php:1666
+msgid "You are not authorized to perform this action!"
+msgstr "この操作を行う権限がありません !"
+
+#: classes/Quiz.php:1663
+msgid "Invalid attempt ID"
+msgstr "無効な試行 ID"
+
+#: classes/Quiz.php:1661
+msgid "Attempt deleted successfully!"
+msgstr "削除に成功 !"
+
+#: classes/Course.php:1608
+msgid "Invalid course ID"
+msgstr "無効なコース ID"
+
+#: classes/Course.php:1605
+msgid "Enrollment failed, please try again!"
+msgstr "登録に失敗しました。再度お試しください !"
+
+#: classes/Course.php:1603
+msgid "Enrollment successfully done!"
+msgstr "登録が完了しました !"
+
+#: classes/Course.php:222
+msgid "One product can not be added to multiple course!"
+msgstr "1つの商品を複数のコースに追加できません !"
+
+#: classes/Addons.php:111
+msgid "Connect Tutor LMS with Google Meet to host live online classes. Students can attend live classes right from the lesson page."
+msgstr "Tutor LMS と Google Meet を接続して、ライブのオンライン授業を開催できます。学生はレッスンページからライブ授業に参加できます。"
+
+#: classes/Addons.php:110
+msgid "Tutor Google Meet Integration"
+msgstr "Tutor Google Meet との統合"
+
+#: templates/course-embed.php:124
+msgid "View Details"
+msgstr "詳細を見る"
+
+#: views/pages/course-list.php:388
+msgid "Deletion of the course will erase all its topics, lessons, quizzes, events, and other information. Please confirm your choice."
+msgstr "コースを削除すると、トピック、レッスン、クイズ、イベント、その他の情報がすべて消去されます。選択を確認してください。"
+
+#: views/elements/bulk-confirm-popup.php:24
+msgid "Before You Proceed!"
+msgstr "手続きを進める前に !"
+
+#: templates/single/course/reviews.php:57
+msgid "Student Ratings & Reviews"
+msgstr "生徒の評価とレビュー"
+
+#: includes/translate-text.php:37
+msgid "Archived"
+msgstr "アーカイブ済み"
+
+#: includes/translate-text.php:31
+msgid "Unread"
+msgstr "未読"
+
+#: includes/translate-text.php:28 restapi/RestAuth.php:264
+msgid "Read"
+msgstr "読む"
+
+#: classes/Options_V2.php:1129
+msgid "You can keep the following features active or inactive as per the need of your business model"
+msgstr "ビジネスモデルの必要に応じて、以下の機能をアクティブまたは非アクティブに保てます。"
+
+#: classes/Options_V2.php:1128
+msgid "Page Features"
+msgstr "ページの機能"
+
+#: classes/Options_V2.php:759
+msgid "Put the answer display time in seconds"
+msgstr "回答表示時間を秒単位で入力"
+
+#: classes/Options_V2.php:757
+msgid "Correct Answer Display Time (when Reveal Mode is enabled)"
+msgstr "正解表示時間 (表示モード有効時)"
+
+#. translators: %s: number of quiz pass required
+#. translators: %s: number of assignment pass required
+#: classes/Course.php:1454 classes/Course.php:1458
+msgid "You have to pass %1$s %2$s to complete this course."
+msgstr "このコースを修了するには %1$s %2$s に合格する必要があります。"
+
+#: views/metabox/product-selection.php:74
+msgid "Sale Price (Discounted Price)"
+msgstr "セール価格 (割引価格)"
+
+#: views/metabox/product-selection.php:64
+msgid "Regular Price"
+msgstr "通常価格"
+
+#: views/metabox/course-add-product-metabox.php:22
+msgid "on WooCommerce"
+msgstr "WooCommerce 上"
+
+#: views/metabox/course-add-product-metabox.php:17
+msgid "You can select an existing WooCommerce product, alternatively, a new WooCommerce product will be created for you."
+msgstr "既存の WooCommerce 商品を選択することもできますが、新しい WooCommerce 商品を作成することもできます。"
+
+#: templates/dashboard/withdraw.php:132
+msgid "Withdrawable Balance"
+msgstr "引き出し可能残高"
+
+#: templates/dashboard/withdraw.php:70
+msgid "You have %1$s %2$s %3$s ready to withdraw now"
+msgstr "1$s %2$s %3$s の引き出し準備が整いました。"
+
+#: classes/Utils.php:1682
+msgid " left"
+msgstr "残り"
+
+#: classes/Options_V2.php:1026
+msgid "If enabled, the courses will be sortable by Course Name or Creation Date in either Ascending or Descending order"
+msgstr "有効にした場合、コースはコース名または作成日付の昇順または降順でソートできます。"
+
+#: classes/Options_V2.php:1023
+msgid "Course Sorting"
+msgstr "コースの並び替え"
+
+#: classes/Options_V2.php:673
+msgid "If enabled, an Enrolled Course will be automatically completed if all its Lessons, Quizzes, and Assignments are already completed by the Student"
+msgstr "有効にした場合、すべてのレッスン、小テスト、および課題が生徒によって既に完了している場合、登録されたコースは自動的に完了します。"
+
+#: classes/Course.php:1450
+msgid "assignment"
+msgid_plural "assignments"
+msgstr[0] "割り当て"
+
+#: classes/Course.php:1449
+msgid "quiz"
+msgid_plural "quizzes"
+msgstr[0] "クイズ"
+
+#: classes/Course.php:234
+msgid "Product not found"
+msgstr "商品が見つかりません"
+
+#: views/pages/welcome.php:192
+msgid "Get Tutor LMS Pro - 20% off"
+msgstr "Tutor LMS Pro を入手 - 20% オフ"
+
+#: views/pages/welcome.php:187
+msgid "Let's Start Building"
+msgstr "制作を始めよう"
+
+#: templates/dashboard/dashboard.php:123
+msgid "Click Here"
+msgstr "ここをクリック"
+
+#: templates/dashboard.php:102
+msgid "Hello"
+msgstr "こんにちは"
+
+#: classes/Reviews.php:112
+msgid "Only admin can change review status"
+msgstr "管理者だけがレビューステータスを変更できます"
+
+#: classes/Options_V2.php:701
+msgid "Enable to publish/re-publish Course Review after the approval of Site Admin"
+msgstr "サイト管理者の承認後、コースレビューを公開 / 再公開できるようにする。"
+
+#: classes/Options_V2.php:698
+msgid "Publish Course Review on Admin's Approval"
+msgstr "管理者の承認を得てコースレビューを公開"
+
+#: views/qna/qna-new.php:18
+msgid "Do you have any questions?"
+msgstr "何か質問はありますか ?"
+
+#: views/metabox/lesson-attachments-metabox.php:23
+msgid "Upload exercise files to the Lesson"
+msgstr "課題ファイルをレッスンにアップロード"
+
+#: templates/single/lesson/comment.php:84
+#: templates/single/lesson/comments-loop.php:82
+msgid "Write your comment here…"
+msgstr "ここにコメントを書いてください"
+
+#: templates/single/course/instructors.php:21
+msgid "A course by"
+msgstr "コース制作: "
+
+#: templates/single/course/course-topics.php:38
+#: templates/single/lesson/lesson_sidebar.php:41
+msgid "Course Content"
+msgstr "コース内容"
+
+#: templates/dashboard/instructor/registration.php:144
+#: templates/dashboard/registration.php:144
+msgid "Terms and Conditions"
+msgstr "利用規約"
+
+#: templates/dashboard/instructor/registration.php:144
+#: templates/dashboard/registration.php:144
+msgid "By signing up, I agree with the website's"
+msgstr "登録することにより、私は本ウェブサイトの以下の事項に同意します。"
+
+#: classes/Options_V2.php:840
+msgid "If enabled, in the case of Courses, WooCommerce Orders will get the \"Completed\" status ."
+msgstr "有効にすると、コースの場合、WooCommerce の注文は「完了」ステータスになります。"
+
+#: classes/Options_V2.php:837
+msgid "Automatically Complete WooCommerce Orders"
+msgstr "WooCommerce の注文を自動的に完了にする"
+
+#: classes/Options_V2.php:766
+msgid "The highest number of attempts allowed for students to participate a quiz. 0 means unlimited. This will work as the default Quiz Attempt limit in case of Quiz Retry Mode."
+msgstr "生徒がクイズに参加できる最高回答回数。0は無制限。クイズリトライモードの場合、デフォルトの回答回数制限として動作します。"
+
+#: classes/Options_V2.php:764
+msgid "Default Quiz Attempt limit (when Retry Mode is enabled)"
+msgstr "デフォルトのクイズ試行回数制限 (再試行モードが有効な場合)"
+
+#: classes/Options_V2.php:565
+msgid "This page will be used as the Terms and Conditions page"
+msgstr "このページは利用規約のページとして使用されます。"
+
+#: classes/Options_V2.php:562
+msgid "Terms and Conditions Page"
+msgstr "利用規約ページ"
+
+#: views/modal/edit_quiz.php:147
+msgid "Reattempt quiz any number of times. Define Attempts Allowed below."
+msgstr "何度でも小テストを再試行できます。以下で再受験可能回数を定義。"
+
+#: classes/Options_V2.php:649
+msgid "Enabling this feature will show a course content summary on the Course Details page."
+msgstr "この機能を有効にすると、コース詳細ページにコース内容の概要が表示されます。"
+
+#: classes/Options_V2.php:647
+msgid "Content Summary"
+msgstr "コンテンツ概要"
+
+#: templates/permission-denied.php:28
+msgid "You don't have permission to access this page"
+msgstr "このページにアクセスする権限がありません。"
+
+#: templates/login-form.php:101
+msgid "Register Now"
+msgstr "今すぐ登録"
+
+#: classes/Utils.php:7259
+msgid "Set Withdraw Method"
+msgstr "引き出し方法の設定"
+
+#: classes/Utils.php:7254
+msgid "Set Your Bio"
+msgstr "経歴を設定"
+
+#: classes/Utils.php:7253
+msgid "Set Your Profile Photo"
+msgstr "プロフィール写真を設定"
+
+#: classes/Options_V2.php:1004
+msgid "Set the number of courses to display per page on the Course List page."
+msgstr "コース一覧ページで1ページに表示するコース数を設定。"
+
+#: classes/Options_V2.php:587
+msgid "Set the number of rows to be displayed per page"
+msgstr "1 ページに表示する行数を設定。"
+
+#: classes/Dashboard.php:102
+msgid "You are not allowed to publish course"
+msgstr "コースの公開が許可されていません。"
+
+#: views/qna/qna-single.php:192
+msgid "Do You Want to Delete This Question?"
+msgstr "この質問を削除しますか?"
+
+#: views/pages/uninstall.php:20
+msgid "Deactivate"
+msgstr "無効化"
+
+#: views/options/field-types/upload_half.php:35
+msgid "Image size ratio: 4:1"
+msgstr "画像サイズ比:4:1"
+
+#: views/options/field-types/upload_half.php:33
+msgid "jpg, .jpeg, .png"
+msgstr "jpg, .jpeg, .png"
+
+#: views/options/field-types/checkbox.php:15
+msgid "Logged Only"
+msgstr "ログのみ"
+
+#: views/metabox/course-additional-data.php:20
+msgid "Invalid post type"
+msgstr "無効な投稿タイプ"
+
+#: views/elements/common-confirm-popup.php:31
+msgid "Are you sure you want to delete this permanently from the site? Please confirm your choice."
+msgstr "これをサイトから完全に削除してもよろしいですか ? 選択内容をご確認ください。"
+
+#: views/elements/common-confirm-popup.php:30
+msgid "Do You Want to Delete This?"
+msgstr "これを削除しますか?"
+
+#: templates/single/quiz/top.php:134
+msgid "Do You Want to Skip This Quiz?"
+msgstr "このクイズをスキップしますか?"
+
+#: templates/single/lesson/complete_form.php:29
+msgid "Mark as Complete"
+msgstr "完了にします"
+
+#: templates/single/course/lead-info.php:78
+msgid "Categories:"
+msgstr "カテゴリー:"
+
+#: templates/modal/alert.php:37
+msgid "Ok"
+msgstr "OK"
+
+#: templates/instructor/cover.php:16
+msgid "Instructor Cover Photo"
+msgstr "講師カバー写真"
+
+#: templates/dashboard/reviews/given-reviews.php:137
+msgid "Do You Want to Delete This Review?"
+msgstr "このレビューを削除しますか?"
+
+#: templates/dashboard/dashboard.php:63
+msgid "Thanks for completing your profile"
+msgstr "あなたのプロフィールを完成させてくれてありがとう"
+
+#: templates/dashboard/dashboard.php:61
+msgid "You are almost done"
+msgstr "もう少しで完了です"
+
+#: templates/dashboard/dashboard.php:59
+msgid "Please complete profile"
+msgstr "プロフィールを記入してください"
+
+#: templates/dashboard/assignments/review.php:141
+msgid "Evaluate mark can not be greater than total mark"
+msgstr "評価マークは合計マークより大きくすることはできません"
+
+#: includes/translate-text.php:123
+msgctxt "true/false question options"
+msgid "False"
+msgstr "無効"
+
+#: includes/translate-text.php:120
+msgctxt "true/false question options"
+msgid "True"
+msgstr "有効"
+
+#: classes/Options_V2.php:1442
+msgid "Choose a color for elements like table, card etc"
+msgstr "テーブル、カードなどの要素の色を選択する"
+
+#: classes/Options_V2.php:1440
+msgid "Gray"
+msgstr "グレー"
+
+#: classes/Ajax.php:639
+msgid "Something Went Wrong!"
+msgstr "何かがうまくいかなかったようです。"
+
+#: views/options/template/tutor_pages.php:22
+msgid "All Pages"
+msgstr "固定ページ一覧"
+
+#: templates/single/lesson/sidebar_question_and_answer.php:48
+msgid "Describe what you're trying to achieve and where you're getting stuck"
+msgstr "何を解決したいのか、どこでつまずいているのか、説明してください。"
+
+#: templates/single/course/course-benefits.php:23
+msgid "What Will You Learn?"
+msgstr "この講義で何を学べるか ?"
+
+#: templates/dashboard/assignments.php:34 views/metabox/course-contents.php:154
+#: views/metabox/course-topics.php:135
+msgid "Assignment"
+msgstr "課題"
+
+#: classes/Tutor_Setup.php:441
+msgid "Allow users to have a instructor profile to showcase awards and completed courses."
+msgstr "ユーザが教員プロファイルを作成して、賞や修了したコースを紹介できるようにします。"
+
+#: classes/Course_List.php:347
+msgid "Course delete failed "
+msgstr "コースの削除に失敗"
+
+#: classes/Course_List.php:345
+msgid "Course has been deleted "
+msgstr "コースが削除されました "
+
+#: views/quiz/header-context/course-single-previous-attempts.php:49
+msgid "Passing Marks"
+msgstr "合格点数"
+
+#: views/quiz/attempt-details.php:29
+msgid "Attempt not found or access permission denied"
+msgstr "試行が見つからないか、アクセス許可が拒否されました"
+
+#: views/qna/qna-table.php:144
+msgid "Mark as read"
+msgstr "既読にする"
+
+#: views/qna/qna-table.php:141 views/qna/qna-table.php:144
+msgid "Mark as Unread"
+msgstr "未読にする"
+
+#: views/qna/qna-table.php:141
+msgid "Mark as Read"
+msgstr "既読にする"
+
+#: views/qna/qna-table.php:132 views/qna/qna-table.php:135
+msgid "Un-archive"
+msgstr "記録解除"
+
+#: views/qna/qna-table.php:116
+msgid "Unresolved Yet"
+msgstr "未解決"
+
+#: views/qna/qna-table.php:67
+msgid "Mark this conversation as important"
+msgstr "この会話を重要としてマークする"
+
+#: views/qna/qna-table.php:67
+msgid "This conversation is important"
+msgstr "この会話は重要です"
+
+#: views/qna/qna-single.php:171
+msgid "Write here..."
+msgstr "ここに記入…"
+
+#: views/qna/qna-single.php:74 views/qna/qna-single.php:76
+msgid "Un-Archive"
+msgstr "記録解除"
+
+#: includes/translate-text.php:34 views/qna/qna-single.php:71
+msgid "Important"
+msgstr "重要"
+
+#: views/qna/qna-single.php:66 views/qna/qna-table.php:116
+msgid "Solved"
+msgstr "解決済"
+
+#: views/qna/qna-single.php:193 views/qna/qna-table.php:172
+msgid "All the replies also will be deleted."
+msgstr "すべての返信も削除されます。"
+
+#: views/qna/qna-new.php:49
+msgid "Ask Question"
+msgstr "質問する"
+
+#: views/qna/contexts.php:19
+msgid "Waiting Since"
+msgstr "待機中"
+
+#: views/pages/withdraw_requests.php:434
+msgid "Yes, Reject Withdrawal"
+msgstr "はい、出金を拒否"
+
+#: views/pages/withdraw_requests.php:422 views/pages/withdraw_requests.php:423
+msgid "Other"
+msgstr "その他"
+
+#: views/pages/withdraw_requests.php:419 views/pages/withdraw_requests.php:420
+msgid "Invalid Request"
+msgstr "無効なリクエスト"
+
+#: views/pages/withdraw_requests.php:416 views/pages/withdraw_requests.php:417
+msgid "Invalid Payment Details"
+msgstr "無効な支払いの詳細"
+
+#: views/pages/withdraw_requests.php:376
+msgid "Yes, Approve Withdrawal"
+msgstr "はい、出金を承認"
+
+#: views/pages/withdraw_requests.php:368
+msgid "Approve Withdrawal?"
+msgstr "出金を承認しますか?"
+
+#: views/pages/withdraw_requests.php:309
+msgid "No request found"
+msgstr "要求が見つかりません"
+
+#: views/pages/withdraw_requests.php:218
+msgid "BIC/SWIFT:"
+msgstr "申し送り事項"
+
+#: views/pages/withdraw_requests.php:199
+msgid "IBAN:"
+msgstr "IBANコード"
+
+#: views/pages/withdraw_requests.php:191
+msgid "Bank Name:"
+msgstr "銀行名:"
+
+#: views/pages/withdraw_requests.php:184 views/pages/withdraw_requests.php:211
+msgid "Copy"
+msgstr "コピー"
+
+#: views/pages/withdraw_requests.php:172
+msgid "A/C Number:"
+msgstr "エアコン番号:"
+
+#: views/pages/withdraw_requests.php:164
+msgid "Name:"
+msgstr "名前:"
+
+#: views/pages/withdraw_requests.php:95
+msgid "Withdraw Details"
+msgstr "出金の詳細"
+
+#: views/pages/withdraw_requests.php:85
+msgid "Request Date"
+msgstr "要求日"
+
+#: views/pages/tutor-pro-addons.php:59
+msgid "Search…"
+msgstr "検索する…"
+
+#: views/pages/tutor-pro-addons.php:46
+msgid "Buy Pro"
+msgstr "プロ版を購入"
+
+#: views/pages/tutor-pro-addons.php:41
+msgid "Advanced customization options for each add-on"
+msgstr "各アドオンの高度なカスタマイズオプション"
+
+#: views/pages/tutor-pro-addons.php:36
+msgid "Easy enable options for the features you need"
+msgstr "必要な機能の簡単な有効化オプション"
+
+#: views/pages/tutor-pro-addons.php:31
+msgid "Enjoy all popular add-ons under a single price"
+msgstr "単一の価格ですべての人気のアドオンをお楽しみください"
+
+#: views/pages/tutor-pro-addons.php:28
+msgid "Get All of Our Addons for a Single Price"
+msgstr "すべてのアドオンを単一の価格で入手"
+
+#: views/pages/instructors.php:443
+msgid "Invalid instructor"
+msgstr "無効なインストラクター"
+
+#: views/pages/instructors.php:432
+msgid "Attempted invalid action"
+msgstr "無効なアクションが試行されました"
+
+#: views/pages/instructors.php:416 views/pages/instructors.php:420
+msgid "Reject the Application"
+msgstr "申請を却下する"
+
+#: views/pages/instructors.php:413 views/pages/instructors.php:424
+msgid "Approve the Instructor"
+msgstr "インストラクターの承認"
+
+#: views/pages/instructors.php:402
+msgid "Email:"
+msgstr "メール:"
+
+#: views/pages/instructors.php:395
+msgid "Username:"
+msgstr "ユーザー名:"
+
+#: views/pages/instructors.php:376
+msgid "You can either accept or reject the application. The applicant will be notified via email either way."
+msgstr "申請を承諾または却下することができます。いずれの方法でも申請者に電子メールで通知されます。"
+
+#: views/pages/instructors.php:373
+msgid "A New Instructor Just Signed Up"
+msgstr "新しいインストラクターがサインアップしたばかり"
+
+#: views/pages/instructors.php:342
+msgid "Add Instructor"
+msgstr "インストラクターの追加"
+
+#: views/pages/instructors.php:329
+msgid "Write Your Bio..."
+msgstr "あなたのバイオを書く..."
+
+#: views/pages/instructors.php:325
+msgid "(Optional)"
+msgstr "(オプション)"
+
+#: views/pages/instructors.php:309
+msgid "Retype Password"
+msgstr "パスワード再入力 (確認用)"
+
+#: views/pages/instructors.php:281
+msgid "Only number is allowed"
+msgstr "数字を入力してください"
+
+#: views/pages/instructors.php:273
+msgid "Only alphanumeric and underscore are allowed"
+msgstr "英数字とアンダースコアのみが許可されています"
+
+#: views/pages/instructors.php:255 views/pages/instructors.php:263
+msgid "Only alphanumeric & space are allowed"
+msgstr "英数字とスペースのみが許可されています"
+
+#: views/pages/course-list.php:319
+msgid "Update course status"
+msgstr "コースステータスの更新"
+
+#: views/pages/course-list.php:237
+msgid "Lesson:"
+msgstr "レッスン:"
+
+#: views/pages/course-list.php:230
+msgid "Topic:"
+msgstr "トピック:"
+
+#: views/options/template/import_export.php:154
+msgid "Reset All Settings"
+msgstr "すべての設定をリセット"
+
+#: views/options/template/import_export.php:153
+msgid "WARNING! This will reset all settings to default, please proceed with caution."
+msgstr "警告！これにより、すべての設定がデフォルトにリセットされますので、注意して続行してください。"
+
+#: views/options/template/import_export.php:152
+msgid "Reset All Settings?"
+msgstr "すべてをリセットしますか?"
+
+#: views/options/template/import_export.php:151
+msgid "Yes, Reset Settings"
+msgstr "はい、設定のリセット"
+
+#: views/options/template/import_export.php:145
+msgid "It will revert all settings to initial setup."
+msgstr "すべての設定が初期設定に戻ります。"
+
+#: views/options/template/import_export.php:143
+msgid "Reset Everything to Default"
+msgstr "すべてをデフォルトにリセット"
+
+#: views/options/template/import_export.php:138
+msgid "Reset Settings"
+msgstr "設定をリセット"
+
+#: views/options/template/import_export.php:129
+msgid "No settings data found."
+msgstr "設定データが見つかりません。"
+
+#: views/options/template/import_export.php:116
+msgid "WARNING! This will remove the settings history data from your system, please proceed with caution."
+msgstr "警告！これにより、システムから設定履歴データが削除されますので、慎重に進めてください。"
+
+#: views/options/template/import_export.php:116
+msgid "Delete This Settings?"
+msgstr "この設定を削除しますか?"
+
+#: views/options/template/import_export.php:116
+msgid "Yes, Delete Settings"
+msgstr "はい、設定を削除"
+
+#: views/options/template/import_export.php:112
+msgid "Download"
+msgstr "ダウンロード"
+
+#: views/options/template/import_export.php:103
+msgid "Restore Previous Settings?"
+msgstr "以前の設定を復元しますか?"
+
+#: views/options/template/import_export.php:103
+msgid "Yes, Restore Settings"
+msgstr "はい、設定の復元"
+
+#: views/options/template/import_export.php:79
+msgid "Settings History"
+msgstr "設定履歴"
+
+#: views/options/template/import_export.php:71
+msgid "Update Settings"
+msgstr "設定を更新"
+
+#: views/options/template/import_export.php:70
+#: views/options/template/import_export.php:103
+msgid "WARNING! This will overwrite all existing settings, please proceed with caution."
+msgstr "警告！これにより、既存の設定がすべて上書きされますので、慎重に進めてください。"
+
+#: views/options/template/import_export.php:69
+msgid "Import from Previous Settings?"
+msgstr "以前の設定からインポートしますか?"
+
+#: views/options/template/import_export.php:68
+msgid "Yes, Import Settings"
+msgstr "はい、インポート設定"
+
+#: views/options/template/import_export.php:57
+msgid "Or"
+msgstr "または"
+
+#: views/options/template/import_export.php:57
+msgid "File Format"
+msgstr "ファイル形式"
+
+#: views/options/template/import_export.php:56
+msgid "Drag &amp; Drop your JSON File here"
+msgstr "ここにJSONファイルをドラッグ&amp;ドロップする"
+
+#: views/options/template/import_export.php:48
+msgid "Import Settings"
+msgstr "設定のインポート"
+
+#: views/options/template/import_export.php:40
+msgid "Export Settings"
+msgstr "設定のエクスポート"
+
+#: views/options/template/import_export.php:34
+msgid "Current Settings"
+msgstr "現在の設定"
+
+#: views/options/template/import_export.php:28
+msgid "Export"
+msgstr "エクスポート"
+
+#: views/options/template/import_export.php:21
+msgid "Warning: Importing, Restoring, or Resetting will overwrite ALL existing settings. Please proceed with caution."
+msgstr "警告: インポート、復元、またはリセットすると、既存の設定がすべて上書きされます。慎重に進めてください。"
+
+#: views/options/settings.php:31
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: views/options/settings.php:24
+msgid "Search ...⌃⌥ + S or Alt+S for shortcut"
+msgstr "検索 … ⌃⌥ + S または Alt+S でショートカット"
+
+#: views/modal/topic-form.php:44
+msgid "Add a summary of short text to prepare students for the activities for the topic. The text is shown on the course page beside the tooltip beside the topic name."
+msgstr "受講生がトピックの内容を準備できる様な概要や短文を追加します。このテキストは、コースページのトピック名の横にあるツールチップの横に表示されます。"
+
+#: views/modal/question_form.php:41
+msgid "Select your question type"
+msgstr "質問タイプを選択する"
+
+#: templates/login-form.php:99
+msgid "Don't have an account?"
+msgstr "アカウントをまだお持ちではありませんか ?"
+
+#: templates/login-form.php:86
+msgid "Sign In"
+msgstr "サインイン"
+
+#: templates/login-form.php:80
+msgid "Forgot?"
+msgstr "パスワードをお忘れの方"
+
+#: templates/login-form.php:76
+msgid "Keep me signed in"
+msgstr "ログイン状態を保存する"
+
+#: templates/login.php:34 views/modal/login.php:24
+msgid "Hi, Welcome back!"
+msgstr "おかえりなさい！また学習を始めましょう！"
+
+#: views/modal/edit_quiz.php:204
+msgid "Advance Settings"
+msgstr "高度な設定"
+
+#: views/modal/edit_quiz.php:15
+msgid "Quiz Title"
+msgstr "クイズタイトル"
+
+#: views/modal/edit-lesson.php:40
+msgid "WP Editor"
+msgstr "WP エディター"
+
+#: views/modal/edit-lesson.php:34
+msgid "Lesson Content"
+msgstr "レッスン内容"
+
+#: views/modal/edit-lesson.php:27
+msgid "Lesson titles are displayed publicly wherever required."
+msgstr "レッスンのタイトルは、必要に応じて公開されます。"
+
+#: views/modal/edit-lesson.php:23
+msgid "Lesson Name"
+msgstr "レッスン名"
+
+#: views/metabox/video-metabox.php:187
+msgid "Paste Vimeo Video URL"
+msgstr "Vimeo ビデオの URL を貼り付ける"
+
+#: views/metabox/video-metabox.php:183
+msgid "Paste YouTube Video URL"
+msgstr "ユーチューブ動画のURLを貼り付ける"
+
+#: views/metabox/video-metabox.php:179
+msgid "Paste Shortcode"
+msgstr "ショートコードを貼り付ける"
+
+#: views/metabox/video-metabox.php:175
+msgid "Paste External Video URL"
+msgstr "外部ビデオのURLを貼り付ける"
+
+#: views/metabox/video-metabox.php:160
+msgid "Upload Video Poster"
+msgstr "ビデオポスターのアップロード"
+
+#: views/metabox/video-metabox.php:133
+#: views/options/template/import_export.php:60
+msgid "Browse File"
+msgstr "ファイルの参照"
+
+#: views/metabox/video-metabox.php:129
+msgid "or"
+msgstr "または"
+
+#: views/metabox/video-metabox.php:127
+msgid "Drag & Drop Your Video"
+msgstr "動画をドラッグ&ドロップする"
+
+#: views/metabox/video-metabox.php:36
+msgid "No video source selected from settings!"
+msgstr "設定でビデオのソースが指定されていません。"
+
+#: views/metabox/course-topics.php:149
+msgid "Update Assignment"
+msgstr "課題の更新"
+
+#: views/metabox/course-topics.php:93
+msgid "Add to Questions"
+msgstr "質問に追加"
+
+#: views/metabox/course-topics.php:90
+msgid "Save & Next"
+msgstr "保存と次へ"
+
+#: views/metabox/course-contents.php:65
+msgid "Un-assigned Topic Contents"
+msgstr "割り当てられていないトピックの内容"
+
+#: views/metabox/course-additional-data.php:39
+msgid "Write here the course benefits (One per line)"
+msgstr "ここにコースの特典を記入してください (1行に1つずつ)"
+
+#: views/metabox/course-add-product-metabox.php:15
+msgid "Sell your product, process by WooCommerce"
+msgstr "あなたの製品を販売し、ウーコマースによるプロセス"
+
+#: views/options/field-types/upload_half.php:32
+msgid "File Support"
+msgstr "ファイルのサポート"
+
+#: views/fragments/thumbnail-uploader.php:42
+msgid "700x430 pixels"
+msgstr "700 x 430 ピクセル"
+
+#: views/fragments/announcement-list.php:337
+msgid "Edit Announcement"
+msgstr "お知らせの編集"
+
+#: views/pages/tools/manage-tokens.php:47 views/qna/contexts.php:21
+msgid "Action"
+msgstr "操作"
+
+#: views/fragments/announcement-list.php:214
+msgid "Are you sure you want to delete this Announcement permanently from the site? Please confirm your choice."
+msgstr "このアナウンスメントをサイトから完全に削除してもよろしいですか?選択内容をご確認ください。"
+
+#: views/fragments/announcement-list.php:213
+msgid "Delete This Announcement?"
+msgstr "このアナウンスメントを削除しますか?"
+
+#: views/fragments/announcement-list.php:153
+msgid "Published Date"
+msgstr "公開日"
+
+#: views/elements/filters.php:126
+msgid "No record found"
+msgstr "情報が見つかりません"
+
+#: views/elements/filters.php:118
+msgid "All Category"
+msgstr "すべてのカテゴリー"
+
+#: views/elements/filters.php:79
+msgid "Reset"
+msgstr "リセット"
+
+#: views/elements/bulk-confirm-popup.php:36
+#: views/elements/common-confirm-popup.php:68
+msgid "Yes, I'am Sure"
+msgstr "はい、理解して削除します"
+
+#: views/elements/bulk-confirm-popup.php:25
+msgid "Are you sure you would like to perform this action? We suggest you proceed with caution."
+msgstr "本当にこの操作を実行しますか ? 注意して操作を行ってください。"
+
+#: views/course-share.php:45
+msgid "Share On Social Media"
+msgstr "ソーシャルメディアでシェア"
+
+#: views/course-share.php:38
+msgid "Page Link"
+msgstr "ページリンク"
+
+#: views/course-share.php:35
+msgid "Share Course"
+msgstr "コースをシェアする"
+
+#: templates/single/quiz/top.php:137
+msgid "Yes, Skip This"
+msgstr "はい、これをスキップ"
+
+#: templates/single/quiz/top.php:135
+msgid "Are you sure you want to skip this quiz? Please confirm your choice."
+msgstr "このクイズをスキップしてもよろしいですか?選択内容をご確認ください。"
+
+#: templates/single/quiz/top.php:125
+msgid "Skip Quiz"
+msgstr "クイズをスキップ"
+
+#: templates/single/quiz/parts/meta.php:33 templates/single/quiz/top.php:91
+msgid "Total Attempted"
+msgstr "試行回数の合計"
+
+#: templates/single/quiz/top.php:77
+msgid "Week"
+msgstr "週"
+
+#: includes/translate-text.php:129 templates/single/quiz/top.php:76
+msgid "Day"
+msgstr "日"
+
+#: includes/translate-text.php:135 templates/single/quiz/top.php:75
+#: views/metabox/course-additional-data.php:55
+#: views/metabox/video-metabox.php:206
+msgid "Hour"
+msgstr "時間"
+
+#: includes/translate-text.php:141 templates/single/quiz/top.php:74
+#: views/metabox/course-additional-data.php:59
+#: views/metabox/video-metabox.php:210
+msgid "Minute"
+msgstr "分"
+
+#: includes/translate-text.php:147 templates/single/quiz/top.php:73
+#: views/metabox/video-metabox.php:214
+msgid "Second"
+msgstr "秒"
+
+#: templates/single/quiz/parts/question.php:194
+msgid "Skip Question"
+msgstr "質問をスキップ"
+
+#: templates/single/quiz/parts/question.php:190
+msgid "Submit &amp; Next"
+msgstr "送信と次へ"
+
+#: templates/single/quiz/parts/meta.php:22
+msgid "Questions No"
+msgstr "質問"
+
+#: templates/single/quiz/parts/image-matching.php:59
+#: templates/single/quiz/parts/matching.php:85
+msgid "Drag your answer"
+msgstr "答えをドラッグする"
+
+#: templates/single/lesson/content.php:153
+msgid "About Lesson"
+msgstr "レッスン内容"
+
+#: templates/single/lesson/content.php:140
+msgid "Comments"
+msgstr "コメント"
+
+#: templates/single/lesson/content.php:127
+#: templates/single/lesson/content.php:169
+msgid "Exercise Files"
+msgstr "演習ファイル"
+
+#: templates/single/lesson/comment.php:73
+msgid "Join the conversation"
+msgstr "会話に参加する"
+
+#: templates/single/course/enrolled/question_and_answer.php:67
+#: templates/single/course/reviews.php:147
+#: templates/single/lesson/comment.php:39
+msgid "Load More"
+msgstr "さらに表示"
+
+#: templates/single/course/reviews.php:82
+msgid " Rating"
+msgid_plural " Ratings"
+msgstr[0] "　評価"
+
+#: templates/single/course/reviews.php:80
+msgid "Total "
+msgstr "合計 "
+
+#: templates/single/course/reviews.php:63
+msgid "No Review Yet"
+msgstr "評価がありません"
+
+#: templates/single/course/lead-info.php:92
+msgid "Uncategorized"
+msgstr "未分類"
+
+#: templates/dashboard/enrolled-courses.php:69
+#: templates/dashboard/settings/nav-bar.php:54
+#: templates/single/course/enrolled/nav.php:34 views/elements/navbar.php:67
+#: views/options/template/tab.php:42
+msgid "More"
+msgstr "もっと"
+
+#: templates/single/course/course-target-audience.php:24
+msgid "Audience"
+msgstr "受講対象者"
+
+#: templates/single/course/course-entry-box.php:231
+msgid "Free access this course"
+msgstr "このコースは無料です"
+
+#: templates/single/course/course-entry-box.php:199
+msgid "This course is full right now. We limit the number of students to create an optimized and productive group dynamic."
+msgstr "このコースは定員に達しています。 最適化され、生産的なグループを動的に作るため、受講生の数を制限しています。"
+
+#: templates/single/course/course-entry-box.php:165
+msgid "You enrolled in this course on"
+msgstr "コース登録日"
+
+#: templates/single/course/course-entry-box.php:85
+msgid "Course Progress"
+msgstr "講座の進捗状況"
+
+#: templates/single/course/course-entry-box.php:41
+#: templates/single/course/course-entry-box.php:42
+msgid "Last Updated"
+msgstr "最終更新"
+
+#: templates/single/assignment/content.php:601
+msgid "Continue Lesson"
+msgstr "レッスンを続ける"
+
+#: templates/single/assignment/content.php:515
+msgid "Your Assignment"
+msgstr "提出済み課題"
+
+#: templates/single/assignment/content.php:388
+#: templates/single/assignment/content.php:619
+msgid "Skip To Next"
+msgstr "次へ"
+
+#: templates/single/assignment/content.php:311
+msgid "MB"
+msgstr "MB"
+
+#: templates/single/assignment/content.php:308
+msgid "Total File Size: Max"
+msgstr "合計ファイルサイズ: 最大"
+
+#: templates/single/assignment/content.php:304
+msgid "Any standard Image, Document, Presentation, Sheet, PDF or Text file is allowed"
+msgstr "一般的なイメージ、文書、プレゼンテーション、シート、PDF やテキストが許可されています"
+
+#: templates/single/assignment/content.php:302
+#: views/fragments/thumbnail-uploader.php:47
+#: views/fragments/thumbnail-uploader.php:52
+msgid "File Support: "
+msgstr "ファイル形式: "
+
+#: templates/single/assignment/content.php:293
+msgid "Choose file"
+msgstr "ファイルを選択"
+
+#: templates/single/assignment/content.php:252
+msgid "Assignment Submission"
+msgstr "課題提出"
+
+#: templates/single/assignment/content.php:225
+#: views/fragments/thumbnail-uploader.php:35
+#: views/fragments/thumbnail-uploader.php:40
+msgid "Size: "
+msgstr "サイズ: "
+
+#: templates/single/assignment/content.php:160
+msgid "Passing Mark:"
+msgstr "合格点数:"
+
+#: templates/single/assignment/content.php:148
+msgid "N\\A"
+msgstr "該当なし"
+
+#: templates/single/assignment/content.php:138
+msgid "Deadline:"
+msgstr "締め切り:"
+
+#: templates/single/common/header.php:58
+msgid "of "
+msgstr "/ "
+
+#: templates/single/common/header.php:53
+msgid "Your Progress:"
+msgstr "進行度:"
+
+#: templates/shortcode/instructor-filter.php:114
+msgid "Sort by"
+msgstr "並び順"
+
+#: templates/shortcode/instructor-filter.php:78
+#: templates/single/assignment/content.php:379
+#: templates/single/assignment/content.php:590
+#: templates/single/course/course-content.php:41
+#: views/options/template/color_picker.php:106
+msgid "Show More"
+msgstr "さらに表示"
+
+#: templates/shortcode/instructor-filter.php:51
+msgid "Clear"
+msgstr "クリア"
+
+#: templates/shortcode/instructor-filter.php:45
+msgid "Filters"
+msgstr "フィルタ"
+
+#: templates/shortcode/instructor-filter.php:20
+msgid "Popular"
+msgstr "人気"
+
+#: templates/shortcode/instructor-filter.php:19
+msgid "New"
+msgstr "New"
+
+#: templates/shortcode/instructor-filter.php:18
+msgid "Relevant"
+msgstr "人気順"
+
+#: templates/loop/course-price-edd.php:57
+#: templates/loop/course-price-woocommerce.php:63
+#: templates/loop/course-price.php:57
+msgid "% Booked"
+msgstr "% 予約済み"
+
+#: templates/loop/course-continue.php:35
+#: templates/single/course/course-entry-box.php:129
+msgid "Continue Learning"
+msgstr "コースを続ける"
+
+#: templates/course-embed.php:95 templates/loop/course-author.php:32
+#: templates/loop/meta.php:53
+#: templates/single/course/enrolled/announcements.php:34
+#: templates/single/course/lead-info.php:72
+msgid "By"
+msgstr "By"
+
+#: templates/global/attachments.php:45
+msgid "No Attachment Found"
+msgstr "添付ファイルが見つかりません"
+
+#: templates/global/alert.php:27
+msgid "Please define alert class"
+msgstr "アラートクラスを定義してください"
+
+#: templates/dashboard/settings/social-profile.php:21
+msgid "Social Profile Link"
+msgstr "SNSリンク"
+
+#: templates/dashboard/settings/reset-password.php:66
+msgid "Re-type New Password"
+msgstr "パスワード再入力（確認用）"
+
+#: templates/dashboard/settings/profile.php:156
+msgid "UX Designer"
+msgstr "UXデザイナー"
+
+#: templates/dashboard/settings/nav-bar.php:35
+msgid "Social Profile"
+msgstr "SNS"
+
+#: templates/dashboard/reviews/given-reviews.php:138
+msgid "Are you sure you want to delete this review permanently from the site? Please confirm your choice."
+msgstr "このレビューをサイトから完全に削除してもよろしいですか?選択内容をご確認ください。"
+
+#: templates/dashboard/purchase_history.php:54
+msgid "Yearly"
+msgstr "毎年"
+
+#: templates/dashboard/purchase_history.php:49
+msgid "Monthly"
+msgstr "月"
+
+#: templates/dashboard/my-profile.php:34
+#: templates/dashboard/settings/profile.php:154
+msgid "Skill/Occupation"
+msgstr "スキル / 職業"
+
+#: templates/dashboard/my-profile.php:30
+msgid "-"
+msgstr "-"
+
+#: templates/dashboard/my-courses.php:294
+msgid "Are you sure you want to delete this course permanently from the site? Please confirm your choice."
+msgstr "このコースをこのサイトから完全に消去してもよろしいですか？再確認してください。"
+
+#: templates/dashboard/instructor/logged-in.php:42
+msgid "Instructor Application Received"
+msgstr "講師の申請書類を受け取りました"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:41
+msgid "Apply Now"
+msgstr "今すぐ申し込む"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:35
+msgid "Tell us your qualifications, show us your passion, and begin teaching with us!"
+msgstr "あなたの持つ資格を教えてください、情熱を見せてください、一緒に教え始めましょう！"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:29
+msgid "Do you want to start your career as an instructor?"
+msgstr "講師としてのキャリアをスタートしたいですか？"
+
+#: templates/dashboard/instructor/apply_for_instructor.php:22
+msgid "Instructor Application"
+msgstr "インストラクターアプリケーション"
+
+#: templates/dashboard/elements/pagination.php:53
+#: views/elements/pagination.php:16
+msgid "Page"
+msgstr "ページ"
+
+#: templates/dashboard/dashboard.php:340
+msgid "View All"
+msgstr "すべてを見る"
+
+#: templates/dashboard/dashboard.php:299
+msgid "lesson"
+msgid_plural "lessons"
+msgstr[0] "レッスン"
+
+#: templates/dashboard/dashboard.php:295
+#: templates/dashboard/elements/pagination.php:57
+#: views/elements/pagination.php:20
+msgid "of"
+msgstr "/"
+
+#: templates/dashboard/dashboard.php:256
+msgid "In Progress Courses"
+msgstr "進行中のコース"
+
+#: templates/dashboard/assignments/review.php:146
+#: templates/dashboard/reviews.php:60
+msgid "Feedback"
+msgstr "フィードバック"
+
+#: templates/dashboard/assignments/review.php:110
+#: templates/global/attachments.php:30
+#: templates/single/assignment/content.php:552
+#: views/fragments/attachments.php:30
+msgid "Size"
+msgstr "サイズ"
+
+#: templates/dashboard/assignments.php:77
+msgid "Assignment Name"
+msgstr "課題名"
+
+#: templates/dashboard.php:60
+msgid "Menu"
+msgstr "メニュー"
+
+#: templates/course-filter/filters.php:143
+msgid "Clear All Filters"
+msgstr "すべてのフィルターをクリア"
+
+#: includes/tutor-template-functions.php:1366
+msgid "second"
+msgstr "秒"
+
+#: includes/tutor-template-functions.php:1366
+msgid "s"
+msgstr "秒"
+
+#: includes/tutor-template-functions.php:1365
+msgid "minute"
+msgstr "分"
+
+#: includes/tutor-template-functions.php:1365
+msgid "m"
+msgstr "m"
+
+#: includes/tutor-template-functions.php:1364
+msgid "hour"
+msgstr "時間"
+
+#: includes/tutor-template-functions.php:1364
+msgid "h"
+msgstr "時間"
+
+#: classes/Withdraw_Requests_List.php:47
+msgid "Withdraw Request"
+msgstr "振込申請"
+
+#: classes/Withdraw.php:213
+msgid "Withdrawal information saved!"
+msgstr "出金情報が保存されました!"
+
+#: classes/Utils.php:9014 templates/dashboard/purchase_history.php:83
+msgid "Order History"
+msgstr "注文履歴"
+
+#: classes/Utils.php:8915
+msgid "No Data Found from your Search/Filter"
+msgstr "検索 / フィルタからデータが見つかりません"
+
+#: classes/Utils.php:8914
+#: templates/single/lesson/sidebar_question_and_answer.php:43
+msgid "No Data Available in this Section"
+msgstr "このセクションで利用可能なデータはありません"
+
+#: classes/Utils.php:8550
+msgid "Custom"
+msgstr "カスタム"
+
+#: classes/Utils.php:8549
+msgid "Last 365 Days"
+msgstr "過去 365 日"
+
+#: classes/Utils.php:8548
+msgid "Last 90 Days"
+msgstr "過去 90 日"
+
+#: classes/Utils.php:8547
+msgid "Last 30 Days"
+msgstr "過去30日間"
+
+#: classes/Utils.php:8546 templates/dashboard/purchase_history.php:44
+msgid "Today"
+msgstr "今日"
+
+#: includes/translate-text.php:117 views/pages/course-list.php:134
+msgid "Private"
+msgstr "非公開"
+
+#: includes/translate-text.php:77 includes/translate-text.php:81
+#: includes/translate-text.php:89 templates/dashboard/purchase_history.php:135
+msgid "Cancelled"
+msgstr "キャンセル済み"
+
+#: includes/translate-text.php:57
+msgid "Wrong"
+msgstr "不正解"
+
+#: classes/Utils.php:5576
+msgid "Github"
+msgstr "Github"
+
+#: classes/Utils.php:5571
+msgid "Website"
+msgstr "サイト"
+
+#: classes/Utils.php:5538 classes/Utils.php:5566
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: classes/Utils.php:5532 classes/Utils.php:5561
+msgid "Twitter"
+msgstr "Twitter"
+
+#: classes/Utils.php:5526 classes/Utils.php:5556
+msgid "Facebook"
+msgstr "Facebook"
+
+#: classes/Utils.php:4856
+msgid "Open Ended"
+msgstr "自由回答"
+
+#: classes/Utils.php:3638 templates/dashboard/dashboard.php:356
+msgid "Rating"
+msgstr "評価"
+
+#: classes/Utils.php:3638 templates/shortcode/instructor-filter.php:86
+msgid "Ratings"
+msgstr "評価"
+
+#: classes/Utils.php:1077
+msgid "Nonce not matched. Action failed!"
+msgstr "ノンスが一致しません。アクションが失敗しました!"
+
+#: classes/Tutor_Setup.php:837
+msgid "Let’s go to the next step."
+msgstr "次のステップに進みましょう。"
+
+#: classes/Tutor_Setup.php:835
+msgid "Not sure?"
+msgstr "本当に実行しますか ?"
+
+#: classes/Tutor_Setup.php:803
+msgid "Share solo journey as an educator and spread knowledge"
+msgstr "教育者としての単独旅を共有し、知識を拡げる"
+
+#: classes/Tutor_Setup.php:703
+msgid "Thank You for Choosing Us"
+msgstr "私たちを選んでくれてありがとう"
+
+#: classes/Tutor_Setup.php:670
+msgid "Finish Setup"
+msgstr "セットアップを終了します"
+
+#: classes/Tutor_Setup.php:610
+msgid "Explore Addons"
+msgstr "アドオンの詳細を見る"
+
+#: classes/Tutor_Setup.php:607 templates/dashboard.php:148
+msgid "Create a New Course"
+msgstr "新規コースを作成"
+
+#: classes/Tutor_Setup.php:456
+msgid "Example:  %s"
+msgstr "例: %s"
+
+#: classes/Tutor_Setup.php:455
+msgid "Lesson permalink"
+msgstr "レッスンのパーマリンク"
+
+#: classes/Tutor_Setup.php:449
+msgid "Student Profile"
+msgstr "受講生プロフィール"
+
+#: classes/Tutor_Setup.php:440
+msgid "Instructor Profile"
+msgstr "講師プロフィール"
+
+#: classes/Tutor_Setup.php:166
+msgid "Step"
+msgstr "ステップ"
+
+#: classes/Tools_V2.php:348
+msgid "Setup Wizard Settings"
+msgstr "セットアップウィザードの設定"
+
+#: classes/Tools_V2.php:326
+msgid "Tutor Pages Settings"
+msgstr "チューターページの設定"
+
+#: classes/Tools_V2.php:316
+msgid "Import/Export Settings"
+msgstr "設定のインポート / エクスポート"
+
+#: classes/Tools_V2.php:314 views/options/template/import_export.php:15
+msgid "Import/Export"
+msgstr "インポート/エクスポート"
+
+#: classes/Tools_V2.php:194
+msgid "WordPress Cron"
+msgstr "WordPress Cron"
+
+#: classes/Tools_V2.php:178
+msgid "Tutor version"
+msgstr "チューター版"
+
+#: classes/Tools_V2.php:110
+msgid "Status Settings"
+msgstr "ステータス設定"
+
+#: classes/Student.php:311
+msgid "Password Changed"
+msgstr "パスワードが変更されました"
+
+#: classes/Student.php:227
+msgid "Profile Updated"
+msgstr "プロフィールを更新しました。"
+
+#: classes/Shortcode.php:109
+msgid "Please %1$sSign-In%2$s to view this page"
+msgstr "このページを表示するには%1$sサインイン%2$sしてください"
+
+#: classes/Q_and_A.php:264
+msgid "Permission Denied!"
+msgstr "アクセス拒否。"
+
+#: classes/Q_and_A.php:67
+msgid "Empty Content Not Allowed!"
+msgstr "空のコンテンツは許可されていません!"
+
+#: classes/Quiz.php:1096
+msgid "Please make sure the question has answer"
+msgstr "質問に答えがあることを確認してください"
+
+#: classes/Quiz.php:941
+msgid "Quiz Permission Denied"
+msgstr "クイズの許可が拒否されました"
+
+#: classes/Quiz.php:172
+msgid "Invalid quiz info"
+msgstr "クイズ情報が無効"
+
+#: classes/Options_V2.php:1575
+msgid "Enable to use the tutor login modal instead of the default WordPress login page"
+msgstr "デフォルトの WordPress ログイン ページの代わりにチューター ログイン モーダルを使用できるようにする"
+
+#: classes/Options_V2.php:1572
+msgid "Enable Tutor Login"
+msgstr "チューターログインを有効にする"
+
+#: classes/Options_V2.php:1552
+msgid "Insert the YouTube API key to host live videos using YouTube."
+msgstr "YouTube API キーを挿入して、YouTube を使用してライブ動画をホストします。"
+
+#: classes/Options_V2.php:1522
+msgid "Choose the page for instructor registration."
+msgstr "講師登録のページを選択します。"
+
+#: classes/Options_V2.php:1506
+msgid "Enable to hide course products on shop page."
+msgstr "ショップページでコース商品を非表示にすることができます。"
+
+#: classes/Options_V2.php:1499
+msgid "Enable this to create courses using the Gutenberg Editor."
+msgstr "これを有効にすると、グーテンベルクエディタを使用してコースを作成できます。"
+
+#: classes/Options_V2.php:1485
+msgid "Advanced Settings"
+msgstr "高度な設定"
+
+#: classes/Options_V2.php:1483
+msgid "Advanced"
+msgstr "高度な設定"
+
+#: classes/Options_V2.php:1476
+msgid "Enable this option to use Tutor LMS video player for Vimeo."
+msgstr "このオプションを有効にすると、Vimeo の Tutor LMS ビデオプレーヤーを使用できます。"
+
+#: classes/Options_V2.php:1473
+msgid "Use Tutor Player for Vimeo"
+msgstr "Vimeoのチュータープレーヤーを使用する"
+
+#: classes/Options_V2.php:1468
+msgid "Enable this option to use Tutor LMS video player for YouTube."
+msgstr "YouTube用のチューターLMSビデオプレーヤーを使用するには、このオプションを有効にします。"
+
+#: classes/Options_V2.php:1465
+msgid "Use Tutor Player for YouTube"
+msgstr "YouTubeにチュータープレーヤーを使用する"
+
+#: classes/Options_V2.php:1451
+msgid "Choose a border color for your website"
+msgstr "ウェブサイトの罫線の色を選択する"
+
+#: classes/Options_V2.php:1449
+msgid "Border"
+msgstr "枠線"
+
+#: classes/Options_V2.php:1433
+msgid "Choose a text color for your website"
+msgstr "ウェブサイトのテキストの色を選択する"
+
+#: classes/Options_V2.php:1424
+msgid "Choose a primary hover color"
+msgstr "原色のホバー色を選択する"
+
+#: classes/Options_V2.php:1415
+msgid "Choose a primary color"
+msgstr "原色を選択する"
+
+#: classes/Options_V2.php:1278
+msgid "These colors will be used throughout your website. Choose between these presets or create your own custom palette."
+msgstr "これらの色はあなたのウェブサイト全体で使用されます。これらのプリセットから選択するか、独自のカスタムパレットを作成します。"
+
+#: classes/Options_V2.php:1277 classes/Options_V2.php:1406
+msgid "Preset Colors"
+msgstr "プリセットカラー"
+
+#: classes/Options_V2.php:1270
+msgid "Colors"
+msgstr "色"
+
+#: classes/Options_V2.php:1263
+msgid "Enable to show course review section"
+msgstr "コースの校閲セクションの表示を有効にする"
+
+#: classes/Options_V2.php:1255
+msgid "Enable to show course announcements section"
+msgstr "コース連絡事項セクションの表示を有効にする"
+
+#: classes/Options_V2.php:1247
+msgid "Enable to show course target audience section"
+msgstr "コースの対象読者セクションの表示を有効にする"
+
+#: classes/Options_V2.php:1239
+msgid "Enable to show courses requirements setion"
+msgstr "コース要件設定の表示を有効にする"
+
+#: classes/Options_V2.php:1231
+msgid "Enable to show course benefits section"
+msgstr "コース特典セクションの表示を有効にする"
+
+#: classes/Options_V2.php:1228
+msgid "Benefits"
+msgstr "メリット"
+
+#: classes/Options_V2.php:1223
+msgid "Enable to show course description"
+msgstr "コースの説明の表示を有効にする"
+
+#: classes/Options_V2.php:1215
+msgid "Enable to show course about section"
+msgstr "コース概要セクションの表示を有効にする"
+
+#: classes/Options_V2.php:1212
+msgid "About"
+msgstr "このサイトについて"
+
+#: classes/Options_V2.php:1207
+msgid "Enable to show course materials"
+msgstr "コース教材の表示を有効にする"
+
+#: classes/Options_V2.php:1204
+msgid "Material"
+msgstr "マテリアル"
+
+#: classes/Options_V2.php:1199
+msgid "Enable to show course progress for Students"
+msgstr "学生にコースの進捗状況を表示できるようにする"
+
+#: classes/Options_V2.php:1196
+msgid "Progress Bar"
+msgstr "進行状況バー"
+
+#: classes/Options_V2.php:1191
+msgid "Enable to show course update information"
+msgstr "コース更新情報の表示を有効にする"
+
+#: classes/Options_V2.php:1188
+msgid "Update Date"
+msgstr "更新日"
+
+#: classes/Options_V2.php:1183
+msgid "Enable to show total enrolled students"
+msgstr "登録学生数の表示を有効にする"
+
+#: classes/Options_V2.php:1175
+msgid "Enable to show course duration"
+msgstr "コース期間の表示を有効にする"
+
+#: classes/Options_V2.php:1167
+msgid "Toggle to enable course social share"
+msgstr "コースのソーシャル共有を有効にするように切り替える"
+
+#: classes/Options_V2.php:1164
+msgid "Social Share"
+msgstr "ソーシャル共有"
+
+#: classes/Options_V2.php:1151
+msgid "Enable to show course author name"
+msgstr "コースの作成者名の表示を有効化する"
+
+#: classes/Options_V2.php:1143
+msgid "Enable to add a Q&A section"
+msgstr "Q&A セクションの追加を有効にする"
+
+#: classes/Options_V2.php:1136
+msgid "Toggle to show instructor info"
+msgstr "インストラクター情報の表示に切り替える"
+
+#: classes/Options_V2.php:1134
+msgid "Instructor Info"
+msgstr "講師情報"
+
+#: classes/Options_V2.php:1121
+msgid "Course Details"
+msgstr "コースの詳細"
+
+#: classes/Options_V2.php:1097
+msgid "Choose a layout design for a student’s public profile"
+msgstr "学生の公開プロフィールのレイアウトデザインを選択する"
+
+#: classes/Options_V2.php:1096
+msgid "Student Public Profile Layout"
+msgstr "学生公開プロフィールのレイアウト"
+
+#: classes/Options_V2.php:1072
+msgid "Choose a layout design for a instructor’s public profile"
+msgstr "教員の公開プロフィールのレイアウトデザインを選択する"
+
+#: classes/Options_V2.php:1071
+msgid "Instructor Public Profile Layout"
+msgstr "教員公開プロフィールレイアウト"
+
+#: classes/Options_V2.php:1039
+msgid "Choose a layout for the list of instructors inside a course page. You can change this at any time."
+msgstr "コースページ内の教員リストのレイアウトを選択します。これはいつでも変更できます。"
+
+#: classes/Options_V2.php:1031
+msgid "Layout"
+msgstr "レイアウト"
+
+#: classes/Options_V2.php:967
+msgid "Design"
+msgstr "デザイン"
+
+#: classes/Options_V2.php:960
+msgid "Write bank instructions for the instructors to conduct withdrawals."
+msgstr "インストラクターが引き出しを行うための銀行の指示書を書いてください。"
+
+#: classes/Options_V2.php:959
+msgid "Write the up to date bank informations of your instructor here."
+msgstr "インストラクターの最新の銀行情報をここに記入してください。"
+
+#: classes/Options_V2.php:958
+msgid "Bank Instructions"
+msgstr "銀行の指示"
+
+#: classes/Options_V2.php:953
+msgid "Set how you would like to withdraw money from the website."
+msgstr "ウェブサイトからお金を引き出す方法を設定します。"
+
+#: classes/Options_V2.php:950
+msgid "Enable Withdraw Method"
+msgstr "引き出し方法を有効にする"
+
+#: classes/Options_V2.php:945
+msgid "Any income has to remain this many days in the platform before it is available for withdrawal."
+msgstr "収入は、引き出し可能になる前に、プラットフォームにこの何日も残らなければなりません。"
+
+#: classes/Options_V2.php:942
+msgid "Minimum Days Before Balance is Available"
+msgstr "残高が利用可能になるまでの最低日数"
+
+#: classes/Options_V2.php:909
+msgid "Select the fee type and add fee amount/percentage"
+msgstr "手数料タイプを選択し、手数料金額/割合を追加します。"
+
+#: classes/Options_V2.php:908
+msgid "Fee Amount & Type"
+msgstr "手数料の金額と種類"
+
+#: classes/Options_V2.php:902
+msgid "Set a description for the fee that you are deducting. Make sure to give a reasonable explanation to maintain transparency with your site’s instructors"
+msgstr "差し引く手数料の説明を設定します。サイトのインストラクターとの透明性を維持するために、合理的な説明をしてください"
+
+#: classes/Options_V2.php:900 classes/Options_V2.php:901
+msgid "Fee Description"
+msgstr "料金の説明"
+
+#: classes/Options_V2.php:884
+msgid "Fees"
+msgstr "手数料"
+
+#: classes/Options_V2.php:848
+msgid "Allow revenue generated from selling courses to be shared with course creators."
+msgstr "コースの販売から発生した収益をコース作成者と共有できるようにします。"
+
+#: classes/Options_V2.php:845
+msgid "Enable Revenue Sharing"
+msgstr "レベニューシェアリングの有効化"
+
+#: classes/Options_V2.php:871
+msgid "Set how the sales revenue will be shared among admins and instructors."
+msgstr "売上収益を管理者とインストラクター間で共有する方法を設定します。"
+
+#: classes/Options_V2.php:854
+msgid "Sharing Percentage"
+msgstr "共有率"
+
+#: classes/WooCommerce.php:431
+msgid "Allow customers to place orders without an account."
+msgstr "顧客がアカウントなしで注文できるようにします。"
+
+#: classes/WooCommerce.php:428
+msgid "Enable Guest Mode"
+msgstr "ゲストモードを有効にする"
+
+#: classes/Options_V2.php:823
+msgid "Select eCommerce Engine"
+msgstr "電子商取引エンジンを選択"
+
+#: classes/Options_V2.php:816 classes/Options_V2.php:1557
+msgid "Options"
+msgstr "オプション"
+
+#: classes/Options_V2.php:811
+msgid "Monitization Settings"
+msgstr "モニタイズ設定"
+
+#: classes/Options_V2.php:802
+msgid "Choose video sources you'd like to support."
+msgstr "サポートする動画ソースを選択します。"
+
+#: classes/Options_V2.php:771
+msgid "Show Quiz Previous Button"
+msgstr "クイズを表示 前のボタン"
+
+#: classes/Options_V2.php:732
+msgid "Enable this feature to allow students to post comments on lessons."
+msgstr "この機能を有効にすると、学生はレッスンにコメントを投稿できます。"
+
+#: classes/Options_V2.php:729
+msgid "Enable Lesson Comment"
+msgstr "レッスンコメントを有効にする"
+
+#: classes/Options_V2.php:724
+msgid "Enable this feature to automatically load the next course content after the current one is finished."
+msgstr "この機能を有効にすると、現在のコースコンテンツが終了した後、次のコースコンテンツが自動的に読み込まれます。"
+
+#: classes/Options_V2.php:716
+msgid "Enable classic editor to edit lesson."
+msgstr "クラシックエディタがレッスンを編集できるようにします。"
+
+#: classes/Options_V2.php:713
+msgid "WP Editor for Lesson"
+msgstr "レッスンのためのWPエディタ"
+
+#: classes/Options_V2.php:685
+msgid "Choose when a user can click on the <strong>“Complete Course”</strong> button"
+msgstr "ユーザーが <strong>「コースを完了」ボタンを</strong> クリックできるタイミングを選択する"
+
+#: classes/Options_V2.php:683
+msgid "Students have to complete, pass all the lessons and quizzes (if any) to mark a course as complete."
+msgstr "学生は、コースを完了としてマークするために、すべてのレッスンとクイズ(もしあれば)を完了し、合格する必要があります。"
+
+#: classes/Options_V2.php:682
+msgid "Students can complete courses anytime in the Flexible mode"
+msgstr "学生はフレキシブルモードでいつでもコースを修了できます"
+
+#: classes/Options_V2.php:610
+msgid "Enable the option to display this button on the student dashboard."
+msgstr "学生ダッシュボードにこのボタンを表示するオプションを有効にします。"
+
+#: classes/Options_V2.php:602
+msgid "Enable instructors to publish the course directly. If disabled, admins will be able to review course content before publishing."
+msgstr "教員がコースを直接公開できるようにします。無効にすると、管理者は公開前にコースコンテンツを確認できます。"
+
+#: classes/Options_V2.php:599
+msgid "Allow Instructors To Publish Courses"
+msgstr "教員にコースの公開を許可する"
+
+#: classes/Options_V2.php:577
+msgid "Enable Marketplace"
+msgstr "マーケットプレースを有効にする"
+
+#: classes/Options_V2.php:570
+msgid "Others"
+msgstr "その他"
+
+#: classes/Instructor.php:122 classes/Instructor.php:253
+#: classes/Instructor.php:268 classes/Student.php:93
+#: views/pages/instructors.php:313
+msgid "Your passwords should match each other. Please recheck."
+msgstr "パスワードは互いに一致している必要があります。再確認してください。"
+
+#: classes/Course_Settings_Tabs.php:130
+msgid "Enable Q&A section for your course"
+msgstr "Q&Aセクションを表示する"
+
+#: classes/Course_Settings_Tabs.php:109
+msgid "Make This Course Public. No enrollment required."
+msgstr "このコースを一般公開する。登録は必要ありません。"
+
+#: classes/Course_Settings_Tabs.php:104
+msgid "Public Course"
+msgstr "公開コース"
+
+#: classes/Course_List.php:272
+msgid "Could not delete selected courses"
+msgstr "選択したコースを削除できませんでした"
+
+#: classes/Course_List.php:261
+msgid "Please select appropriate action"
+msgstr "適切なアクションを選択してください"
+
+#: classes/Course_List.php:131
+msgid "Mine"
+msgstr "最小"
+
+#: classes/Course.php:1085
+msgid "Course difficulty level"
+msgstr "コースの難易度"
+
+#: classes/Course.php:608
+msgid "Topic title is required!"
+msgstr "トピックのタイトルは必須です!"
+
+#: classes/Course.php:253 classes/Frontend.php:83
+msgid "Access Denied!"
+msgstr "接続が拒否されました。"
+
+#: classes/Backend_Page_Trait.php:130 views/pages/course-list.php:345
+msgid "Delete Permanently"
+msgstr "完全に削除する"
+
+#: classes/Backend_Page_Trait.php:117 includes/translate-text.php:73
+#: templates/dashboard/purchase_history.php:123
+#: templates/dashboard/purchase_history.php:131
+msgid "Processing"
+msgstr "処理中"
+
+#: classes/Backend_Page_Trait.php:91 includes/translate-text.php:93
+#: includes/translate-text.php:97 includes/translate-text.php:101
+#: templates/dashboard/purchase_history.php:127
+msgid "On Hold"
+msgstr "保留中"
+
+#: classes/Backend_Page_Trait.php:78 classes/Course_List.php:143
+#: includes/translate-text.php:113 templates/dashboard/my-courses.php:65
+#: views/pages/course-list.php:133
+msgid "Draft"
+msgstr "下書き"
+
+#: classes/Backend_Page_Trait.php:39
+msgid "Bulk Action"
+msgstr "一括操作"
+
+#: classes/Ajax.php:621
+msgid "All fields required!"
+msgstr "すべてのフィールドが必要です!"
+
+#: classes/Ajax.php:387
+msgid "SSL certificate"
+msgstr "SSL 証明書"
+
+#: classes/Ajax.php:386
+msgid "PHP 7.2.5 or greater is required"
+msgstr "PHP 7.2.5 以上が必要です。"
+
+#: classes/Ajax.php:264
+msgid "Permissioned Denied!"
+msgstr "許可が拒否されました!"
+
+#: classes/Ajax.php:246
+msgid "Rating placed successsully!"
+msgstr "評価は成功裏に置かれました!"
+
+#: classes/Utils.php:9093
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: views/pages/students.php:96
+msgid "Course Taken"
+msgstr "受講したコース"
+
+#: views/fragments/thumbnail-uploader.php:24
+msgid "Use this media"
+msgstr "このメディアを使用する"
+
+#: views/fragments/thumbnail-uploader.php:24
+msgid "Select or Upload Media Of Your Chosen Persuasion"
+msgstr "選ばれたメディアを選択またはアップロードする"
+
+#: templates/dashboard/my-courses.php:201
+#: templates/single/lesson/comment.php:90 views/qna/qna-new.php:36
+msgid "Submit"
+msgstr "送信"
+
+#: views/modal/review.php:35
+msgid "Tell us about your own personal experience taking this course. Was it a good match for you?"
+msgstr "このコースを受講した感想を教えてください。それはあなたにとって良い講義でしたか?"
+
+#: templates/dashboard/reviews/given-reviews.php:103 views/modal/review.php:23
+msgid "Select Rating"
+msgstr "評価を選ぶ"
+
+#: templates/dashboard/reviews/given-reviews.php:102 views/modal/review.php:22
+msgid "How would you rate this course?"
+msgstr "このコースをどのように評価しますか?"
+
+#: templates/single/quiz/top.php:83
+msgid "%s"
+msgstr "%s"
+
+#: templates/dashboard/withdraw.php:160
+msgid "Minimum withdraw amount is"
+msgstr "最低引き出し額は"
+
+#: templates/dashboard/instructor/registration.php:22
+#: templates/dashboard/registration.php:21
+msgid "Go to Home"
+msgstr "ホームに戻る"
+
+#: templates/dashboard/instructor/registration.php:20
+#: templates/dashboard/registration.php:19
+msgid "You do not have access to this area of the application. Please refer to your system  administrator."
+msgstr "アプリケーションのこの領域にアクセスできません。システム管理者に問い合わせてください。"
+
+#: templates/dashboard/instructor/registration.php:19
+#: templates/dashboard/registration.php:18
+msgid "Oooh! Access Denied"
+msgstr "アクセスが拒否されました"
+
+#: classes/Backend_Page_Trait.php:181 classes/Course_List.php:155
+#: includes/translate-text.php:109 templates/dashboard/dashboard.php:154
+#: views/pages/course-list.php:132
+msgid "Trash"
+msgstr "ゴミ箱"
+
+#: includes/tinymce_translate.php:26
+msgid "Order :"
+msgstr "注文:"
+
+#: includes/tinymce_translate.php:25
+msgctxt "tinyMCE button order by"
+msgid "Order By :"
+msgstr "注文者："
+
+#: includes/tinymce_translate.php:24
+msgid "Category IDS"
+msgstr "カテゴリ IDS"
+
+#: includes/tinymce_translate.php:23
+msgid "Exclude Course IDS"
+msgstr "コースIDを除外"
+
+#: includes/tinymce_translate.php:22
+msgid "Course id, separate by (,) comma"
+msgstr "コース ID、(,) コンマで区切る"
+
+#: includes/tinymce_translate.php:21
+msgid "Courses Shortcode"
+msgstr "コースショートコード"
+
+#: includes/tinymce_translate.php:20
+msgctxt "tinyMCE button courses"
+msgid "Courses"
+msgstr "コース"
+
+#: includes/tinymce_translate.php:19
+msgid "Instructor Registration Form"
+msgstr "インストラクター登録フォーム"
+
+#: includes/tinymce_translate.php:18
+msgid "Student Registration Form"
+msgstr "受講生登録フォーム"
+
+#: includes/tinymce_translate.php:17
+msgid "Tutor ShortCode"
+msgstr "Tutor ショートコード"
+
+#: classes/Tutor_Setup.php:259
+msgid "weeks"
+msgstr "週"
+
+#: classes/Tutor_Setup.php:258
+msgid "days"
+msgstr "日"
+
+#: classes/Tutor_Setup.php:257 includes/tutor-template-functions.php:1364
+msgid "hours"
+msgstr "時間"
+
+#: classes/Tutor_Setup.php:256 classes/Tutor_Setup.php:264
+#: includes/tutor-template-functions.php:1365
+msgid "minutes"
+msgstr "分"
+
+#: classes/Tutor_Setup.php:255 includes/tutor-template-functions.php:1366
+msgid "seconds"
+msgstr "秒"
+
+#: classes/Post_types.php:371
+msgctxt "tutor assignment add"
+msgid "Add New"
+msgstr "新規追加"
+
+#: classes/Post_types.php:292
+msgctxt "tutor quiz add"
+msgid "Add New"
+msgstr "新規追加"
+
+#: classes/Post_types.php:226
+msgctxt "tutor lesson add"
+msgid "Add New"
+msgstr "新規追加"
+
+#: classes/Post_types.php:94
+msgctxt "tutor course add"
+msgid "Add New"
+msgstr "新規追加"
+
+#: classes/Options_V2.php:773
+msgid "Choose whether to show or hide the previous button for each question."
+msgstr "各質問の前のボタンを表示するか非表示にするかを選択します。"
+
+#: classes/Course.php:703
+msgid "free"
+msgstr "無料"
+
+#: templates/dashboard/my-courses.php:301
+#: templates/dashboard/reviews/given-reviews.php:140
+#: views/fragments/announcement-list.php:220 views/qna/qna-single.php:195
+#: views/qna/qna-table.php:179
+msgid "Yes, Delete This"
+msgstr "はい、削除します"
+
+#: templates/single/quiz/parts/meta.php:106
+msgid "Reattempt"
+msgstr "再試行"
+
+#: templates/single/lesson/required-enroll.php:16
+msgid "Please enroll in this course to view course content."
+msgstr "コースの内容を表示するには、このコースに登録してください。"
+
+#: templates/permission-denied.php:29
+msgid "Please make sure you are logged in to correct account if the content needs authorization."
+msgstr "コンテンツが認証を必要とする場合は、正しいアカウントにログインしていることを確認してください。"
+
+#: includes/tutor-template-functions.php:1603
+msgid "Please make sure you are logged in to correct account"
+msgstr "正しいアカウントでログインしているかご確認ください。"
+
+#: includes/tutor-template-functions.php:1602
+msgid "You don't have the right to edit this course"
+msgstr "このコースを編集する権限がありません"
+
+#: classes/User.php:357
+msgid "Dismiss"
+msgstr "非表示"
+
+#: classes/Reviews.php:56 classes/Student.php:314
+msgid "Something went wrong!"
+msgstr "何かがうまくいかなかったようです。"
+
+#: templates/single/course/course-entry-box.php:125
+msgid "Retake This Course"
+msgstr "再履修する"
+
+#: classes/Options_V2.php:693
+msgid "Enabling this feature will allow students to reset course progress and start over."
+msgstr "この機能を有効にすると、学生はコースの進捗状況をリセットして最初からやり直すことができます。"
+
+#: classes/Options_V2.php:690
+msgid "Course Retake"
+msgstr "コースを再受講"
+
+#: classes/Course.php:1559
+msgid "Invalid Course ID or Access Denied."
+msgstr "コースIDが無効、またはアクセスが拒否されました"
+
+#: classes/Addons.php:131
+msgid "Create multilingual courses, lessons, dashboard and more for a global audience."
+msgstr "多言語のコース、レッスン、ダッシュボードなどを作成し、世界中のユーザーに提供することができます"
+
+#: classes/Addons.php:130
+msgid "WPML Multilingual CMS"
+msgstr "WPML 多言語 CMS"
+
+#: includes/tutor-general-functions.php:164
+msgid "Select a tag"
+msgstr "タグを選択"
+
+#: includes/tutor-general-functions.php:163
+msgid "Search Course Tags. ex. Design, Development, Business"
+msgstr "コースタグを検索する。例: デザイン、開発、ビジネス"
+
+#: views/modal/question_form.php:35
+msgid "Type your question here"
+msgstr "ここに質問を入力してください"
+
+#: templates/loop/course-continue.php:19 templates/loop/course-continue.php:38
+#: templates/single/course/course-entry-box.php:127
+#: templates/single/course/course-entry-box.php:184
+msgid "Start Learning"
+msgstr "学習を開始する"
+
+#: classes/Options_V2.php:657
+msgid "When a user's WooCommerce order is auto-completed, they will be redirected to enrolled courses"
+msgstr "ユーザーの WooCommerce 注文が自動で完了されると、登録済みのコースにリダイレクトされます。"
+
+#: classes/Options_V2.php:654
+msgid "Auto redirect to courses"
+msgstr "コースへの自動リダイレクト"
+
+#: classes/Options_V2.php:1550
+msgid "Youtube API Key"
+msgstr "YouTubeのAPIキー"
+
+#: classes/Backend_Page_Trait.php:194 views/pages/withdraw_requests.php:265
+msgid "Reject"
+msgstr "却下"
+
+#: templates/loop/course-price-edd.php:80
+#: templates/loop/course-price-woocommerce.php:75
+#: templates/loop/course-price.php:70
+msgid "Fully Booked"
+msgstr "完全予約"
+
+#: templates/dashboard/assignments/review.php:132
+msgid "Assignment evaluated"
+msgstr "採点済み課題"
+
+#: templates/dashboard/withdraw.php:83 templates/dashboard/withdraw.php:127
+msgid "Withdrawal Request"
+msgstr "出金依頼"
+
+#: templates/shortcode/instructor-filter.php:109
+msgid "Search any instructor..."
+msgstr "任意のインストラクターを検索..."
+
+#: templates/dashboard/assignments.php:65
+#: templates/dashboard/elements/filters.php:51
+msgid "Create Date"
+msgstr "作成日"
+
+#: templates/dashboard/assignments/review.php:142
+msgid "Evaluate this assignment out of %s"
+msgstr "この課題を採点する %s 点中"
+
+#: templates/dashboard/assignments/review.php:138
+msgid "Your Points"
+msgstr "得点数"
+
+#: templates/dashboard/assignments/review.php:69
+msgid "Submitted Date"
+msgstr "送信日"
+
+#: templates/dashboard/assignments/submitted.php:66
+msgid "Oldest"
+msgstr "b最初"
+
+#: templates/dashboard/assignments/submitted.php:65
+msgid "Latest"
+msgstr "最新"
+
+#: templates/dashboard/assignments/submitted.php:63
+msgid "Sort By:"
+msgstr "並び替え："
+
+#: templates/dashboard/assignments/submitted.php:55
+msgid "Pass Points"
+msgstr "パスポイント"
+
+#: templates/dashboard/assignments/submitted.php:51
+#: templates/dashboard/assignments/submitted.php:83
+msgid "Total Points"
+msgstr "合計ポイント"
+
+#: templates/dashboard/assignments/submitted.php:47
+msgid "Submission Deadline"
+msgstr "提出期限"
+
+#: templates/dashboard/assignments/submitted.php:26
+msgid "No Limit"
+msgstr "制限なし"
+
+#: templates/dashboard/announcements/update.php:18
+msgid "Update Announcement"
+msgstr "お知らせの更新"
+
+#: views/quiz/instructor-feedback.php:37
+msgid "Updated"
+msgstr "更新済み"
+
+#: views/options/options_generator.php:16
+msgid "Settings Saved"
+msgstr "設定保存"
+
+#: classes/Course_Settings_Tabs.php:94
+msgid "Number of students that can enrol in this course. Set 0 for no limits."
+msgstr "このコースに登録できる学生数です。制限しない場合は0を設定してください"
+
+#: templates/dashboard/announcements/details.php:35
+msgid "Publish Date"
+msgstr "公開日"
+
+#: templates/dashboard/announcements.php:111
+#: templates/dashboard/assignments.php:60
+#: templates/dashboard/elements/filters.php:47 views/elements/filters.php:139
+msgid "DESC"
+msgstr "降順"
+
+#: templates/dashboard/announcements.php:110
+#: templates/dashboard/assignments.php:59
+#: templates/dashboard/elements/filters.php:46 views/elements/filters.php:142
+msgid "ASC"
+msgstr "昇順"
+
+#: templates/dashboard/announcements.php:82 views/pages/announcements.php:106
+msgid "Add New Announcement"
+msgstr "新しいお知らせを追加"
+
+#: templates/dashboard/announcements.php:76 views/pages/announcements.php:100
+msgid "Notify all students of your course"
+msgstr "全てのコース受講生に連絡する"
+
+#: classes/Backend_Page_Trait.php:65 includes/translate-text.php:105
+#: templates/dashboard/announcements/create.php:64
+#: templates/dashboard/my-courses.php:55 templates/dashboard/my-courses.php:199
+#: views/fragments/announcement-list.php:91 views/pages/course-list.php:130
+msgid "Publish"
+msgstr "公開"
+
+#: templates/dashboard/announcements/create.php:55
+#: templates/dashboard/announcements/update.php:56
+#: views/fragments/announcement-list.php:80
+msgid "Summary..."
+msgstr "概要…"
+
+#: templates/dashboard/announcements/create.php:53
+#: templates/dashboard/announcements/update.php:54
+#: views/fragments/announcement-list.php:78 views/modal/edit_quiz.php:21
+msgid "Summary"
+msgstr "要約"
+
+#: templates/dashboard/announcements/create.php:49
+#: templates/dashboard/announcements/update.php:50
+#: views/fragments/announcement-list.php:73
+msgid "Announcement title"
+msgstr "連絡事項タイトル"
+
+#: templates/dashboard/announcements/create.php:47
+#: templates/dashboard/announcements/update.php:48
+#: views/fragments/announcement-list.php:71
+msgid "Announcement Title"
+msgstr "連絡事項タイトル"
+
+#: templates/dashboard/announcements/create.php:18
+msgid "Create New Announcement"
+msgstr "新しいアナウンスメントの作成"
+
+#: templates/dashboard/announcements.php:108
+#: templates/dashboard/assignments.php:57
+#: templates/dashboard/elements/filters.php:44
+#: templates/dashboard/question-answer.php:62 views/elements/filters.php:135
+msgid "Sort By"
+msgstr "並び替え"
+
+#: templates/dashboard/announcements.php:102
+#: templates/dashboard/announcements/create.php:41
+#: templates/dashboard/announcements/update.php:42
+#: templates/dashboard/assignments.php:51
+#: templates/dashboard/elements/filters.php:39 views/elements/filters.php:105
+#: views/fragments/announcement-list.php:64
+msgid "No course found"
+msgstr "コースが見つかりませんでした"
+
+#: classes/Course_List.php:125 classes/Instructors_List.php:92
+#: classes/Quiz_Attempts_List.php:202 classes/Withdraw_Requests_List.php:73
+#: includes/translate-text.php:25 templates/dashboard/announcements.php:94
+#: templates/dashboard/assignments.php:43
+#: templates/dashboard/elements/filters.php:30
+msgid "All"
+msgstr "すべて"
+
+#: classes/Ajax.php:662
+msgid "Announcement delete failed"
+msgstr "アナウンスの削除に失敗しました"
+
+#: classes/Ajax.php:659
+msgid "Announcement deleted successfully"
+msgstr "お知らせの削除に成功しました"
+
+#: classes/Ajax.php:608 classes/Ajax.php:613
+msgid "Announcement summary required"
+msgstr "お知らせの概要が必要です"
+
+#: classes/Ajax.php:604
+msgid "Announcement title required"
+msgstr "お知らせのタイトルが必要です"
+
+#: classes/Ajax.php:599
+msgid "Course name required"
+msgstr "コース名が必要です"
+
+#: classes/Ajax.php:635
+msgid "Announcement updated successfully"
+msgstr "お知らせが正常に更新されました"
+
+#: classes/Ajax.php:635
+msgid "Announcement created successfully"
+msgstr "お知らせの作成に成功しました"
+
+#: classes/Quiz.php:1588
+msgid "Access Denied."
+msgstr "アクセスが拒否されました"
+
+#: classes/WooCommerce.php:826
+msgid "Since WooCommerce is disabled, your monetized courses have been set to free. Please make sure to enable Tutor LMS monetization if you decide to re-enable WooCommerce."
+msgstr "WooCommerceは無効になっているため、収益化されたコースは無料に設定されています。WooCommerceを再度有効にする場合は、チューターLMSの収益化を有効にしてください。"
+
+#: classes/Lesson.php:305
+msgid "Couldn't create lesson."
+msgstr "レッスンを作成できませんでした。"
+
+#: templates/dashboard/settings/profile.php:82
+msgid "Saving..."
+msgstr "保存中…"
+
+#: templates/dashboard/settings/profile.php:81
+msgid "700x430"
+msgstr "700x430"
+
+#: templates/dashboard/settings/profile.php:81
+msgid "Cover Photo Size"
+msgstr "カバー写真サイズ"
+
+#: templates/dashboard/settings/profile.php:80
+#: templates/dashboard/settings/profile.php:81
+msgid "pixels"
+msgstr "ピクセル"
+
+#: templates/dashboard/settings/profile.php:80
+msgid "200x200"
+msgstr "200x200"
+
+#: templates/dashboard/settings/profile.php:80
+msgid "Profile Photo Size"
+msgstr "プロフィール写真サイズ"
+
+#: classes/Course_List.php:137 templates/dashboard/dashboard.php:152
+msgid "Published"
+msgstr "公開済み"
+
+#: classes/Ajax.php:86 classes/Ajax.php:151 classes/Ajax.php:436
+#: classes/Ajax.php:581 classes/Ajax.php:654 classes/Course.php:620
+#: classes/Course.php:890 classes/Instructor.php:325 classes/Lesson.php:223
+#: classes/Lesson.php:280 classes/Lesson.php:341 classes/Quiz.php:208
+#: classes/Quiz.php:713 classes/Quiz.php:814 classes/Quiz.php:887
+#: classes/Quiz.php:972 classes/Quiz.php:1144 classes/Quiz.php:1171
+#: classes/Quiz.php:1321 classes/Quiz.php:1408 classes/Quiz.php:1446
+#: classes/Quiz.php:1547 classes/Q_and_A.php:144
+msgid "Access Denied"
+msgstr "アクセスが拒否されました"
+
+#: views/pages/uninstall.php:21
+msgid "Completely Uninstall and erase all data"
+msgstr "すべてのデータを完全にアンインストールして消去する"
+
+#: views/modal/edit_quiz.php:139
+msgid "Show result after the attempt."
+msgstr "試行後に結果を表示します。"
+
+#: views/modal/edit_quiz.php:131
+msgid "Answers shown after quiz is finished"
+msgstr "クイズ終了後に表示される解答"
+
+#: views/modal/question_answer_form.php:13
+#: views/modal/question_answer_list.php:16
+msgid "No option is necessary for this answer type"
+msgstr "この回答タイプにオプションは必要ありません"
+
+#: classes/Withdraw_Requests_List.php:91 includes/translate-text.php:65
+msgid "Rejected"
+msgstr "却下済み"
+
+#: classes/Options_V2.php:1016
+msgid "Price Type"
+msgstr "価格タイプ"
+
+#: classes/Options_V2.php:1012
+msgid "Keyword Search"
+msgstr "キーワード検索"
+
+#: classes/Backend_Page_Trait.php:169 classes/Instructors_List.php:110
+msgid "Block"
+msgstr "ブロック"
+
+#: classes/Backend_Page_Trait.php:156 classes/Instructors_List.php:98
+#: views/pages/withdraw_requests.php:262
+msgid "Approve"
+msgstr "承認"
+
+#: classes/Tutor_Setup.php:205
+msgid "ON"
+msgstr "オン"
+
+#: classes/Tutor_Setup.php:200
+msgid "OFF"
+msgstr "オフ"
+
+#: templates/dashboard/my-profile.php:35 templates/public-profile.php:189
+msgid "Biography"
+msgstr "自己紹介"
+
+#: templates/public-profile.php:152
+msgid "Course Completed"
+msgstr "コース完了"
+
+#: templates/public-profile.php:152
+msgid "Courses Completed"
+msgstr "完了済みの講座"
+
+#: templates/public-profile.php:147
+msgid "Courses Enrolled"
+msgstr "登録済みコース"
+
+#: templates/dashboard/withdraw.php:99
+msgid "The preferred payment method is selected as %s. "
+msgstr "%sのように、希望する支払い方法が選択されます。"
+
+#: templates/dashboard/settings/profile.php:95
+msgid "Upload Photo"
+msgstr "写真をアップロード"
+
+#: templates/dashboard/settings/profile.php:74
+msgid "Upload Cover Photo"
+msgstr "カバー写真をアップロード"
+
+#: templates/dashboard/settings/profile.php:74
+msgid "Update Cover Photo"
+msgstr "カバー写真を更新"
+
+#: templates/profile/courses_taken.php:49
+msgid "No course yet."
+msgstr "コースはまだありません。"
+
+#: templates/loop/course-in-cart.php:18
+#: templates/single/course/add-to-cart-woocommerce.php:26
+msgid "View Cart"
+msgstr "お買い物カゴを表示"
+
+#: templates/instructor-setting.php:38
+msgid "Selected one will be used if layout is not defined as shortcode attribute."
+msgstr "レイアウトがショートコード属性として定義されていない場合、選択したものが使用されます。"
+
+#: classes/Options_V2.php:1038 templates/instructor-setting.php:18
+msgid "Instructor List Layout"
+msgstr "講師リストのレイアウト"
+
+#: views/pages/instructors.php:207
+msgid "No instructor found"
+msgstr "インストラクターが見つかりません"
+
+#: templates/modal/confirm.php:19
+msgid "Yes"
+msgstr "はい"
+
+#: views/quiz/contexts.php:95
+msgid "No"
+msgstr "いいえ"
+
+#: templates/dashboard/assignments/submitted.php:100
+msgid "Evaluate"
+msgstr "評"
+
+#: templates/dashboard/withdraw.php:195
+msgid "Withdrawal History"
+msgstr "出金履歴"
+
+#: templates/dashboard/withdraw.php:177
+msgid "Submit Request"
+msgstr "リクエスト送信"
+
+#: templates/dashboard/withdraw.php:137
+msgid "Selected Payment Method"
+msgstr "選択した支払い方法"
+
+#: templates/dashboard/withdraw.php:128
+msgid "Please check your transaction notification on your connected withdrawal method"
+msgstr "接続されている引き出し方法の取引通知を確認してください"
+
+#: templates/dashboard/withdraw.php:38
+msgid "Withdrawal request is pending for approval, please hold tight."
+msgstr "出金依頼は承認待ちですので、しっかりと押さえてください。"
+
+#: templates/dashboard/withdraw.php:37
+msgid "Please contact the site administrator for more information."
+msgstr "詳細については、サイト管理者にお問い合わせください。"
+
+#: classes/Options_V2.php:1018
+msgid "Choose preferred filter options you'd like to show on the course archive page."
+msgstr "コースアーカイブページに表示するフィルタオプションを選択します。"
+
+#: classes/Options_V2.php:1009
+msgid "Preferred Course Filters"
+msgstr "希望するコースのフィルター"
+
+#: classes/Withdraw.php:249
+msgid "Insufficient balance."
+msgstr "残高不足です。"
+
+#: classes/Options_V2.php:997
+msgid "Show sorting and filtering options on course archive page"
+msgstr "コースアーカイブページにソートとフィルタリングのオプションを表示"
+
+#: classes/Options_V2.php:994
+msgid "Course Filter"
+msgstr "コースフィルタ"
+
+#: classes/Options_V2.php:799 classes/Options_V2.php:800
+msgid "Preferred Video Source"
+msgstr "希望するビデオソース"
+
+#: classes/Withdraw.php:108
+msgid "We will use this email address to send the money to your Paypal account"
+msgstr "このメールアドレスに紐付けされたPaypal口座に送金します。"
+
+#: classes/Options_V2.php:1156 templates/course-filter/filters.php:81
+#: templates/single/course/course-entry-box.php:52
+msgid "Level"
+msgstr "レベル"
+
+#: classes/Options_V2.php:1014 templates/course-filter/filters.php:67
+msgid "Tag"
+msgstr "タグ"
+
+#: classes/Course_Widget.php:175 classes/Options_V2.php:1013
+#: templates/course-filter/filters.php:53
+#: templates/shortcode/instructor-filter.php:58 views/elements/filters.php:113
+msgid "Category"
+msgstr "カテゴリー"
+
+#: views/elements/filters.php:160
+msgid "Search..."
+msgstr "検索…"
+
+#: templates/single/assignment/content.php:180
+#: templates/single/assignment/content.php:502
+msgid "You have missed the submission deadline. Please contact the instructor for more information."
+msgstr "提出期限に間に合いませんでした。詳しくはインストラクターまでお問い合わせください。"
+
+#: templates/dashboard/instructor/logged-in.php:75
+msgid "Go to Dashboard"
+msgstr "ダッシュボードへ移動"
+
+#: templates/dashboard/instructor/logged-in.php:68
+msgid "Please contact the site administrator for further information."
+msgstr "追加の情報については管理者にお問い合わせください。"
+
+#: templates/dashboard/instructor/logged-in.php:66
+msgid "Start building your first course today and let your eLearning journey begin."
+msgstr "最初のコースを創り、Eラーニングの旅を始めましょう。"
+
+#: templates/dashboard/instructor/logged-in.php:64
+msgid "We've received your application, and we will review it soon. Please hang tight!"
+msgstr "申請を受け付けました。審査の後、近日中にお返事させていただきます。今しばらくお待ちください。"
+
+#: templates/dashboard/instructor/logged-in.php:55
+msgid "Unfortunately, your instructor status has been removed."
+msgstr "残念ながら、講師の資格が取り下げられました。"
+
+#: templates/dashboard/instructor/logged-in.php:53
+msgid "Congratulations! You are now registered as an instructor."
+msgstr "おめでとうございます ! あなたは講師として登録されました。"
+
+#: templates/dashboard/instructor/logged-in.php:51
+msgid "Thank you for registering as an instructor! "
+msgstr "講師への登録ありがとうございます！"
+
+#: templates/dashboard/instructor/logged-in.php:31
+msgid "You have been blocked from being an instructor."
+msgstr "講師への応募が認められませんでした。"
+
+#: templates/dashboard/instructor/logged-in.php:29
+msgid "Your application has been accepted. Further necessary details have been sent to your registered email account."
+msgstr "申請書類が認められました。さらに必要な情報は登録していただいたメールに送信されます。"
+
+#: templates/dashboard/instructor/logged-in.php:27
+msgid "Your application will be reviewed and the results will be sent to you by email."
+msgstr "応募結果は審査を経て、メールにて通知されます。"
+
+#: templates/dashboard/withdraw.php:204
+msgid "Withdrawal Method"
+msgstr "出金方法"
+
+#: templates/dashboard.php:157
+msgid "Your Application is pending as of"
+msgstr "あなたのアプリケーションは、現在保留中です"
+
+#: templates/single/course/course-topics.php:116
+msgid "Live"
+msgstr "ライブ"
+
+#: templates/single/assignment/content.php:143
+#: templates/single/course/course-topics.php:114
+msgid "Expired"
+msgstr "期限切れ"
+
+#: restapi/REST_Topic.php:46
+msgid "Topic not found for given ID"
+msgstr "指定された ID のトピックが見つかりません"
+
+#: restapi/REST_Topic.php:38
+msgid "Topic retrieved successfully"
+msgstr "トピックが正常に取得されました"
+
+#: restapi/REST_Course_Announcement.php:47
+msgid "Announcement not found for given ID"
+msgstr "指定されたIDのアナウンスが見つかりません"
+
+#: restapi/REST_Course_Announcement.php:38
+msgid "Announcement retrieved successfully"
+msgstr "アナウンスが正常に取得されました"
+
+#: restapi/REST_Lesson.php:63
+msgid "Lesson not found for given topic ID"
+msgstr "特定のトピック ID のレッスンが見つかりません"
+
+#: restapi/REST_Lesson.php:55
+msgid "Lesson retrieved successfully"
+msgstr "レッスンが正常に取得されました"
+
+#: restapi/REST_Author.php:44
+msgid "Author not found"
+msgstr "作成者が見つかりません"
+
+#: restapi/REST_Author.php:35
+msgid "Author details retrieved successfully"
+msgstr "著者の詳細が正常に取得されました"
+
+#: restapi/REST_Quiz.php:148
+msgid "Quiz attempts not found for given ID"
+msgstr "指定されたIDに対するクイズ回答履歴が見つかりません"
+
+#: restapi/REST_Quiz.php:140
+msgid "Quiz attempts retrieved successfully"
+msgstr "クイズ回答履歴が正常に取得されました"
+
+#: restapi/REST_Quiz.php:103
+msgid "Question not found for given ID"
+msgstr "指定されたIDに対する質問が見つかりません"
+
+#: restapi/REST_Quiz.php:94
+msgid "Question retrieved successfully"
+msgstr "質問が正常に取得されました"
+
+#: restapi/REST_Quiz.php:53
+msgid "Quiz not found for given ID"
+msgstr "指定されたIDのクイズが見つかりません"
+
+#: restapi/REST_Quiz.php:45
+msgid "Quiz retrieved successfully"
+msgstr "クイズが正常に取得されました"
+
+#: restapi/REST_Course.php:223
+msgid "Tags field is not an array"
+msgstr "タグフィールドが配列ではありません"
+
+#: restapi/REST_Course.php:219
+msgid "Categories field is not an array"
+msgstr "カテゴリ フィールドが配列ではありません"
+
+#: restapi/REST_Course.php:202
+msgid "Course not found for given terms"
+msgstr "特定の学期のコースが見つかりません"
+
+#: restapi/REST_Course.php:135
+msgid "Detail not found for given ID"
+msgstr "指定された ID の詳細が見つかりません"
+
+#: restapi/REST_Course.php:128
+msgid "Course detail retrieved successfully"
+msgstr "コースの詳細が正常に取得されました"
+
+#: restapi/REST_Course.php:88 restapi/REST_Course.php:287
+msgid "Course not found"
+msgstr "コースが見つかりません"
+
+#: restapi/REST_Course.php:79 restapi/REST_Course.php:193
+#: restapi/REST_Course.php:278
+msgid "Course retrieved successfully"
+msgstr "正常に取得されたコース"
+
+#: restapi/REST_Rating.php:54
+msgid "Rating not found for given ID"
+msgstr "特定のIDの評価が見つかりません"
+
+#: restapi/REST_Rating.php:45
+msgid "Course rating retrieved successfully"
+msgstr "コース評価が正常に取得されました"
+
+#: classes/Addons.php:115
+msgid "Helps connect Google Classrooms with Tutor LMS courses, allowing you to use features like Classroom streams and files directly from the Tutor LMS course."
+msgstr "Google Classroom と Tutor LMS コースを接続して、講師用 LMS コースから直接 Classroom ストリームやファイルなどの機能を使用できます。"
+
+#: classes/Addons.php:114
+msgid "Google Classroom Integration"
+msgstr "Google Classroom 統合"
+
+#: classes/Addons.php:107
+msgid "Connect Tutor LMS with Zoom to host live online classes. Students can attend live classes right from the lesson page."
+msgstr "Tutor LMS を Zoom と接続して、ライブのオンライン授業開催できます。生徒はレッスンページからライブ授業に参加できます。"
+
+#: classes/Addons.php:106
+msgid "Tutor Zoom Integration"
+msgstr "チューターズーム統合"
+
+#: templates/single/quiz/parts/open-ended.php:24
+#: templates/single/quiz/parts/short-answer.php:24
+msgid "characters remaining"
+msgstr "文字入力できます"
+
+#: classes/Options_V2.php:642
+msgid "Allow instructors and admins to view the course content without enrolling"
+msgstr "講師や管理者が登録しなくてもコース内容を閲覧できるようにする"
+
+#: classes/Options_V2.php:639
+msgid "Course Content Access"
+msgstr "コースコンテンツへのアクセス"
+
+#: classes/Withdraw.php:295
+msgid "Withdrawal Request Sent!"
+msgstr "引き落とし申請が送信されました"
+
+#: classes/Options_V2.php:1567
+msgid "Enabling this feature will show a notification bar to students and instructors to complete their profile information"
+msgstr "この機能を有効にすると、学生と教員がプロフィール情報を入力するための通知バーが表示されます。"
+
+#: classes/Options_V2.php:1564
+msgid "Profile Completion"
+msgstr "プロファイルの完了"
+
+#: classes/Utils.php:8965
+msgid "Withdrawals"
+msgstr "返金"
+
+#: templates/dashboard/notifications/profile-completion.php:42
+msgid "You are almost done!"
+msgstr "もう少しで完了です"
+
+#: templates/dashboard/notifications/profile-completion.php:40
+msgid "% Complete"
+msgstr "% 完了"
+
+#: templates/dashboard/notifications/profile-completion.php:27
+msgid "Set Your"
+msgstr "設定する"
+
+#: templates/dashboard/notifications/profile-completion.php:22
+msgid "Complete your profile so people can know more about you! Go to Profile"
+msgstr "プロフィールを完成させて、他の人があなたについてもっと知ることができるようにしましょう!プロフィールに移動"
+
+#: templates/dashboard/dashboard.php:36
+#: templates/dashboard/notifications/profile-completion.php:20
+msgid "Complete Your Profile"
+msgstr "プロフィールを完了する"
+
+#: templates/dashboard/question-answer/answers.php:104
+#: templates/single/lesson/comments-loop.php:38
+#: templates/single/lesson/comments-loop.php:88 views/qna/contexts.php:18
+#: views/qna/qna-single.php:141 views/qna/qna-single.php:176
+#: views/qna/qna-table.php:122
+msgid "Reply"
+msgstr "返信"
+
+#: views/qna/qna-table.php:171
+msgid "Delete This Question?"
+msgstr "この質問を削除しますか?"
+
+#: views/pages/course-list.php:244
+msgid "Quiz:"
+msgstr "クイズ:"
+
+#: templates/dashboard/assignments.php:116
+#: templates/dashboard/assignments/submitted.php:104
+#: templates/instructor/cover.php:43 templates/instructor/default.php:37
+#: templates/instructor/minimal-horizontal.php:35
+#: templates/instructor/minimal.php:39
+#: templates/instructor/portrait-horizontal.php:40
+#: views/fragments/announcement-list.php:310 views/pages/students.php:152
+#: views/quiz/attempt-table.php:174 views/quiz/contexts.php:25
+msgid "Details"
+msgstr "詳細"
+
+#: templates/single/assignment/content.php:156
+msgid "Total Marks:"
+msgstr "満点:"
+
+#: views/quiz/contexts.php:22 views/quiz/contexts.php:73
+msgid "Incorrect Answer"
+msgstr "不正解"
+
+#: views/quiz/contexts.php:21 views/quiz/contexts.php:72
+#: views/quiz/contexts.php:99
+msgid "Correct Answer"
+msgstr "正解"
+
+#: views/modal/edit_quiz.php:138
+msgid "Reveal Mode"
+msgstr "表示モード"
+
+#: views/modal/edit_quiz.php:146
+msgid "Retry Mode"
+msgstr "再試行モード"
+
+#: views/modal/edit_quiz.php:130
+msgid "Default"
+msgstr "デフォルト"
+
+#: views/modal/edit_quiz.php:124
+msgid "Pick the quiz system\"s behaviour on choice based questions."
+msgstr "選択ベースの質問に対するクイズシステムの行動を選んでください。"
+
+#: views/modal/edit_quiz.php:120
+msgid "Quiz Feedback Mode"
+msgstr "クイズフィードバックモード"
+
+#: templates/dashboard/announcements/update.php:63
+#: views/pages/withdraw_requests.php:104 views/pages/withdraw_requests.php:258
+#: views/quiz/instructor-feedback.php:38
+msgid "Update"
+msgstr "更新"
+
+#: views/quiz/instructor-feedback.php:23
+msgid "Instructor Feedback"
+msgstr "インストラクターフィードバック"
+
+#: views/modal/edit_quiz.php:280
+msgid "Students will place the answer in the Open-Ended/Essay question type within this character limit."
+msgstr "学生は、この文字制限内のオープンエンド/エッセイの質問タイプに回答を配置します。"
+
+#: views/modal/edit_quiz.php:276
+msgid "Open-Ended/Essay questions answer character limit"
+msgstr "オープンエンド/エッセイの質問の回答文字数制限"
+
+#: templates/dashboard/settings/profile.php:185
+msgid "The display name is shown in all public fields, such as the author name, instructor name, student name, and name that will be printed on the certificate."
+msgstr "表示名は、著者名、インストラクター名、学生名、証明書に印刷される名前など、すべての公開フィールドに表示されます。証明書を希望される方は本名でご登録ください。"
+
+#: templates/dashboard/settings/profile.php:172
+msgid "Display name publicly as"
+msgstr "ブログ上の表示名"
+
+#: classes/Options_V2.php:678
+msgid "Course Completion Process"
+msgstr "コース修了までの流れ"
+
+#. translators: %s: number of quiz pass required
+#: classes/Course.php:1462
+msgid "You have to pass %1$s %2$s and %3$s %4$s to complete this course."
+msgstr "このコースを修了するには、 %1$s %2$s と %3$s %4$sに合格する必要があります。"
+
+#: classes/Course.php:1384
+msgid "Complete all lessons to mark this course as complete"
+msgstr "すべてのレッスンを完了して、このコースを完了としてマークします。"
+
+#: classes/Addons.php:103
+msgid "Save time by exporting/importing quiz data with easy options."
+msgstr "簡単なオプションでクイズデータをエクスポート/インポートすることで時間を節約できます。"
+
+#: classes/Addons.php:102
+msgid "Quiz Export/Import"
+msgstr "クイズのエクスポート/インポート"
+
+#: classes/Withdraw.php:102
+msgid "PayPal"
+msgstr "PayPal"
+
+#: classes/Tools_V2.php:346
+msgid "Setup Wizard"
+msgstr "設定ウィザード"
+
+#: classes/Tutor_Setup.php:861
+msgid "Tutor &rsaquo; Setup Wizard"
+msgstr "チューター › セットアップウィザード"
+
+#: classes/Tutor_Setup.php:823
+msgid "Create an eLearning platform to let anyone earn by teaching online"
+msgstr "eラーニングプラットフォームを作成して、誰でもオンラインで教えて稼げるようにする"
+
+#: classes/Tutor_Setup.php:822
+msgid "Marketplace"
+msgstr "マーケットプレイス"
+
+#: classes/Tutor_Setup.php:802
+msgid "Individual"
+msgstr "単一行"
+
+#: classes/Tutor_Setup.php:789
+msgid "Pick a category for your LMS platform. You can always update this later."
+msgstr "LMS プラットフォームのカテゴリを選択します。これは後でいつでも更新できます。"
+
+#: classes/Tutor_Setup.php:788
+msgid "Let’s get the platform up and running"
+msgstr "プラットフォームを稼働させましょう"
+
+#: classes/Tutor_Setup.php:764
+msgid "I already know, skip it!"
+msgstr "私はすでに知っている、それをスキップ!"
+
+#: classes/Tutor_Setup.php:759
+msgid "Let’s Start"
+msgstr "始めましょう"
+
+#: classes/Tutor_Setup.php:751
+msgid "Track what type of courses sell the most! Gain insights on user purchases, manage reviews and track quiz attempts."
+msgstr "どのタイプのコースが最も売れているかを追跡しましょう!ユーザーの購入に関する洞察を得て、レビューを管理し、クイズの答案を追跡します。"
+
+#: classes/Tutor_Setup.php:747 classes/Tutor_Setup.php:749
+msgid "Reports and Analytics"
+msgstr "レポートと分析"
+
+#: classes/Tutor_Setup.php:742
+msgid "Select an eCommerce plugin and sell courses any way you like and use any payment gateway you want!"
+msgstr "eコマースプラグインを選択して、好きなようにコースを販売し、必要な支払いゲートウェイを使用してください!"
+
+#: classes/Tutor_Setup.php:738 classes/Tutor_Setup.php:740
+msgid "Freedom With eCommerce"
+msgstr "電子商取引の自由"
+
+#: classes/Tutor_Setup.php:733
+msgid "Build interactive quizzes with the vast selection of question types and verify the learning of your students."
+msgstr "質問タイプの広大な選択でインタラクティブなクイズを構築し、あなたの学生の学習を検証します。"
+
+#: classes/Tutor_Setup.php:729 classes/Tutor_Setup.php:731
+msgid "Advanced Quiz Creator"
+msgstr "高度なクイズクリエーター"
+
+#: classes/Tutor_Setup.php:724
+msgid "Tutor LMS comes with a state-of-the-art frontend course builder. Construct rich and resourceful courses with ease."
+msgstr "チューターLMSには、最先端のフロントエンドコースビルダーが付属しています。豊かで機知に富んだコースを簡単に構築できます。"
+
+#: classes/Tutor_Setup.php:720 classes/Tutor_Setup.php:722
+msgid "Extensive Course Builder"
+msgstr "広範なコースビルダー"
+
+#: classes/Tutor_Setup.php:715
+msgid "From individual instructors to vast eLearning platforms, Tutor LMS grows with you to create your ideal vision of an LMS website."
+msgstr "個々のインストラクターから広大なeラーニングプラットフォームまで、Tutor LMSはあなたとともに成長し、LMSウェブサイトの理想的なビジョンを作成します。"
+
+#: classes/Tutor_Setup.php:711 classes/Tutor_Setup.php:713
+msgid "A Powerful, Smart, and Scalable LMS Solution"
+msgstr "パワフルでスマートでスケーラブルなLMSソリューション"
+
+#: classes/Tutor_Setup.php:638 classes/Tutor_Setup.php:667
+msgid "Skip this step"
+msgstr "このステップをスキップ"
+
+#: classes/Tutor_Setup.php:584
+msgid "Congratulations, you’re all set!"
+msgstr "おめでとうございます！これで準備は万端です"
+
+#: classes/Tutor_Setup.php:560
+msgid "Payment"
+msgstr "支払い"
+
+#: classes/Tutor_Setup.php:525
+msgid "Choose your preferred withdrawal method from the options."
+msgstr "オプションからお好みの引き出し方法を選択してください。"
+
+#: classes/Tutor_Setup.php:524
+msgid "Payment Withdrawal Method"
+msgstr "支払い方法"
+
+#: classes/Tutor_Setup.php:514
+msgid "Control revenue sharing between admin and instructor."
+msgstr "管理者とインストラクター間の収益分配を制御します。"
+
+#: classes/Tutor_Setup.php:513 views/pages/instructors.php:124
+#: views/pages/instructors.php:170
+msgid "Commission Rate"
+msgstr "ボーナス"
+
+#: classes/Tutor_Setup.php:509
+msgid "Allow users to buy and consume content without logging in."
+msgstr "ユーザーがログインせずにコンテンツを購入および使用できるようにします。"
+
+#: classes/Tutor_Setup.php:508
+msgid "Guest Checkout"
+msgstr "ゲストチェックアウト"
+
+#: classes/Tutor_Setup.php:504
+msgid "Payment Settings "
+msgstr "支払い設定"
+
+#: classes/Tutor_Setup.php:498
+msgid "Enable earning for instructors?"
+msgstr "インストラクターの獲得を有効にしますか?"
+
+#: classes/Tutor_Setup.php:493
+msgid "Choose between open and closed instructor signup. If you’re creating a course marketplace, instructor signup should be open."
+msgstr "オープンまたはクローズドインストラクターのサインアップを選択します。コースマーケットプレイスを作成する場合は、教員のサインアップが開いている必要があります。"
+
+#: classes/Tutor_Setup.php:492
+msgid "New Signup"
+msgstr "新しい登録"
+
+#: classes/Tutor_Setup.php:488
+msgid "Instructor Settings"
+msgstr "講師の設定"
+
+#: classes/Options_V2.php:778
+msgid "Final Grade Calculation"
+msgstr "最終成績計算"
+
+#: classes/Tutor_Setup.php:482
+msgid "How many courses per page on the archive pages."
+msgstr "アーカイブページのページあたりのコース数。"
+
+#: classes/Tutor_Setup.php:477
+msgid "How many courses per row on the archive pages."
+msgstr "アーカイブページの行あたりのコース数。"
+
+#: classes/Tutor_Setup.php:476
+msgid "Courses Per Row"
+msgstr "1行あたりのコース数"
+
+#: classes/Tutor_Setup.php:472
+msgid "Allows a Q&A forum on each course."
+msgstr "各コースでQ&Aフォーラムを許可します。"
+
+#: classes/Tutor_Setup.php:471
+msgid "Question and Anwser"
+msgstr "Q&A"
+
+#: classes/Tutor_Setup.php:467
+msgid "Let the students know the instructor(s). Display their credentials, professional experience, and more."
+msgstr "学生にインストラクターを知らせます。資格情報、職務経験などを表示します。"
+
+#: classes/Tutor_Setup.php:466
+msgid "Show Instructor Bio"
+msgstr "講師の経歴を表示"
+
+#: classes/Tutor_Setup.php:450
+msgid "Allow users to have a student profile to showcase awards and completed courses."
+msgstr "ユーザーが学生プロフィールを作成して、賞や修了したコースを紹介できるようにします。"
+
+#: classes/Tutor_Setup.php:338
+msgid "Admin / Owner"
+msgstr "管理者/所有者"
+
+#: classes/Instructors_List.php:62 classes/Options_V2.php:592
+#: classes/Tutor_Setup.php:333 classes/Tutor_Setup.php:557
+#: classes/Utils.php:8935 templates/dashboard/question-answer.php:53
+msgid "Instructor"
+msgstr "講師"
+
+#: classes/Tutor_Setup.php:168
+msgid "Reset Default"
+msgstr "デフォルトにリセット"
+
+#: templates/loop/add-to-cart-edd.php:26
+msgid "Purchase"
+msgstr "購入"
+
+#: templates/dashboard/settings/reset-password.php:26
+#: templates/dashboard/settings/reset-password.php:27
+msgid "Current Password"
+msgstr "現在のパスワード"
+
+#: templates/dashboard/announcements/details.php:45
+#: templates/dashboard/reviews/given-reviews.php:76
+#: templates/single/assignment/content.php:525
+#: views/fragments/announcement-list.php:174
+#: views/fragments/announcement-list.php:322 views/modal/edit_quiz.php:60
+#: views/options/field-types/toggle_switch_button_thumb.php:28
+#: views/pages/course-list.php:340 views/pages/instructors.php:199
+msgid "Edit"
+msgstr "編集"
+
+#: templates/dashboard/withdraw.php:55
+msgid "Withdrawal"
+msgstr "出金"
+
+#: classes/Options_V2.php:721
+msgid "Automatically Load Next Course Content."
+msgstr "次のコースコンテンツを自動的にロードします。"
+
+#: classes/Options_V2.php:1504
+msgid "Hide Course Products on Shop Page"
+msgstr "ショップページでコース製品を非表示にする"
+
+#: classes/Addons.php:66
+msgid "Restrict Content Pro"
+msgstr "Restrict Content Pro"
+
+#: classes/Addons.php:42
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: classes/Options_V2.php:1172 templates/single/course/course-entry-box.php:36
+#: templates/single/course/course-entry-box.php:37
+msgid "Duration"
+msgstr "期間"
+
+#: classes/Tutor_Setup.php:634 classes/Tutor_Setup.php:663
+#: templates/single/common/footer.php:34
+#: templates/single/next-previous-pagination.php:17
+msgid "Previous"
+msgstr "前"
+
+#: classes/Options_V2.php:1591
+msgid "Enabling the maintenance mode allows you to display a custom message on the frontend. During this time, visitors can not access the site content. But the wp-admin dashboard will remain accessible."
+msgstr "メンテナンスモードを有効にすると、フロントエンドにカスタムメッセージを表示できます。この間、訪問者はサイトのコンテンツにアクセスできません。しかし、wp-adminダッシュボードは引き続きアクセス可能です。"
+
+#: classes/Options_V2.php:1588
+msgid "Maintenance Mode"
+msgstr "メンテナンスモード"
+
+#: classes/Options_V2.php:1173 classes/Options_V2.php:1245
+msgid "Disable"
+msgstr "無効化"
+
+#: views/options/template/tutor_pages.php:18
+#: views/pages/tools/tutor_pages.php:121
+msgid "Note: This tool will install all the missing Tutor pages. Pages already defined and set up will not be replaced."
+msgstr "注:このツールは、不足しているすべてのチューターページをインストールします。既に定義および設定されているページは置き換えられません。"
+
+#: views/options/template/tutor_pages.php:82
+#: views/pages/tools/tutor_pages.php:113
+msgid "Re-Generate Tutor Pages"
+msgstr "チューターページの再生成"
+
+#: views/pages/tools/tutor_pages.php:60
+msgid "Page visibility is not public"
+msgstr "ページの公開設定は公開されていません"
+
+#: views/pages/tools/tutor_pages.php:53
+msgid " Page deleted, please set new one"
+msgstr "ページが削除されました。新しいページを設定してください"
+
+#: views/pages/tools/tutor_pages.php:46 views/pages/tools/tutor_pages.php:101
+msgid " Page not set"
+msgstr "ページが設定されていません"
+
+#: views/options/template/tutor_pages.php:30
+#: views/pages/tools/tutor_pages.php:19
+msgid "Page Name"
+msgstr "ページ名"
+
+#: templates/dashboard/announcements/details.php:44
+#: templates/dashboard/my-courses.php:268
+#: templates/dashboard/reviews/given-reviews.php:81
+#: templates/dashboard/settings/profile.php:98
+#: views/fragments/announcement-list.php:171
+#: views/fragments/announcement-list.php:328 views/modal/edit_quiz.php:66
+#: views/options/field-types/media.php:43
+#: views/options/template/import_export.php:118 views/qna/qna-single.php:81
+#: views/qna/qna-table.php:151
+msgid "Delete"
+msgstr "削除"
+
+#: classes/Admin.php:242 classes/Tools_V2.php:323
+#: views/options/template/tutor_pages.php:15
+msgid "Tutor Pages"
+msgstr "講師ページ"
+
+#: classes/Admin.php:133 views/options/tools.php:16 views/pages/tools.php:14
+msgid "Tools"
+msgstr "ツール"
+
+#: classes/Utils.php:2836
+msgid "Retrieve Password"
+msgstr "パスワードの再設定"
+
+#. translators: %s: site name
+#: classes/FormHandler.php:222
+msgid "Password Reset Request for %s"
+msgstr "%sのパスワードリセットリクエスト"
+
+#: classes/FormHandler.php:176
+msgid "Passwords do not match."
+msgstr "パスワードが一致しません"
+
+#: classes/FormHandler.php:171
+msgid "Please enter your password."
+msgstr "パスワードを入力してください"
+
+#: classes/FormHandler.php:165
+msgid "This key is invalid or has already been used. Please reset your password again if needed."
+msgstr "このキーは無効であるか、すでに使用されています。必要に応じて、もう一度パスワードをリセットしてください。"
+
+#: classes/FormHandler.php:131
+msgid " If you don't see the email, check other places it might be, like your junk, spam, social, promotion or others folders."
+msgstr " メールが表示されない場合は、ジャンク、スパム、ソーシャル、プロモーション、その他のフォルダなど、他の場所にあるかどうかを確認してください。"
+
+#: classes/FormHandler.php:130
+msgid "We've sent an email to this account's email address. Click the link in the email to reset your password."
+msgstr "このアカウントのメールアドレスにメールを送信しました。 メールのリンクをクリックして、パスワードをリセットしてください。"
+
+#: classes/FormHandler.php:129
+msgid "Check your E-Mail"
+msgstr "メールのチェック"
+
+#: classes/FormHandler.php:102
+msgid "Password reset is not allowed for this user"
+msgstr "パスワードの初期化をする権限がありません"
+
+#: classes/FormHandler.php:85 classes/FormHandler.php:90
+msgid "Invalid username or email."
+msgstr "ユーザー名またはメールアドレスが無効です"
+
+#: classes/FormHandler.php:63
+msgid "Enter a username or email address."
+msgstr "ユーザー名またはメールアドレスを入力してください"
+
+#: classes/Ajax.php:525
+msgid "Username is required."
+msgstr "ユーザー名は必須です。"
+
+#: views/pages/instructors.php:289
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: templates/email/send-reset-password.php:33
+msgid "Thanks for reading."
+msgstr "ありがとうございました。"
+
+#: templates/email/send-reset-password.php:30
+msgid "Click here to reset your password"
+msgstr "パスワードをリセットする"
+
+#: templates/email/send-reset-password.php:26
+msgid "If you didn't make this request, just ignore this email. If you'd like to proceed:"
+msgstr "このリクエストに心当たりがない場合は、このメールを無視してください。次に進むには:"
+
+#: templates/email/send-reset-password.php:24
+msgid "Username: %s"
+msgstr "ユーザー名: %s"
+
+#: templates/email/send-reset-password.php:21
+msgid "Someone has requested a new password for the following account on %s:"
+msgstr "だれかが%sで次のアカウントのパスワードリセットをリクエストしました:"
+
+#: templates/email/send-reset-password.php:17
+msgid "Hi %s,"
+msgstr "%s 様"
+
+#: templates/template-part/retrieve-password.php:34
+msgid "Username or email"
+msgstr "ユーザー名またはメールアドレス"
+
+#: templates/template-part/retrieve-password.php:29
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr "パスワードをお忘れですか ? ユーザー名またはメールアドレスを入力してください。新しいパスワードを発行するリンクを送信します。"
+
+#: templates/template-part/form-retrieve-password.php:59
+#: templates/template-part/retrieve-password.php:47
+#: templates/template-part/retrieve-password.php:48
+msgid "Reset password"
+msgstr "パスワードをリセット"
+
+#: templates/template-part/form-retrieve-password.php:45
+msgid "Confirm Password"
+msgstr "パスワード確認"
+
+#: templates/template-part/form-retrieve-password.php:27
+msgid "Enter Password and Confirm Password to reset your password"
+msgstr "パスワードを入力し、パスワードを確認すると、パスワードをリセットします。"
+
+#: classes/Options_V2.php:706 views/metabox/course-contents.php:176
+#: views/metabox/course-contents.php:206 views/metabox/course-topics.php:107
+msgid "Lesson"
+msgstr "レッスン"
+
+#: views/modal/topic-form.php:33
+msgid "Topic titles are displayed publicly wherever required. Each topic may contain one or more lessons, quiz and assignments."
+msgstr "トピック名は必要な箇所に表示されます。それぞれのトピックは、一つ以上のレッスン、クイズ、課題を含みます。"
+
+#: views/metabox/course-topics.php:30 views/metabox/course-topics.php:35
+msgid "Add Topic"
+msgstr "トピックの追加"
+
+#: views/metabox/course-topics.php:21
+msgid "Add new topic"
+msgstr "新規トピックを追加"
+
+#: views/metabox/lesson-metabox.php:38
+msgid "Choose the course for this lesson"
+msgstr "このレッスンのコースを選択する"
+
+#: views/metabox/lesson-metabox.php:23
+msgid "Select a course"
+msgstr "コースを選択"
+
+#: views/metabox/instructors-metabox.php:74
+msgid "Add Instructors"
+msgstr "インストラクターの追加"
+
+#: views/metabox/instructors-metabox.php:69
+msgid "Search instructors..."
+msgstr "インストラクターを検索..."
+
+#: views/metabox/instructors-metabox.php:60
+msgid "Add instructors"
+msgstr "インストラクターの追加"
+
+#: views/metabox/instructors-metabox.php:51
+msgid "Add More Instructors"
+msgstr "講師を追加"
+
+#: classes/Options_V2.php:1148 views/metabox/instructors-metabox.php:27
+#: views/pages/course-list.php:168
+msgid "Author"
+msgstr "投稿者"
+
+#: templates/course-filter/filters.php:16
+#: views/metabox/product-selection.php:31
+msgid "Paid"
+msgstr "支払済み"
+
+#: views/metabox/product-selection.php:25
+msgid "Course Type"
+msgstr "コースの種類"
+
+#: views/metabox/course-add-edd-product-metabox.php:14
+msgid "Sell your product, process by EDD"
+msgstr "EDDによる製品、プロセスを販売します"
+
+#: views/metabox/product-selection.php:48
+msgid "Select a Product"
+msgstr "製品を選択"
+
+#: views/metabox/course-add-edd-product-metabox.php:15
+msgid "When selling the course"
+msgstr "コースを売却する場合"
+
+#: views/metabox/product-selection.php:42
+msgid "Select product"
+msgstr "商品を選択"
+
+#: views/metabox/course-additional-data.php:68
+msgid "A list of assets you will be providing for the students in this course (One per line)"
+msgstr "このコースで受講者に提供される素材（箇条書き）"
+
+#: views/metabox/course-additional-data.php:66
+msgid "Materials Included"
+msgstr "素材教材など"
+
+#: views/metabox/course-additional-data.php:46
+msgid "Specify the target audience that will benefit the most from the course. (One line per target audience.)"
+msgstr "このコースを受講するメリットがある受講対象者（箇条書き）"
+
+#: views/metabox/course-additional-data.php:44
+msgid "Targeted Audience"
+msgstr "受講対象者"
+
+#: views/metabox/course-additional-data.php:75
+msgid "Additional requirements or special instructions for the students (One per line)"
+msgstr "追加の受講資格、受講者への特別な指示（箇条書き）"
+
+#: views/metabox/course-additional-data.php:73
+msgid "Requirements/Instructions"
+msgstr "受講資格／指示"
+
+#: views/metabox/course-additional-data.php:51
+msgid "Total Course Duration"
+msgstr "コースの合計時間"
+
+#: views/metabox/course-contents.php:97 views/metabox/course-contents.php:104
+msgid "Update Topic"
+msgstr "トピックを更新する"
+
+#: views/modal/edit-lesson.php:60
+msgid "The idea of a summary is a short text to prepare students for the activities within the topic or week. The text is shown on the course page under the topic name."
+msgstr "要約のアイデアは、トピックまたは週内の活動のために学生を準備するための短いテキストです。テキストは、コースページのトピック名の下に表示されます。"
+
+#: views/modal/topic-form.php:38
+msgid "Topic Summary"
+msgstr "トピック概要"
+
+#: views/modal/topic-form.php:29
+msgid "Topic Name"
+msgstr "トピック名"
+
+#: views/metabox/user-profile-fields.php:63
+msgid "Upload"
+msgstr "アップロード"
+
+#: views/metabox/user-profile-fields.php:46
+msgid "Write a little bit more about you, it will show publicly."
+msgstr "あなたについてもう少し書いてください、それは公に現れるでしょう。"
+
+#: views/metabox/user-profile-fields.php:34
+msgid "Profile Bio"
+msgstr "プロフィール略歴"
+
+#: views/metabox/user-profile-fields.php:27
+msgid "Job Title"
+msgstr "役職名"
+
+#: views/metabox/user-profile-fields.php:14
+msgid "Tutor Fields"
+msgstr "チューターフィールド"
+
+#: templates/dashboard/announcements.php:73
+#: views/fragments/announcement-list.php:376 views/pages/announcements.php:97
+msgid "Create Announcement"
+msgstr "連絡事項を作成"
+
+#: classes/Course_Widget.php:150 views/pages/course-list.php:161
+msgid "Title"
+msgstr "タイトル"
+
+#: views/metabox/video-metabox.php:201
+msgid "Video playback time"
+msgstr "ビデオ再生時間"
+
+#: views/metabox/video-metabox.php:191
+msgid "Place your embedded code here"
+msgstr "埋め込みコードをここに配置します。"
+
+#: views/metabox/video-metabox.php:128
+msgid "File Format: "
+msgstr "ファイル形式:"
+
+#: classes/Utils.php:9089
+msgid "Embedded"
+msgstr "埋め込み"
+
+#: classes/Utils.php:9085
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: classes/Utils.php:9081
+msgid "Youtube"
+msgstr "YouTube"
+
+#: classes/Utils.php:9077
+msgid "External URL"
+msgstr "外部 URL"
+
+#: classes/Utils.php:9073
+msgid "HTML 5 (mp4)"
+msgstr "HTML 5 (mp4)"
+
+#: views/metabox/video-metabox.php:109
+msgid "Select Video Source"
+msgstr "ビデオソースを指定"
+
+#: views/metabox/video-metabox.php:85
+msgid "Video Source"
+msgstr "ビデオソース"
+
+#: views/metabox/video-metabox.php:83
+msgid "Course Intro Video"
+msgstr "コース紹介ビデオ"
+
+#: views/fragments/attachments.php:51
+msgid "Upload Attachments"
+msgstr "ファイルを添付"
+
+#: classes/Course.php:1081 classes/Options_V2.php:1015
+#: views/metabox/course-level-metabox.php:19
+msgid "Difficulty Level"
+msgstr "難易度"
+
+#: views/pages/instructors.php:239
+msgid "Add New Instructor"
+msgstr "新しいインストラクターの追加"
+
+#: views/pages/get-pro.php:13
+msgid "Get pro plugin from themeum.com"
+msgstr "themeum.com からプロプラグインを入手"
+
+#: templates/loop/add-to-cart-edd.php:26 views/pages/addons.php:85
+msgid "Buy Now"
+msgstr "今すぐ購入"
+
+#: views/pages/addons.php:28
+msgid "Themes"
+msgstr "テーマ"
+
+#: views/pages/addons.php:23
+msgid "Plugins"
+msgstr "プラグイン"
+
+#: views/pages/addons.php:16
+msgid "Tutor Add-ons"
+msgstr "Tutor アドオン"
+
+#: views/pages/answer.php:74
+msgid "on"
+msgstr "on"
+
+#: views/pages/answer.php:42
+msgid "Place answer"
+msgstr "答えを置く"
+
+#: views/pages/answer.php:38
+msgid "Write an answer here"
+msgstr "ここに答えを書く"
+
+#: views/pages/add_new_instructor.php:13
+msgid "Add new instructor"
+msgstr "新しいインストラクターを追加する"
+
+#: classes/Utils.php:9018 templates/dashboard/question-answer.php:43
+#: templates/single/course/enrolled/question_and_answer.php:114
+#: views/pages/question_answer.php:49
+msgid "Question & Answer"
+msgstr "質問と回答"
+
+#: views/pages/uninstall.php:16
+msgid "Just deactivate tutor plugin or completely uninstall and erase all of data saved before by tutor."
+msgstr "チュータープラグインを無効にするか、チューターが以前に保存したすべてのデータを完全にアンインストールして消去するだけです。"
+
+#: views/pages/uninstall.php:15
+msgid "Uninstall Tutor"
+msgstr "チューターをアンインストールする"
+
+#: classes/Tools_V2.php:508 views/pages/tools/status.php:307
+msgid "Your server does not support the %s functions - this is required for better character encoding. Some fallbacks will be used instead for it."
+msgstr "ご利用中のサーバーでは %s 関数をサポートしていません。この関数は、より良い文字エンコーディングのために必要です。代わりに一部のフォールバックが使われます。"
+
+#: views/pages/tools/status.php:296
+msgid "Multibyte String (mbstring) is used to convert character encoding, like for emails or converting characters to lowercase."
+msgstr "マルチバイト文字列 (mbstring) は、電子メールや小文字に文字を変換する場合のように、文字のエンコーディングを変換するために使用されます。"
+
+#: classes/Tools_V2.php:304 views/pages/tools/status.php:295
+msgid "Multibyte string"
+msgstr "マルチバイト文字列"
+
+#: classes/Tools_V2.php:504 views/pages/tools/status.php:288
+msgid "Your server does not support the %s function - this is required to use the GeoIP database from MaxMind."
+msgstr "サーバーは %s 関数をサポートしていません。これは MaxMind の GeoIP データベースを使用するために必要です。"
+
+#: views/pages/tools/status.php:279
+msgid "GZip (gzopen) is used to open the GEOIP database from MaxMind."
+msgstr "GZip (gzopen) は MaxMind から GeoIP データベースを開くために使用されます。"
+
+#: classes/Tools_V2.php:297 views/pages/tools/status.php:278
+msgid "GZip"
+msgstr "GZip"
+
+#: classes/Tools_V2.php:500 views/pages/tools/status.php:271
+msgid "Your server does not have the %s class enabled - HTML/Multipart emails, and also some extensions, will not work without DOMDocument."
+msgstr "お使いのサーバーでは %s クラスが有効化されていません。HTML / マルチパートメールと一部の拡張機能は DOMDocument なしでは動作しません。"
+
+#: views/pages/tools/status.php:262
+msgid "HTML/Multipart emails use DOMDocument to generate inline CSS in templates."
+msgstr ""
+"HTML /マルチパートメールは、テンプレート内のインライン CSS を生成するために\n"
+" DOMDocument を使います。"
+
+#: classes/Tools_V2.php:290 views/pages/tools/status.php:261
+msgid "DOMDocument"
+msgstr "DOMDocument"
+
+#: classes/Tools_V2.php:496 views/pages/tools/status.php:254
+msgid "Your server does not have fsockopen or cURL enabled - PayPal IPN and other scripts which communicate with other servers will not work. Contact your hosting provider."
+msgstr "ご使用のサーバーには、fsockopen が無いか、cURL が有効になっていません。- PayPal IPN および他のサーバと通信する他のスクリプトが動作しません。ホスティングプロバイダにお問い合わせください。"
+
+#: views/pages/tools/status.php:246
+msgid "Payment gateways can use cURL to communicate with remote servers to authorize payments, other plugins may also use it when communicating with remote services."
+msgstr "ペイメントゲートウェイはリモートサーバーと通信して支払いを承認する際に cURL を使用することがあります。また、他のプラグインがリモートサービスと通信するときにも使われることがあります。"
+
+#: classes/Tools_V2.php:283 views/pages/tools/status.php:245
+msgid "fsockopen/cURL"
+msgstr "fsockopen/cURL"
+
+#. Translators: %s: default timezone..
+#: classes/Tools_V2.php:491 views/pages/tools/status.php:237
+msgid "Default timezone is %s - it should be UTC"
+msgstr "デフォルトのタイムゾーンは %s です - UTCでなければなりません"
+
+#: views/pages/tools/status.php:232
+msgid "The default timezone for your server."
+msgstr "お使いのサーバーのデフォルトタイムゾーン。"
+
+#: classes/Tools_V2.php:276 views/pages/tools/status.php:231
+msgid "Default timezone is UTC"
+msgstr "デフォルトタイムゾーンは UTC です"
+
+#: views/pages/tools/status.php:227
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr "WordPress インストールにアップロードできる最大ファイルサイズ。"
+
+#: views/pages/tools/status.php:226
+msgid "Max upload size"
+msgstr "最大アップロードサイズ"
+
+#: classes/Tools_V2.php:487 views/pages/tools/status.php:216
+msgid "WordPress requirements"
+msgstr "WordPress 要件"
+
+#: classes/Tools_V2.php:487 views/pages/tools/status.php:216
+msgid "%1$s - We recommend a minimum MySQL version of 5.6. See: %2$s"
+msgstr "%1$s - MySQL の最小バージョン 5.6 をお勧めします。参照: %2$s"
+
+#: views/pages/tools/status.php:209
+msgid "The version of MySQL installed on your hosting server."
+msgstr "お使いのホスティングサーバーにインストールされている MySQL のバージョン。"
+
+#: classes/Tools_V2.php:269 views/pages/tools/status.php:208
+msgid "MySQL version"
+msgstr "MySQL バージョン"
+
+#: views/pages/tools/status.php:194
+msgid "Suhosin is an advanced protection system for PHP installations. It was designed to protect your servers on the one hand against a number of well known problems in PHP applications and on the other hand against potential unknown vulnerabilities within these applications or the PHP core itself. If enabled on your server, Suhosin may need to be configured to increase its data submission limits."
+msgstr "Suhosin は PHP インストールのための高度な保護システムです。これは、PHP アプリケーションでよく知られている多くの問題や、これらのアプリケーションや PHP のコア自体の潜在的な未知の脆弱性からサーバーを保護するために設計されました。お使いのサーバー上で有効になっている場合、 Suhosin はデータ提出制限を増やすように構成する必要があります。"
+
+#: views/pages/tools/status.php:193
+msgid "SUHOSIN installed"
+msgstr "SUHOSIN をインストールしました"
+
+#: views/pages/tools/status.php:189
+msgid "The version of cURL installed on your server."
+msgstr "サーバーにインストールされている cURL のバージョン。"
+
+#: classes/Tools_V2.php:251 views/pages/tools/status.php:188
+msgid "cURL version"
+msgstr "cURLバージョン"
+
+#: views/pages/tools/status.php:184
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr "過負荷を避けるための、サーバーが1つの関数に使用できる変数の最大数。"
+
+#: views/pages/tools/status.php:183
+msgid "PHP max input vars"
+msgstr "PHP Max Input Vars"
+
+#: views/pages/tools/status.php:179
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr "(サーバーのロックアップを回避するために) タイムアウトまでにサイトが1回の操作に費やす時間 (秒単位)"
+
+#: classes/Tools_V2.php:243 views/pages/tools/status.php:178
+msgid "PHP time limit"
+msgstr "PHP タイムリミット"
+
+#: views/pages/tools/status.php:174
+msgid "The largest filesize that can be contained in one post."
+msgstr "一つの投稿に含められる最大ファイルサイズ。"
+
+#: classes/Tools_V2.php:235 views/pages/tools/status.php:173
+msgid "PHP post max size"
+msgstr "PHP POST サイズ上限"
+
+#: classes/Tools_V2.php:472 views/pages/tools/status.php:162
+msgid "We recommend using PHP version 7.2 or above for greater performance and security."
+msgstr "より良いパフォーマンスとセキュリティを実現するには、PHP バージョン7.2以上の使用をおすすめします。"
+
+#: classes/Tools_V2.php:471 views/pages/tools/status.php:160
+msgid "Tutor will run under this version of PHP, however, it has reached end of life. We recommend using PHP version 7.2 or above for greater performance and security."
+msgstr "TutorはこのバージョンのPHPの下で動作しますが、寿命が終わりました。パフォーマンスとセキュリティを強化するために、PHPバージョン7.2以上を使用することをお勧めします。"
+
+#: views/pages/tools/status.php:151
+msgid "The version of PHP installed on your hosting server."
+msgstr "お使いのホスティングサーバーにインストールされている PHP のバージョン。"
+
+#: classes/Tools_V2.php:227 views/pages/tools/status.php:150
+msgid "PHP version"
+msgstr "PHP バージョン"
+
+#: views/pages/tools/status.php:146
+msgid "Information about the web server that is currently hosting your site."
+msgstr "現在、サイトをホストしている Web サーバーに関する情報。"
+
+#: classes/Tools_V2.php:219 views/pages/tools/status.php:145
+msgid "Server info"
+msgstr "サーバー情報"
+
+#: classes/Tools_V2.php:211 views/pages/tools/status.php:139
+msgid "Server environment"
+msgstr "サーバー環境"
+
+#: views/pages/tools/status.php:122
+msgid "Displays whether or not WordPress is using an external object cache."
+msgstr "WordPress が外部オブジェクト キャッシュを使用しているかどうかを表示します。"
+
+#: classes/Tools_V2.php:202 views/pages/tools/status.php:121
+msgid "External object cache"
+msgstr "外部オブジェクトキャッシュ"
+
+#: views/pages/tools/status.php:117
+msgid "The current language used by WordPress. Default = English"
+msgstr "WordPress の現在の言語。標準は英語"
+
+#: classes/Tools_V2.php:158 classes/Tools_V2.php:259
+#: views/pages/tools/status.php:116
+msgid "Language"
+msgstr "言語"
+
+#: views/pages/tools/status.php:106
+msgid "Displays whether or not WP Cron Jobs are enabled."
+msgstr "WP cron ジョブが有効になっていかどうかを表示。"
+
+#: views/pages/tools/status.php:105
+msgid "WordPress cron"
+msgstr "WordPress cron"
+
+#: views/pages/tools/status.php:95
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "WordPressがデバッグモードであるかどうかを表示します。"
+
+#: classes/Tools_V2.php:150 views/pages/tools/status.php:94
+msgid "WordPress debug mode"
+msgstr "WordPress デバッグモード"
+
+#. Translators: %1$s: Memory limit, %2$s: Docs link.
+#: classes/Tools_V2.php:459 views/pages/tools/status.php:86
+msgid "Increasing memory allocated to PHP"
+msgstr "PHP に割り当てられたメモリの増加"
+
+#. Translators: %1$s: Memory limit, %2$s: Docs link.
+#: classes/Tools_V2.php:459 views/pages/tools/status.php:86
+msgid "%1$s - We recommend setting memory to at least 64MB. See: %2$s"
+msgstr "1$s - メモリを最低 64MB に設定することをお勧めします。%2$sを参照してください。"
+
+#: views/pages/tools/status.php:81
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr "サイトが一度に使用できるメモリ (RAM) 上限。"
+
+#: classes/Tools_V2.php:186 views/pages/tools/status.php:80
+msgid "WordPress memory limit"
+msgstr "WordPress メモリ制限"
+
+#: views/pages/tools/status.php:76
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "WordPress マルチサイトを有効化しているかどうか。"
+
+#: classes/Tools_V2.php:142 views/pages/tools/status.php:75
+msgid "WordPress multisite"
+msgstr "WordPress マルチサイト"
+
+#: views/pages/tools/status.php:70
+msgid "The version of tutor."
+msgstr "家庭教師のバージョン。"
+
+#: views/pages/tools/status.php:69
+msgid "Tutor Version"
+msgstr "チューター版"
+
+#. Translators: %1$s: Current version, %2$s: New version
+#: views/pages/tools/status.php:60
+msgid "%1$s - There is a newer version of WordPress available (%2$s)"
+msgstr "%1$s - 新しいバージョンの WordPress が利用可能です (%2$s)"
+
+#: views/pages/tools/status.php:41
+msgid "The version of WordPress installed on your site."
+msgstr "サイトにインストールされている WordPress のバージョン。"
+
+#: classes/Tools_V2.php:134 views/pages/tools/status.php:40
+msgid "WordPress version"
+msgstr "WordPress バージョン"
+
+#: views/pages/tools/status.php:35
+msgid "The root URL of your site."
+msgstr "サイトのルート URL。"
+
+#: classes/Tools_V2.php:168 views/pages/tools/status.php:34
+msgid "Site URL"
+msgstr "サイト URL"
+
+#: views/pages/tools/status.php:29
+msgid "The homepage URL of your site."
+msgstr "サイトのホームページ URL。"
+
+#: classes/Tools_V2.php:125 views/pages/tools/status.php:27
+msgid "Home URL"
+msgstr "ホーム URL"
+
+#: classes/Tools_V2.php:116 views/pages/tools/status.php:22
+msgid "WordPress environment"
+msgstr "WordPress 環境"
+
+#: views/pages/tools/status.php:13
+msgid "Tutor Environment Status"
+msgstr "チューターの環境状況"
+
+#: templates/course-filter/filters.php:36 views/elements/filters.php:156
+msgid "Search"
+msgstr "検索"
+
+#: views/pages/addons.php:110
+msgid "Version:"
+msgstr "バージョン:"
+
+#: views/modal/question_answer_list.php:103
+msgid "Add An Option"
+msgstr "オプションを追加"
+
+#: views/modal/question_form.php:156
+msgid "Input options for the question and select the correct answer."
+msgstr "質問のオプションを入力し、正しい答えを選択します。"
+
+#: views/modal/question_form.php:137
+msgid "Display Points"
+msgstr "表示ポイント"
+
+#: views/modal/question_form.php:132
+msgid "set the mark ex. 10"
+msgstr "マークを設定する 例: 10"
+
+#: views/modal/question_form.php:128
+msgid "Point(s) for this answer"
+msgstr "この回答のポイント"
+
+#: views/modal/question_form.php:117
+msgid "Randomize"
+msgstr "ランダムにする"
+
+#: views/modal/question_form.php:111
+msgid "Answer Required"
+msgstr "回答が必要"
+
+#: views/modal/question_form.php:96
+msgid "Pro version required"
+msgstr "Pro版が必要"
+
+#: views/modal/question_form.php:32
+msgid "Write your question here"
+msgstr "ここにあなたの質問を書いてください"
+
+#: views/modal/question_answer_form.php:127
+msgid "Separate multiple answers by a vertical bar <strong>|</strong>. 1 answer per <strong>{dash}</strong> variable is defined in the question. Example: Apple | Banana | Orange"
+msgstr "複数の回答を縦 <strong>棒|</strong>で区切ります。変数ごとに1つの <strong>{dash}</strong> 回答が質問で定義されています。例: アップルの|バナナ|オレンジ"
+
+#: views/modal/question_answer_form.php:114
+msgid "Please make sure to use the <strong>{dash}</strong> variable in your question title to show the blanks in your question. You can use multiple <strong>{dash}</strong> variables in one question."
+msgstr "質問のタイトルに <strong>{dash}</strong> 変数を使用して、質問の空白を表示してください。1つの質問で複数の <strong>{dash}</strong> 変数を使用できます。"
+
+#: views/modal/question_answer_form.php:32
+msgid "Select the correct option"
+msgstr "正しいオプションを選択します"
+
+#: views/metabox/course-topics.php:122
+msgid "Update Lesson"
+msgstr "レッスンを更新"
+
+#: views/modal/edit-lesson.php:65
+msgid "Feature Image"
+msgstr "アイキャッチ画像"
+
+#: views/modal/edit_quiz.php:270
+msgid "Student will place answer in short answer question type within this characters limit."
+msgstr "学生は、この文字数制限内に短答の質問タイプで回答を配置します。"
+
+#: views/modal/edit_quiz.php:262
+msgid "Short answer characters limit"
+msgstr "短い回答文字数の制限"
+
+#: views/modal/edit_quiz.php:256
+msgid "Show/hide question number during attempt."
+msgstr "答案中に質問番号を表示/非表示にします。"
+
+#: views/modal/edit_quiz.php:253
+msgid "Hide question number"
+msgstr "質問番号を非表示にする"
+
+#: views/modal/edit_quiz.php:246
+msgid "Descending"
+msgstr "降順"
+
+#: views/modal/edit_quiz.php:245
+msgid "Ascending"
+msgstr "昇順"
+
+#: views/modal/edit_quiz.php:244
+msgid "Sorting"
+msgstr "並べ替え"
+
+#: views/modal/edit_quiz.php:243
+msgid "Random"
+msgstr "ランダム"
+
+#: views/modal/edit_quiz.php:240
+msgid "Questions Order"
+msgstr "質問の順序"
+
+#: views/modal/edit_quiz.php:234
+msgid "Question below each other"
+msgstr "お互いの下の質問"
+
+#: views/modal/edit_quiz.php:233
+msgid "Question Pagination"
+msgstr "質問のページネーション"
+
+#: views/modal/edit_quiz.php:232
+msgid "Single Question"
+msgstr "単一の質問"
+
+#: views/modal/edit_quiz.php:231
+msgid "Set question layout view"
+msgstr "質問レイアウトビューの設定"
+
+#: views/modal/edit_quiz.php:228
+msgid "Question Layout"
+msgstr "質問レイアウト"
+
+#: views/modal/edit_quiz.php:222
+msgid "If you enable this option, the quiz will start automatically after the page is loaded."
+msgstr "このオプションを有効にすると、ページが読み込まれた後にクイズが自動的に開始します。"
+
+#: views/modal/edit_quiz.php:219
+msgid "Quiz Auto Start"
+msgstr "クイズ自動スタート"
+
+#: views/modal/edit_quiz.php:189
+msgid "This amount of question will be available for students to answer, and question will comes randomly from all available questions belongs with a quiz, if this amount is greater than available question, then all questions will be available for a student to answer."
+msgstr "この質問数を学生は回答できます。質問はクイズに属するすべての利用可能な質問からランダムに取得されます。この質問数が利用可能な質問より大きい場合、学生はすべての質問に回答できます。"
+
+#: views/modal/edit_quiz.php:185
+msgid "Max Question Allowed to Answer"
+msgstr "回答できる最大数の質問"
+
+#: views/modal/edit_quiz.php:179
+msgid "Set the passing percentage for this quiz"
+msgstr "このクイズの合格率を設定する"
+
+#: views/modal/edit_quiz.php:175
+msgid "Passing Grade (%)"
+msgstr "合格ライン"
+
+#: views/modal/edit_quiz.php:167
+msgid "Restriction on the number of attempts a student is allowed to take for this quiz. 0 for no limit"
+msgstr "学生がこのクイズに参加できる試行回数の制限。0 (制限なし)"
+
+#: views/modal/question_form.php:145
+msgid "Optional"
+msgstr "オプション"
+
+#: views/modal/edit_quiz.php:114
+msgid "Time limit for this quiz. 0 means no time limit."
+msgstr "このクイズの時間制限。0 は時間制限がないことを意味します。"
+
+#: views/modal/edit_quiz.php:109
+msgid "Hide quiz time - display"
+msgstr "テストの時間を非表示 - 表示"
+
+#: classes/Tutor_Setup.php:642 classes/Tutor_Setup.php:806
+#: classes/Tutor_Setup.php:826 templates/single/common/footer.php:40
+#: templates/single/next-previous-pagination.php:23
+msgid "Next"
+msgstr "次"
+
+#: templates/dashboard/assignments/review.php:42
+#: templates/dashboard/assignments/submitted.php:34
+#: templates/single/quiz/parts/question.php:184
+#: views/metabox/course-topics.php:87 views/modal/question_form.php:25
+#: views/qna/qna-single.php:56
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:20
+#: views/quiz/header-context/course-single-previous-attempts.php:17
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:14
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:15
+msgid "Back"
+msgstr "戻る"
+
+#: views/modal/edit_quiz.php:82
+msgid "Add Question"
+msgstr "質問を追加する"
+
+#: views/modal/edit_quiz.php:17
+msgid "Type your quiz title here"
+msgstr "ここにクイズのタイトルを入力してください"
+
+#: views/metabox/course-topics.php:60 views/quiz/contexts.php:17
+msgid "Quiz Info"
+msgstr "クイズ情報"
+
+#: views/modal/question_answer_form.php:286
+msgid "Update Answer"
+msgstr "回答を更新"
+
+#: views/modal/question_answer_form.php:276
+msgid "The answers that students enter should match with this text. Write in <strong>small caps</strong>"
+msgstr "生徒が入力する答えは,このテキストと一致する必要があります。<strong>小さな大文字</strong>で書く"
+
+#: views/modal/question_answer_form.php:270
+msgid "Answer input value"
+msgstr "回答入力値"
+
+#: views/modal/question_answer_form.php:240
+msgid "Image matched text"
+msgstr "画像一致テキスト"
+
+#: views/modal/question_answer_form.php:145
+#: views/modal/question_answer_form.php:168
+msgid "Matched Answer title"
+msgstr "一致した回答のタイトル"
+
+#: views/modal/question_answer_form.php:121
+msgid "Correct Answer(s)"
+msgstr "正解"
+
+#: views/modal/question_answer_form.php:98
+#: views/modal/question_answer_form.php:214
+msgid "Text &amp; Image both"
+msgstr "テキストと画像の両方"
+
+#: views/modal/question_answer_form.php:92
+#: views/modal/question_answer_form.php:208
+msgid "Only Image"
+msgstr "画像のみ"
+
+#: views/modal/question_answer_form.php:86
+#: views/modal/question_answer_form.php:202
+msgid "Only text"
+msgstr "サムネイルを表示しない、テキストのみ"
+
+#: views/modal/question_answer_form.php:80
+#: views/modal/question_answer_form.php:196
+msgid "Display format for options"
+msgstr "オプションの表示形式"
+
+#: views/modal/question_answer_form.php:52
+#: views/modal/question_answer_form.php:136
+#: views/modal/question_answer_form.php:159
+msgid "Answer title"
+msgstr "新しい回答通知のタイトル"
+
+#: views/metabox/course/field-types/groups/select.php:15
+#: views/metabox/course/field-types/select.php:15
+#: views/options/field-types/radio.php:13
+#: views/options/field-types/select.php:22
+msgid "Select Option"
+msgstr "オプションを選択"
+
+#: views/options/withdraw/withdraw_admin_options_generator.php:43
+msgid "Enable "
+msgstr "有効 "
+
+#: views/options/withdraw/withdraw_admin_options_generator.php:38
+msgid "Enable/Disable"
+msgstr "有効化/無効化"
+
+#: views/options/options_generator.php:98
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: views/options/options_generator.php:14
+msgid "Tutor Settings"
+msgstr "チューターの設定"
+
+#: views/pages/withdraw_requests.php:88
+msgid "Request By"
+msgstr "リクエストを送信"
+
+#: classes/Options_V2.php:832
+msgid "Select a monetization option to generate revenue by selling courses. Supports: WooCommerce, Easy Digital Downloads, Paid Memberships Pro"
+msgstr "コースを販売して収益を得るためのマネタイズオプションを選択します。サポートしています。WooCommerce、Easy Digital Downloads、Paid Memberships Pro"
+
+#: classes/Options_V2.php:828
+msgid "Disable Monetization"
+msgstr "収益化を無効にする"
+
+#: classes/Options_V2.php:809
+msgid "Monetization"
+msgstr "マネタイズ"
+
+#: classes/Options_V2.php:1431
+msgid "Text Color"
+msgstr "文字色"
+
+#: classes/Options_V2.php:1422
+msgid "Primary Hover Color"
+msgstr "原色ホバーカラー"
+
+#: classes/Options_V2.php:1413
+msgid "Primary Color"
+msgstr "メインの色"
+
+#: classes/Options_V2.php:937
+msgid "Instructors should earn equal or above this amount to make a withdraw request."
+msgstr "講師はこの金額以上の収入があれば、引き出し申請ができます。"
+
+#: classes/Options_V2.php:935
+msgid "Minimum Withdrawal Amount"
+msgstr "最低引き出し額"
+
+#: classes/Options_V2.php:879
+msgid "Define the number of statements to show."
+msgstr "表示するステートメントの数を定義します。"
+
+#: classes/Options_V2.php:876
+msgid "Show Statement Per Page"
+msgstr "ページごとにステートメントを表示"
+
+#: classes/Options_V2.php:916
+msgid "Fixed"
+msgstr "固定"
+
+#: classes/Options_V2.php:915
+msgid "Percent"
+msgstr "パーセント"
+
+#: classes/Options_V2.php:894
+msgid "Fees are charged from the entire sales amount. The remaining amount will be divided among admin and instructors."
+msgstr "手数料は、売上金の全額から徴収します。残りの金額は管理者と講師で分配されます。"
+
+#: classes/Options_V2.php:1530
+msgid "Choose the page for student registration."
+msgstr "学生登録のページを選択します。"
+
+#: classes/Options_V2.php:1527 classes/Utils.php:7096
+msgid "Student Registration Page"
+msgstr "受講生登録ページ"
+
+#: classes/Options_V2.php:607
+msgid "Become an Instructor Button"
+msgstr "インストラクターになるボタン"
+
+#: classes/Options_V2.php:1519 classes/Utils.php:7095
+msgid "Instructor Registration Page"
+msgstr "講師登録ページ"
+
+#: classes/Options_V2.php:580
+msgid "Allow multiple instructors to upload their courses."
+msgstr "複数の講師が自分のコースをアップロードできるようにする。"
+
+#: classes/Options_V2.php:779
+msgid "When multiple attempts are allowed, select which method should be used to calculate a student's final grade for the quiz."
+msgstr "複数の答案が許可されている場合は、クイズの生徒の最終成績を計算するために使用する方法を選択します。"
+
+#: classes/Options_V2.php:785
+msgid "Last Attempt"
+msgstr "最後の試行"
+
+#: classes/Options_V2.php:784
+msgid "First Attempt"
+msgstr "最初の試み"
+
+#: classes/Options_V2.php:783
+msgid "Average Grade"
+msgstr "平均評定"
+
+#: classes/Options_V2.php:782
+msgid "Highest Grade"
+msgstr "最高評定"
+
+#: classes/Options_V2.php:752
+msgid "Choose which action to follow when the quiz time expires."
+msgstr "クイズの時間が終了した際に、実行するアクションを選択してください。"
+
+#: classes/Options_V2.php:750
+msgid "Attempts must be submitted before time expires, otherwise they will not be counted"
+msgstr "試行回数は、時間切れになる前に提出しなければ、カウントされません"
+
+#: classes/Options_V2.php:748
+msgid "The current quiz answers are submitted automatically."
+msgstr "現在のクイズの回答が自動的に提出されます。"
+
+#: classes/Options_V2.php:744
+msgid "When time expires"
+msgstr "時間切れの場合"
+
+#: includes/translate-text.php:144 templates/single/quiz/top.php:73
+#: views/modal/edit_quiz.php:99
+msgid "Seconds"
+msgstr "秒"
+
+#: includes/translate-text.php:138 templates/single/quiz/top.php:74
+#: views/modal/edit_quiz.php:100
+msgid "Minutes"
+msgstr "分"
+
+#: includes/translate-text.php:132 templates/single/assignment/content.php:62
+#: templates/single/quiz/top.php:75 views/modal/edit_quiz.php:101
+msgid "Hours"
+msgstr "時"
+
+#: includes/translate-text.php:126 templates/single/assignment/content.php:62
+#: templates/single/quiz/top.php:76 views/modal/edit_quiz.php:102
+msgid "Days"
+msgstr "日"
+
+#: templates/single/quiz/top.php:77 views/modal/edit_quiz.php:103
+msgid "Weeks"
+msgstr "週"
+
+#: views/modal/edit_quiz.php:90
+msgid "Time Limit"
+msgstr "制限時間"
+
+#: classes/Options_V2.php:1543
+msgid "Lesson Permalink Base"
+msgstr "レッスンパーマリンクベース"
+
+#: classes/Options_V2.php:969
+msgid "Design Settings"
+msgstr "デザインの設定"
+
+#: classes/Options_V2.php:1002 classes/Tutor_Setup.php:481
+msgid "Courses Per Page"
+msgstr "1ページあたりのコース数"
+
+#: classes/Options_V2.php:989
+msgid "Define how many columns you want to use to display courses."
+msgstr "コースの表示に使用する列の数を定義します。"
+
+#: classes/Options_V2.php:981
+msgid "Column Per Row"
+msgstr "1行あたりのカラム"
+
+#: classes/Options_V2.php:1514
+msgid "This page will be used to list all the published courses."
+msgstr "このページには、公開されているすべてのコースが表示されます。"
+
+#: classes/Options_V2.php:1511
+msgid "Course Archive Page"
+msgstr "コース一覧ページ"
+
+#: views/qna/qna-single.php:74 views/qna/qna-single.php:76
+#: views/qna/qna-table.php:132 views/qna/qna-table.php:135
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: classes/Options_V2.php:1497
+msgid "Gutenberg Editor"
+msgstr "グーテンベルク・エディター"
+
+#: classes/Options_V2.php:585
+msgid "Pagination"
+msgstr "ページ送り"
+
+#: classes/Options_V2.php:1458
+msgid "Video Player"
+msgstr "動画プレーヤー"
+
+#: classes/Options_V2.php:665
+msgid "This will hide the header and the footer and enable spotlight (full screen) mode when students view lessons."
+msgstr "これにより、ヘッダーとフッターが非表示になり、学生がレッスンを表示するときにスポットライト(フルスクリーン)モードが有効になります。"
+
+#: classes/Options_V2.php:662
+msgid "Spotlight mode"
+msgstr "スポットライトモード"
+
+#: classes/Options_V2.php:1583
+msgid "Delete all data during uninstallation"
+msgstr "アンインストール中にすべてのデータを削除する"
+
+#: classes/Options_V2.php:1580
+msgid "Erase upon uninstallation"
+msgstr "アンインストール時に消去する"
+
+#: classes/Options_V2.php:634
+msgid "Students must be logged in to view course"
+msgstr "生徒はコースの閲覧にログインが必要です。"
+
+#: classes/Options_V2.php:631
+msgid "Course Visibility"
+msgstr "コース表示状況"
+
+#: classes/Options_V2.php:550
+msgid "This page will be used for student and instructor dashboard"
+msgstr "このページは学生および講師用ダッシュボードに使用されます"
+
+#: classes/Options_V2.php:547 classes/Utils.php:7094
+msgid "Dashboard Page"
+msgstr "ダッシュボードページ"
+
+#: classes/Tutor_Setup.php:385
+msgid "Unlimited"
+msgstr "無制限"
+
+#: classes/Withdraw.php:244
+msgid "Minimum withdrawal amount is %1$s %2$s %3$s "
+msgstr "最低引き出し額は %1$s %2$s %3$s "
+
+#: classes/Withdraw.php:239
+msgid "Please save withdraw method "
+msgstr "出金方法を保存してください"
+
+#: classes/Withdraw.php:107
+msgid "PayPal E-Mail Address"
+msgstr "PayPal メールアドレス"
+
+#: classes/Withdraw.php:96
+msgid "We will send you an E-Check to this address directly."
+msgstr "この住所にEチェックが送られます。"
+
+#: classes/Withdraw.php:95
+msgid "Your Physical Address"
+msgstr "現住所"
+
+#: classes/Withdraw.php:90
+msgid "E-Check"
+msgstr "Eチェック"
+
+#: classes/Withdraw.php:83
+msgid "BIC / SWIFT"
+msgstr "申し送り事項"
+
+#: classes/Withdraw.php:79
+msgid "IBAN"
+msgstr "IBAN"
+
+#: classes/Withdraw.php:75
+msgid "Bank Name"
+msgstr "銀行名"
+
+#: classes/Withdraw.php:71
+msgid "Account Number"
+msgstr "口座番号"
+
+#: classes/Withdraw.php:67
+msgid "Account Name"
+msgstr "口座名義"
+
+#: classes/Withdraw.php:62
+msgid "Get your payment directly into your bank account"
+msgstr "お支払いを銀行口座に直接お受け取りください"
+
+#: classes/Withdraw.php:60
+msgid "Bank Transfer"
+msgstr "銀行振込"
+
+#: classes/Post_types.php:466
+msgid "Preview course"
+msgstr "コースをプレビュー"
+
+#: classes/Post_types.php:460
+msgid "View course"
+msgstr "コースの表示"
+
+#: classes/Post_types.php:454
+msgid "Course draft updated."
+msgstr "コースの下書きを更新しました。"
+
+#: classes/Post_types.php:439
+msgid "M j, Y @ G:i"
+msgstr "Y年n月j日 @ G:i"
+
+#: classes/Post_types.php:452
+msgid "Course submitted."
+msgstr "提出されたコース。"
+
+#: classes/Post_types.php:451
+msgid "Course saved."
+msgstr "コースが保存されました。"
+
+#: classes/Post_types.php:450
+msgid "Course published."
+msgstr "コースを公開しました。"
+
+#: classes/Post_types.php:432
+msgid "Course restored to revision from "
+msgstr "以下のリビジョンから復元されたコース "
+
+#: classes/Post_types.php:447
+msgid "Custom field deleted."
+msgstr "カスタムフィールドを削除しました。"
+
+#: classes/Post_types.php:446
+msgid "Custom field updated."
+msgstr "カスタムフィールドを更新しました。"
+
+#: classes/Post_types.php:445 classes/Post_types.php:448
+msgid "Course updated."
+msgstr "コースを更新しました。"
+
+#: classes/Post_types.php:380
+msgid "No Assignments found in Trash."
+msgstr "ゴミ箱に課題が見つかりません。"
+
+#: classes/Post_types.php:379
+msgid "No Assignments found."
+msgstr "課題が見つかりませんでした。"
+
+#: classes/Post_types.php:378
+msgid "Parent Assignments:"
+msgstr "親の割り当て:"
+
+#: classes/Post_types.php:377
+msgid "Search Assignments"
+msgstr "宿題を検索する"
+
+#: classes/Post_types.php:376
+msgid "Assignments"
+msgstr "課題"
+
+#: classes/Post_types.php:375
+msgid "View Assignment"
+msgstr "宿題を表示"
+
+#: classes/Post_types.php:374
+msgid "Edit Assignment"
+msgstr "課題を編集"
+
+#: classes/Post_types.php:373
+msgid "New Assignment"
+msgstr "新規割り当て"
+
+#: classes/Post_types.php:372
+msgid "Add New Assignment"
+msgstr "新規宿題を追加"
+
+#: classes/Post_types.php:370
+msgctxt "add new on admin bar"
+msgid "Assignment"
+msgstr "課題"
+
+#: classes/Post_types.php:369
+msgctxt "admin menu"
+msgid "Assignments"
+msgstr "課題"
+
+#: classes/Post_types.php:368
+msgctxt "post type singular name"
+msgid "Assignment"
+msgstr "課題"
+
+#: classes/Post_types.php:367
+msgctxt "post type general name"
+msgid "Assignments"
+msgstr "課題"
+
+#: classes/Post_types.php:301
+msgid "No quizzes found in Trash."
+msgstr "ゴミ箱にクイズは見つかりませんでした。"
+
+#: classes/Post_types.php:300
+msgid "No quizzes found."
+msgstr "クイズは見つかりませんでした。"
+
+#: classes/Post_types.php:299
+msgid "Parent Quizzes:"
+msgstr "親クイズ:"
+
+#: classes/Post_types.php:298
+msgid "Search Quizzes"
+msgstr "クイズを検索"
+
+#: classes/Post_types.php:297
+msgid "Quizzes"
+msgstr "テスト"
+
+#: classes/Post_types.php:296
+msgid "View Quiz"
+msgstr "クイズを表示"
+
+#: classes/Post_types.php:295
+msgid "Edit Quiz"
+msgstr "テストを編集"
+
+#: classes/Post_types.php:294
+msgid "New Quiz"
+msgstr "新規小テスト"
+
+#: classes/Post_types.php:293
+msgid "Add New Quiz"
+msgstr "新しいテストを追加"
+
+#: classes/Post_types.php:291
+msgctxt "add new on admin bar"
+msgid "Quiz"
+msgstr "クイズ"
+
+#: classes/Post_types.php:290
+msgctxt "admin menu"
+msgid "Quizzes"
+msgstr "テスト"
+
+#: classes/Post_types.php:289
+msgctxt "post type singular name"
+msgid "Quiz"
+msgstr "クイズ"
+
+#: classes/Post_types.php:288
+msgctxt "post type general name"
+msgid "Quizzes"
+msgstr "テスト"
+
+#: classes/Post_types.php:235
+msgid "No lessons found in Trash."
+msgstr "ゴミ箱にレッスンは見つかりませんでした。"
+
+#: classes/Post_types.php:234
+msgid "No lessons found."
+msgstr "レッスンがありません。"
+
+#: classes/Post_types.php:233
+msgid "Parent Lessons:"
+msgstr "親のレッスン:"
+
+#: classes/Post_types.php:232
+msgid "Search Lessons"
+msgstr "レッスンを検索"
+
+#: classes/Post_types.php:230
+msgid "View Lesson"
+msgstr "レッスンを表示"
+
+#: classes/Post_types.php:229
+msgid "Edit Lesson"
+msgstr "レッスンを編集する"
+
+#: classes/Post_types.php:228
+msgid "New Lesson"
+msgstr "新規レッスン"
+
+#: classes/Post_types.php:227
+msgid "Add New Lesson"
+msgstr "新しいレッスンを追加する"
+
+#: classes/Post_types.php:225
+msgctxt "add new on admin bar"
+msgid "Lesson"
+msgstr "レッスン"
+
+#: classes/Post_types.php:224
+msgctxt "admin menu"
+msgid "Lessons"
+msgstr "レッスン"
+
+#: classes/Post_types.php:223
+msgctxt "post type singular name"
+msgid "Lesson"
+msgstr "レッスン"
+
+#: classes/Post_types.php:222
+msgctxt "post type general name"
+msgid "Lessons"
+msgstr "レッスン"
+
+#: classes/Post_types.php:192
+msgid "No Tags found."
+msgstr "タグが見つかりません。"
+
+#: classes/Post_types.php:191
+msgid "Choose from the most used Tags"
+msgstr "最もよく使用されるタグから選択する"
+
+#: classes/Post_types.php:190
+msgid "Add or remove Tags"
+msgstr "タグを追加または削除する"
+
+#: classes/Post_types.php:189
+msgid "Separate Tags with commas"
+msgstr "タグをコンマで区切る"
+
+#: classes/Post_types.php:188
+msgid "New Tag Name"
+msgstr "新規タグ名"
+
+#: classes/Post_types.php:187
+msgid "Add New Tag"
+msgstr "新規タグを追加"
+
+#: classes/Post_types.php:186
+msgid "Update Tag"
+msgstr "タグを更新"
+
+#: classes/Post_types.php:185
+msgid "Edit Tag"
+msgstr "タグを編集"
+
+#: classes/Post_types.php:182
+msgid "All Tags"
+msgstr "すべてのタグ"
+
+#: classes/Post_types.php:181
+msgid "Popular Tags"
+msgstr "人気のタグ"
+
+#: classes/Post_types.php:180
+msgid "Search Tags"
+msgstr "タグを検索"
+
+#: classes/Post_types.php:179
+msgctxt "taxonomy singular name"
+msgid "Tag"
+msgstr "タグ"
+
+#: classes/Post_types.php:178
+msgctxt "taxonomy general name"
+msgid "Tags"
+msgstr "タグ"
+
+#: classes/Post_types.php:161
+msgid "Course Categories"
+msgstr "講座カテゴリー"
+
+#: classes/Post_types.php:160
+msgid "No categories found."
+msgstr "カテゴリーが見つかりませんでした。"
+
+#: classes/Post_types.php:159
+msgid "Choose from the most used categories"
+msgstr "使用頻度の高いカテゴリから選択する"
+
+#: classes/Post_types.php:158
+msgid "Add or remove categories"
+msgstr "カテゴリーの追加または削除"
+
+#: classes/Post_types.php:157
+msgid "Separate categories with commas"
+msgstr "カテゴリーを半角コンマで区切ってください"
+
+#: classes/Post_types.php:156
+msgid "New Category Name"
+msgstr "新規カテゴリー名"
+
+#: classes/Post_types.php:155
+msgid "Add New Category"
+msgstr "新しいカテゴリーを追加"
+
+#: classes/Post_types.php:154
+msgid "Update Category"
+msgstr "カテゴリーを更新"
+
+#: classes/Post_types.php:153
+msgid "Edit Category"
+msgstr "カテゴリーを編集"
+
+#: classes/Post_types.php:150
+msgid "All Categories"
+msgstr "すべてのカテゴリー"
+
+#: classes/Post_types.php:149
+msgid "Popular Categories"
+msgstr "人気のカテゴリー"
+
+#: classes/Post_types.php:148
+msgid "Search Categories"
+msgstr "カテゴリーを検索"
+
+#: classes/Post_types.php:147
+msgctxt "taxonomy singular name"
+msgid "Category"
+msgstr "カテゴリー"
+
+#: classes/Post_types.php:146
+msgctxt "taxonomy general name"
+msgid "Course Categories"
+msgstr "コースカテゴリー"
+
+#: classes/Post_types.php:108 classes/Post_types.php:240
+#: classes/Post_types.php:306 classes/Post_types.php:346
+#: classes/Post_types.php:385 classes/Post_types.php:500
+msgid "Description."
+msgstr "説明."
+
+#: classes/Post_types.php:103
+msgid "No courses found in Trash."
+msgstr "ゴミ箱にはコースが見つかりませんでした。"
+
+#: classes/Post_types.php:102
+msgid "No courses found."
+msgstr "コースが見つかりません。"
+
+#: classes/Post_types.php:101
+msgid "Parent Courses:"
+msgstr "親コース"
+
+#: classes/Post_types.php:100
+msgid "Search Courses"
+msgstr "コースを検索"
+
+#: classes/Post_types.php:97
+msgid "Edit Course"
+msgstr "コースを編集する"
+
+#: classes/Dashboard.php:80 classes/Post_types.php:96
+msgid "New Course"
+msgstr "新規講座"
+
+#: classes/Post_types.php:95
+msgid "Add New Course"
+msgstr "新しいコースを追加"
+
+#: views/pages/course-list.php:50 views/pages/instructors.php:71
+#: views/pages/tools/manage-tokens.php:37
+msgid "Add New"
+msgstr "新規追加"
+
+#: classes/Post_types.php:93
+msgctxt "add new on admin bar"
+msgid "Course"
+msgstr "コース"
+
+#: classes/Post_types.php:92
+msgctxt "admin menu"
+msgid "Courses"
+msgstr "コース"
+
+#: classes/Post_types.php:91
+msgctxt "post type singular name"
+msgid "Course"
+msgstr "コース"
+
+#: classes/Post_types.php:90
+msgctxt "post type general name"
+msgid "Courses"
+msgstr "コース"
+
+#: classes/Course.php:1082 classes/Course_Settings_Tabs.php:92
+#: classes/Options_V2.php:1149 classes/Options_V2.php:1157
+#: classes/Options_V2.php:1165 classes/Options_V2.php:1181
+#: classes/Options_V2.php:1189 classes/Options_V2.php:1197
+#: classes/Options_V2.php:1205 classes/Options_V2.php:1213
+#: classes/Options_V2.php:1221 classes/Options_V2.php:1229
+#: classes/Options_V2.php:1237 classes/Options_V2.php:1253
+#: classes/Options_V2.php:1261 classes/User.php:354
+msgid "Enable"
+msgstr "有効化"
+
+#: classes/Course_Settings_Tabs.php:91
+msgid "Maximum Students"
+msgstr "受講生の上限"
+
+#: classes/Course_Settings_Tabs.php:85 classes/Options_V2.php:535
+#: classes/Tutor_Setup.php:429
+msgid "General Settings"
+msgstr "一般設定"
+
+#: classes/Course_Settings_Tabs.php:72 classes/Course_Settings_Tabs.php:165
+#: classes/Options_V2.php:619 classes/Tutor_Setup.php:462
+#: views/metabox/course/settings-tabs.php:25
+msgid "Course Settings"
+msgstr "講座設定"
+
+#: classes/TutorEDD.php:94
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#: classes/TutorEDD.php:73
+msgid "This will enable sell your product via EDD"
+msgstr "これにより、EDDで製品を販売することが可能になります"
+
+#: classes/TutorEDD.php:72
+msgid "Enable EDD"
+msgstr "EDD の有効化"
+
+#: classes/TutorEDD.php:68
+msgid "Tutor Course Attachments Settings"
+msgstr "Tutor コースの添付ファイル設定"
+
+#: classes/TutorEDD.php:63
+msgid "EDD"
+msgstr "EDD"
+
+#: classes/Instructor.php:309
+msgid "Instructor has been added successfully"
+msgstr "講師の追加に成功しました"
+
+#: classes/Instructor.php:251
+msgid "Phone Number field is required"
+msgstr "電話番号欄は必須項目です"
+
+#: classes/Instructor.php:214
+msgid "Already applied for instructor"
+msgstr "インストラクターに応募済み"
+
+#. translators: %s: plugin name
+#: classes/Admin.php:612
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "もし %1$s を気に入っていただけたなら、%2$s評価をつけていただけると嬉しいです。"
+
+#: classes/Admin.php:588
+msgid "<strong style=\"color: #03bd24\">Get Support</strong>"
+msgstr "<strong style=\"color: #03bd24\">サポートを受ける</strong>"
+
+#: classes/Admin.php:583
+msgid "<strong style=\"color: #03bd24\">Documentation</strong>"
+msgstr "<strong style=\"color: #03bd24\">ドキュメント</strong>"
+
+#: classes/Admin.php:557
+msgid "Upgrade to Pro"
+msgstr "プロ版にアップグレード"
+
+#: classes/Admin.php:138
+msgid "<span class=\"dashicons dashicons-awards tutor-get-pro-text\"></span> Get Pro"
+msgstr "<span class=\"dashicons dashicons-awards tutor-get-pro-text\"></span> プロを取得します。"
+
+#: classes/Admin.php:138
+msgid "Get Pro"
+msgstr "プロ版を入手"
+
+#: classes/Admin.php:129 views/pages/tutor-pro-addons.php:55
+msgid "Add-ons"
+msgstr "アドオン"
+
+#: classes/Admin.php:126
+msgid "Withdraw Requests"
+msgstr "出金申請"
+
+#: classes/Admin.php:121
+msgid "Q & A "
+msgstr "Q & A"
+
+#: classes/Admin.php:121
+msgid "Q & A"
+msgstr "Q & A"
+
+#: classes/Admin.php:74
+msgid "Pro"
+msgstr "プロ"
+
+#: classes/Utils.php:7055
+msgid "Not Taken"
+msgstr "取られない"
+
+#: classes/Utils.php:7053
+msgid "In Progress"
+msgstr "進行中"
+
+#: classes/Utils.php:7049 includes/translate-text.php:69
+#: templates/dashboard/purchase_history.php:119
+msgid "Completed"
+msgstr "完了"
+
+#: classes/Utils.php:5228
+msgid "Expert"
+msgstr "上級"
+
+#: classes/Utils.php:5227
+msgid "Intermediate"
+msgstr "中級者"
+
+#: classes/Utils.php:5226
+msgid "Beginner"
+msgstr "初心者"
+
+#: classes/Utils.php:5225
+msgid "All Levels"
+msgstr "すべてのレベル"
+
+#: classes/Utils.php:4886
+msgid "Ordering"
+msgstr "並び替え"
+
+#: classes/Utils.php:4881
+msgid "Image Answering"
+msgstr "画像応答"
+
+#: classes/Utils.php:4876
+msgid "Image Matching"
+msgstr "画像マッチング"
+
+#: classes/Utils.php:4871
+msgid "Matching"
+msgstr "該当しました"
+
+#: classes/Utils.php:4866
+msgid "Short Answer"
+msgstr "短い答え"
+
+#: classes/Utils.php:4861
+msgid "Fill In The Blanks"
+msgstr "空白を埋める"
+
+#: classes/Utils.php:4851
+msgid "Multiple Choice"
+msgstr "多項選択式"
+
+#: classes/Utils.php:4846
+msgid "Single Choice"
+msgstr "一択"
+
+#: classes/Utils.php:4841
+msgid "True/False"
+msgstr "正/誤"
+
+#: classes/Utils.php:2952 includes/translate-text.php:85
+#: views/pages/instructors.php:98
+msgid "Blocked"
+msgstr "ブロック済み"
+
+#: classes/Utils.php:2951 classes/Withdraw_Requests_List.php:79
+#: includes/translate-text.php:61 views/pages/instructors.php:97
+msgid "Approved"
+msgstr "承認済み"
+
+#: classes/Backend_Page_Trait.php:104 classes/Course_List.php:149
+#: classes/Instructors_List.php:104 classes/Quiz_Attempts_List.php:220
+#: classes/Utils.php:2950 classes/Withdraw_Requests_List.php:85
+#: includes/translate-text.php:41 templates/dashboard/dashboard.php:153
+#: templates/dashboard/my-courses.php:60
+#: templates/dashboard/purchase_history.php:139
+#: templates/single/assignment/content.php:461
+#: templates/single/course/reviews-loop.php:41 views/pages/course-list.php:131
+#: views/pages/instructors.php:96 views/quiz/attempt-details.php:306
+#: views/quiz/attempt-details.php:707 views/quiz/attempt-table.php:156
+msgid "Pending"
+msgstr "承認待ち"
+
+#: classes/Utils.php:2812
+msgid "Logout"
+msgstr "ログアウト"
+
+#: classes/Admin.php:123 classes/Quiz_Attempts_List.php:59
+#: classes/Utils.php:8970 templates/dashboard.php:54
+#: templates/dashboard/quiz-attempts.php:31
+msgid "Quiz Attempts"
+msgstr "クイズ回答履歴"
+
+#: classes/Utils.php:8665 classes/Utils.php:9006
+#: templates/dashboard/reviews.php:28
+#: templates/dashboard/reviews/given-reviews.php:27
+msgid "Reviews"
+msgstr "レビュー"
+
+#: classes/Utils.php:8940
+msgid "Create Course"
+msgstr "コースの作成"
+
+#: classes/Utils.php:2439 templates/public-profile.php:147
+msgid "Course Enrolled"
+msgstr "コース参加者"
+
+#: classes/Course_Settings_Tabs.php:125 classes/Options_V2.php:1141
+#: classes/Utils.php:8669 templates/dashboard.php:54
+msgid "Q&A"
+msgstr "よくあるご質問"
+
+#: templates/single/lesson/content.php:118
+msgid "Overview"
+msgstr "概要"
+
+#: classes/Quiz.php:1250 views/modal/question_answer_form.php:41
+msgid "False"
+msgstr "偽"
+
+#: classes/Quiz.php:1243 views/modal/question_answer_form.php:37
+msgid "True"
+msgstr "真"
+
+#: classes/Quiz.php:691
+msgid "Quiz has been timeout already"
+msgstr "クイズはすでにタイムアウトしています"
+
+#: views/pages/instructors.php:165
+msgid "Total Course"
+msgstr "トータルコース"
+
+#: views/pages/instructors.php:112
+msgid "Name"
+msgstr "名前"
+
+#: classes/Tutor.php:972
+msgid "Instructor Registration"
+msgstr "インストラクター新規登録"
+
+#: classes/Tutor.php:963
+msgid "Student Registration"
+msgstr "受講生登録"
+
+#: classes/Addons.php:98
+msgid "Tutor Report"
+msgstr "講師レポート"
+
+#: classes/Addons.php:94
+msgid "Tutor Prerequisites"
+msgstr "講師の前提条件"
+
+#: classes/Addons.php:90
+msgid "Tutor Multi Instructors"
+msgstr "マルチインストラクター"
+
+#: classes/Addons.php:86
+msgid "Tutor E-Mail"
+msgstr "家庭教師の電子メール"
+
+#: classes/Addons.php:82
+msgid "Tutor Course Preview"
+msgstr "チューターコースプレビュー"
+
+#: classes/Addons.php:78
+msgid "Tutor Course Attachments"
+msgstr "チューターコースの添付ファイル"
+
+#: classes/Addons.php:74
+msgid "Tutor Certificate"
+msgstr "チューター証明書"
+
+#: classes/Addons.php:70
+msgid "Tutor Assignments"
+msgstr "チューターの割り当て"
+
+#: classes/Addons.php:62
+msgid "Paid Memberships Pro"
+msgstr "Paid Memberships Pro"
+
+#: classes/Addons.php:58
+msgid "WooCommerce Subscriptions"
+msgstr "WooCommerce サブスクリプション"
+
+#: classes/Addons.php:54
+msgid "Enrollment"
+msgstr "登録"
+
+#: classes/Addons.php:50
+msgid "Content Drip"
+msgstr "コンテンツ公開時期"
+
+#: classes/Addons.php:46
+msgid "Gradebook"
+msgstr "成績表"
+
+#: classes/Course.php:779
+msgid "Please Sign In first"
+msgstr "最初にサインインしてください"
+
+#: classes/Course.php:658 classes/Post_types.php:231
+msgid "Lessons"
+msgstr "レッスン"
+
+#: classes/Admin.php:119 classes/Announcements.php:52
+#: classes/Options_V2.php:1252 classes/Utils.php:8674 classes/Utils.php:8960
+#: views/fragments/announcement-list.php:253
+msgid "Announcements"
+msgstr "お知らせ"
+
+#: classes/Admin.php:116
+msgid "Instructors"
+msgstr "講師"
+
+#: classes/Course.php:316 classes/Course.php:399 classes/Options_V2.php:791
+msgid "Video"
+msgstr "動画"
+
+#: classes/Course.php:314 classes/Course.php:405
+msgid "Additional Data"
+msgstr "追加データ"
+
+#: classes/Course.php:312 classes/Course.php:402
+msgid "Course Builder"
+msgstr "コースビルダー"
+
+#: classes/Taxonomies.php:236
+msgid "Image"
+msgstr "画像"
+
+#: classes/Taxonomies.php:79 classes/Taxonomies.php:166
+msgid "Use image"
+msgstr "画像を使用"
+
+#: classes/Taxonomies.php:77 classes/Taxonomies.php:164
+msgid "Choose an image"
+msgstr "画像を選択"
+
+#: classes/Taxonomies.php:53 classes/Taxonomies.php:140
+msgid "Remove image"
+msgstr "画像を削除"
+
+#: classes/Taxonomies.php:52 classes/Taxonomies.php:139
+msgid "Upload/Add image"
+msgstr "アップロード/画像を追加"
+
+#: classes/Taxonomies.php:48 classes/Taxonomies.php:132
+#: classes/Taxonomies.php:265
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: classes/Student.php:306
+msgid "New password and confirm password does not matched"
+msgstr "パスワードが一致しません"
+
+#: classes/Student.php:303
+msgid "Confirm Password Required"
+msgstr "パスワードの確認が必要"
+
+#: classes/Student.php:300
+msgid "New Password Required"
+msgstr "新しいパスワードが必要です"
+
+#: classes/Student.php:297
+msgid "Incorrect Previous Password"
+msgstr "前回のパスワードが正しくありません"
+
+#: classes/Instructor.php:119 classes/Instructor.php:265 classes/Student.php:90
+msgid "Valid E-Mail is required"
+msgstr "有効なE-Mailが必要です"
+
+#: classes/Instructor.php:97 classes/Student.php:70
+msgid "Password Confirmation field is required"
+msgstr "パスワードの確認フィールドが必要です"
+
+#: classes/Instructor.php:96 classes/Instructor.php:252 classes/Student.php:69
+msgid "Password field is required"
+msgstr "パスワードフィールドが必要です"
+
+#: classes/Instructor.php:95 classes/Instructor.php:250 classes/Student.php:68
+msgid "User Name field is required"
+msgstr "ユーザー名フィールドが必要です"
+
+#: classes/Instructor.php:94 classes/Instructor.php:249 classes/Student.php:67
+msgid "E-Mail field is required"
+msgstr "E-Mail欄は必須項目です"
+
+#: classes/Instructor.php:93 classes/Instructor.php:248 classes/Student.php:66
+msgid "Last name field is required"
+msgstr "姓の欄は必須項目です"
+
+#: classes/Instructor.php:92 classes/Instructor.php:247 classes/Student.php:65
+msgid "First name field is required"
+msgstr "名字の欄は必須項目です"
+
+#: templates/dashboard/question-answer/answers.php:20
+#: views/modal/question_answer_list.php:36 views/pages/answer.php:18
+msgid "Answer"
+msgstr "回答"
+
+#: classes/Course_Settings_Tabs.php:84 classes/Options_V2.php:533
+#: classes/TutorEDD.php:67 classes/Tutor_Setup.php:551
+msgid "General"
+msgstr "一般"
+
+#: classes/WooCommerce.php:449
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: classes/TutorEDD.php:107 classes/WooCommerce.php:297
+msgid "Add Product"
+msgstr "製品を追加"
+
+#: classes/WooCommerce.php:268
+msgid "This checkmark ensure that you will sell a specif course via this product."
+msgstr "このチェックマークは、この製品を介してspecifコースを販売することを保証します。"
+
+#: classes/WooCommerce.php:267
+msgid "For Tutor"
+msgstr "チューター用"
+
+#: classes/Admin.php:391 includes/tutor-template-functions.php:1601
+#: templates/permission-denied.php:25
+#: templates/single/lesson/required-enroll.php:15
+msgid "Permission Denied"
+msgstr "権限がありません"
+
+#: classes/Instructor.php:222 classes/Template.php:253
+msgid "Permission denied"
+msgstr "アクセス拒否"
+
+#: classes/Ajax.php:328
+msgid "Course added to wish list"
+msgstr "希望リストに追加されたコース"
+
+#: classes/Ajax.php:320
+msgid "Course removed from wish list"
+msgstr "希望リストから削除されたコース"
+
+#: classes/Course_Widget.php:213
+msgid "Total results you like to show"
+msgstr "表示したい結果の合計"
+
+#: classes/Course_Widget.php:210
+msgid "Count:"
+msgstr "カウント数"
+
+#: classes/Course_Widget.php:200
+msgid "Order"
+msgstr "順序"
+
+#: classes/Course_Widget.php:185
+msgid "OrderBy"
+msgstr "オーダー・バイ"
+
+#: classes/Course_Widget.php:179
+msgid "Place comma (,) separated category ids"
+msgstr "カンマ（,）で区切られたカテゴリIDを配置する"
+
+#: classes/Course_Widget.php:169
+msgid "Place comma (,) separated courses ids which you like to exclude from the query"
+msgstr "クエリから除外したいコースIDをカンマ(,)区切りで入力します"
+
+#: classes/Course_Widget.php:166
+msgid "Exclude IDS:"
+msgstr "IDSを除く"
+
+#: classes/Course_Widget.php:161
+msgid "Place single course id or comma (,) separated course ids"
+msgstr "単一のコースIDまたはカンマ(,)で区切られたコースIDを配置します"
+
+#: classes/Course_Widget.php:140
+msgid "New title"
+msgstr "新規タイトル"
+
+#: classes/Course_Widget.php:34
+msgid "Display courses wherever widget support is available."
+msgstr "ウィジェットに対応している場所であれば、どこでもコースを表示することができます"
+
+#: classes/Course_Widget.php:33
+msgid "Tutor Course"
+msgstr "チューターコース"
+
+#: views/elements/filters.php:35 views/elements/search-filter.php:28
+#: views/elements/search-filter.php:48
+#: views/options/template/import_export.php:103
+msgid "Apply"
+msgstr "適用"
+
+#: classes/Course.php:830 classes/Lesson.php:454
+msgid "Please Sign-In"
+msgstr "サインインしてください"
+
+#: classes/Lesson.php:233
+msgid "Draft Lesson"
+msgstr "ドラフトレッスン"
+
+#: classes/Lesson.php:122
+msgid "Lesson Video"
+msgstr "レッスン動画"
+
+#: classes/Lesson.php:120 templates/dashboard/announcements/create.php:31
+#: templates/dashboard/announcements/update.php:32
+#: views/fragments/announcement-list.php:54 views/metabox/lesson-metabox.php:15
+msgid "Select Course"
+msgstr "コース選択"
+
+#: includes/tutor-general-functions.php:119
+msgid "Select a category"
+msgstr "カテゴリーを選択"
+
+#: includes/tutor-general-functions.php:118
+msgid "Search Course Category. ex. Design, Development, Business"
+msgstr "コースカテゴリ"
+
+#: templates/single/lesson/sidebar_question_and_answer.php:45
+msgid "No questions yet"
+msgstr "質問がありません"
+
+#: classes/Post_types.php:98 includes/tutor-template-functions.php:1606
+#: templates/single/lesson/required-enroll.php:20
+#: views/pages/course-list.php:330
+msgid "View Course"
+msgstr "講座を表示"
+
+#: templates/single/lesson/required-enroll.php:17
+msgid "Course name : %s"
+msgstr "コース名 : %s"
+
+#: views/metabox/course-additional-data.php:37
+msgid "What Will I Learn?"
+msgstr "この講義で何を学べますか？"
+
+#: templates/single/course/add-to-cart-woocommerce.php:79
+msgid "Please make sure that your product exists and valid for this course"
+msgstr "お使いの製品が存在し、このコースに有効であることを確認してください"
+
+#: templates/single/course/reviews.php:181
+msgid "Submit Review"
+msgstr "レビューを投稿"
+
+#: templates/single/course/reviews.php:133
+msgid "Write a review"
+msgstr "評価する"
+
+#: templates/single/course/reviews.php:133
+msgid "Edit review"
+msgstr "レビューを編集"
+
+#: templates/single/course/continue-lesson.php:40
+msgid "Continue to lesson"
+msgstr "レッスンを続ける"
+
+#: templates/single/course/material-includes.php:24
+msgid "Material Includes"
+msgstr "このコースの内容"
+
+#: templates/single/course/q_and_a_turned_off.php:17
+msgid "This feature has been disabled by the administrator"
+msgstr "この機能は管理者によって無効にされています"
+
+#: templates/single/course/add-to-cart-edd.php:20
+msgid "Please make sure that your EDD product exists and valid for this course"
+msgstr "EDD製品が存在し、このコースに有効であることを確認してください。"
+
+#: classes/Options_V2.php:1236
+#: templates/single/course/course-requirements.php:25
+msgid "Requirements"
+msgstr "必須要件"
+
+#: views/metabox/course-additional-data.php:80
+msgid "Course Tag"
+msgstr "コースタグ"
+
+#: templates/single/quiz/parts/image-answer.php:36
+msgid "Write your answer here"
+msgstr "ここにあなたの答えを書いてください"
+
+#: views/modal/question_answer_form.php:108
+msgid "Question Title"
+msgstr "質問のタイトル"
+
+#: views/qna/qna-new.php:43
+msgid "Ask a New Question"
+msgstr "新しい質問をする"
+
+#: templates/single/course/course-content.php:30
+msgid "About Course"
+msgstr "コースについて"
+
+#: views/options/template/import_export.php:36
+msgid "Last Update"
+msgstr "最終更新日"
+
+#: classes/Options_V2.php:1180 templates/single/course/course-entry-box.php:31
+#: templates/single/course/course-entry-box.php:32
+msgid "Total Enrolled"
+msgstr "総登録者数"
+
+#: classes/Admin.php:109 views/pages/course-list.php:165
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: views/course-share.php:24
+msgid "Share"
+msgstr "シェア"
+
+#: classes/Backend_Page_Trait.php:52 templates/dashboard/dashboard.php:312
+#: templates/loop/enrolled-course-progress.php:23
+#: templates/single-content-loader.php:94
+#: templates/single/course/course-entry-box.php:95
+msgid "Complete"
+msgstr "完了"
+
+#: templates/single/course/course-entry-box.php:225
+msgid "Enroll now"
+msgstr "今すぐ登録"
+
+#: classes/Options_V2.php:1244
+msgid "Target Audience"
+msgstr "対象者"
+
+#: templates/single/course/course-entry-box.php:149
+msgid "Complete Course"
+msgstr "このコースを終了する"
+
+#: classes/Admin.php:111 classes/Post_types.php:193
+#: templates/single/course/tags.php:18
+msgid "Tags"
+msgstr "タグ"
+
+#: templates/single/quiz/no_course_belongs.php:16
+msgid "It seems there is no course belongs with this quiz, you can not attempt on this quiz without a course belongs, please notify to your instructor to fix this issue."
+msgstr "このクイズにはコースが属していないようですが、コースが属していないとこのクイズに挑戦することはできませんので、この問題を解決するためにインストラクターに通知してください。"
+
+#: templates/single/quiz/no_course_belongs.php:15
+msgid "No course found for this quiz"
+msgstr "このクイズのコースが見つかりません"
+
+#: templates/single/quiz/previous-attempts.php:58
+#: templates/single/quiz/top.php:120
+msgid "Start Quiz"
+msgstr "クイズ開始"
+
+#: classes/Tutor_Setup.php:563 templates/single/quiz/body.php:73
+msgid "Finish"
+msgstr "完了"
+
+#: templates/single/quiz/parts/question.php:190
+#: templates/single/quiz/parts/question.php:208
+msgid "Submit Quiz"
+msgstr "回答する"
+
+#: templates/single/quiz/parts/question.php:117
+msgid "Marks : "
+msgstr "総合点"
+
+#: templates/single/quiz/parts/meta.php:71
+msgid "Time remaining: "
+msgstr "残り時間:"
+
+#: templates/single/quiz/top.php:101
+msgid "Passing Grade"
+msgstr "合格点"
+
+#: templates/single/quiz/parts/meta.php:45 views/modal/edit_quiz.php:155
+msgid "Attempts Allowed"
+msgstr "試行が許可されています"
+
+#: templates/single/assignment/content.php:613
+msgid "Start Assignment Submit"
+msgstr "課題を送信する"
+
+#: templates/single/assignment/content.php:477
+#: views/quiz/attempt-details.php:333
+msgid "Instructor Note"
+msgstr "講師からのコメント"
+
+#: templates/single/assignment/content.php:454
+msgid "Failed"
+msgstr "失敗"
+
+#: templates/single/assignment/content.php:450
+msgid "Passed"
+msgstr "OK"
+
+#: templates/single/assignment/content.php:356
+msgid "Submit Assignment"
+msgstr "宿題提出"
+
+#: templates/single/assignment/content.php:256
+msgid "Assignment answer form"
+msgstr "課題回答フォーム"
+
+#: templates/single/assignment/content.php:134
+#: templates/single/quiz/parts/meta.php:41
+msgid "No limit"
+msgstr "制限なし"
+
+#: templates/dashboard/instructor/registration.php:149
+msgid "Register as instructor"
+msgstr "講師登録"
+
+#: templates/dashboard/my-courses.php:158
+msgid "Price:"
+msgstr "価格:"
+
+#: classes/Options_V2.php:891
+msgid "Deduct Fees"
+msgstr "控除手数料"
+
+#: templates/dashboard/purchase_history.php:88
+msgid "Order ID"
+msgstr "注文 ID"
+
+#: classes/Course.php:660 templates/course-filter/filters.php:122
+#: templates/dashboard/purchase_history.php:97 views/pages/course-list.php:171
+msgid "Price"
+msgstr "金額"
+
+#: classes/Utils.php:8545
+msgid "All Time"
+msgstr "すべての期間"
+
+#: classes/Tutor_Setup.php:497
+msgid "Earning"
+msgstr "收入"
+
+#: classes/Options_V2.php:1220 templates/single/assignment/content.php:191
+#: templates/single/assignment/content.php:369
+#: templates/single/assignment/content.php:581
+#: views/modal/question_form.php:145
+msgid "Description"
+msgstr "説明"
+
+#: classes/Utils.php:8661
+msgid "Course Info"
+msgstr "講座情報"
+
+#: templates/dashboard/reviews/edit-review-form.php:25
+#: templates/dashboard/reviews/given-reviews.php:122 views/modal/review.php:42
+msgid "Update Review"
+msgstr "評価を更新"
+
+#: templates/dashboard/reviews/edit-review-form.php:22
+#: templates/dashboard/reviews/given-reviews.php:115
+#: templates/single/course/reviews.php:177
+msgid "write a review"
+msgstr "レビューを書く"
+
+#: templates/dashboard/assignments/review.php:25
+msgid "Assignments submission not found or not completed"
+msgstr "課題の提出がないか完了していません"
+
+#: templates/dashboard/assignments/review.php:155
+msgid "Evaluate this submission"
+msgstr "この課題を採点"
+
+#: templates/dashboard/assignments/review.php:131
+msgid "Evaluation"
+msgstr "評価"
+
+#: templates/dashboard/assignments/review.php:93
+msgid "Attach assignment file(s)"
+msgstr "課題ファイルを添付する"
+
+#: templates/dashboard/assignments/review.php:81
+msgid "Assignment Description:"
+msgstr "課題の詳細:"
+
+#: templates/dashboard/assignments.php:83
+msgid "Total Submit"
+msgstr "送信数"
+
+#: templates/dashboard/assignments/review.php:60
+#: templates/dashboard/assignments/submitted.php:80
+#: templates/dashboard/question-answer.php:51
+#: templates/dashboard/reviews.php:54 templates/public-profile.php:135
+#: views/elements/search-filter.php:43 views/qna/contexts.php:16
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:31
+msgid "Student"
+msgstr "受講生"
+
+#: views/pages/course-list.php:251
+msgid "Assignment:"
+msgstr "課題:"
+
+#: templates/dashboard/logged-in.php:14
+msgid "You are already logged in"
+msgstr "すでにログインしています"
+
+#: templates/dashboard/registration.php:149
+msgid "Register"
+msgstr "登録"
+
+#: templates/dashboard/instructor/registration.php:119
+#: templates/dashboard/registration.php:119
+#: views/pages/add_new_instructor.php:126
+msgid "Password Confirmation"
+msgstr "パスワードの確認"
+
+#: templates/dashboard/instructor/registration.php:116
+#: templates/dashboard/registration.php:116
+#: views/pages/add_new_instructor.php:120
+msgid "Password confirmation"
+msgstr "パスワードの確認"
+
+#: templates/dashboard/instructor/registration.php:93
+#: templates/dashboard/instructor/registration.php:96
+#: templates/dashboard/registration.php:93
+#: templates/dashboard/registration.php:96
+#: views/pages/add_new_instructor.php:81 views/pages/add_new_instructor.php:87
+msgid "E-Mail"
+msgstr "メールアドレス"
+
+#: templates/dashboard/instructor/registration.php:83
+#: templates/dashboard/instructor/registration.php:86
+#: templates/dashboard/registration.php:83
+#: templates/dashboard/registration.php:86
+#: templates/dashboard/settings/profile.php:138
+#: views/pages/add_new_instructor.php:68 views/pages/add_new_instructor.php:74
+msgid "User Name"
+msgstr "ユーザー名"
+
+#: templates/dashboard/dashboard.php:353
+msgid "Enrolled"
+msgstr "登録済み"
+
+#: templates/dashboard/dashboard.php:350
+#: templates/dashboard/purchase_history.php:91
+msgid "Course Name"
+msgstr "講座名"
+
+#: templates/dashboard/dashboard.php:234
+msgid "Total Earnings"
+msgstr "総収益"
+
+#: templates/dashboard/dashboard.php:221 views/pages/instructors.php:120
+msgid "Total Courses"
+msgstr "合計講座数"
+
+#: templates/dashboard/dashboard.php:208
+msgid "Total Students"
+msgstr "学生数合計"
+
+#: templates/loop/course-price-edd.php:29
+#: templates/loop/course-price-woocommerce.php:21
+#: templates/loop/course-price.php:30
+msgid "Enroll Course"
+msgstr "コースを開始する"
+
+#: classes/Tutor.php:954 classes/Utils.php:8990 templates/dashboard.php:48
+#: templates/dashboard/dashboard.php:136
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: classes/Admin.php:100 classes/Course_List.php:54 classes/Post_types.php:99
+#: templates/archive-course-init.php:132
+#: templates/dashboard/announcements.php:91
+#: templates/dashboard/assignments.php:40
+#: templates/dashboard/elements/filters.php:26
+#: templates/instructor/cover.php:39 templates/instructor/default.php:33
+#: templates/instructor/minimal-horizontal.php:31
+#: templates/instructor/minimal.php:35
+#: templates/instructor/portrait-horizontal.php:36
+#: templates/public-profile.php:128 templates/public-profile.php:195
+msgid "Courses"
+msgstr "コース"
+
+#: classes/Course_Widget.php:157 views/options/template/tutor_pages.php:27
+#: views/pages/tools/tutor_pages.php:18
+msgid "ID"
+msgstr "ID"
+
+#: views/quiz/attempt-details.php:726
+msgid "Mark as In correct"
+msgstr "正しいとマークする"
+
+#: views/modal/question_answer_list.php:59
+#: views/modal/question_answer_list.php:65 views/quiz/attempt-details.php:722
+msgid "Mark as correct"
+msgstr "正しいとマークする"
+
+#: views/quiz/attempt-details.php:711
+msgid "Incorrect"
+msgstr "不正解"
+
+#: includes/translate-text.php:49 views/quiz/attempt-details.php:703
+msgid "Correct"
+msgstr "正解"
+
+#: views/quiz/contexts.php:98
+msgid "Given Answer"
+msgstr "与えられた答え"
+
+#: classes/Quiz.php:979 views/metabox/course-topics.php:64
+#: views/qna/contexts.php:17 views/quiz/contexts.php:19
+#: views/quiz/contexts.php:67
+msgid "Question"
+msgstr "問題"
+
+#: views/quiz/contexts.php:96
+msgid "Type"
+msgstr "タイプ"
+
+#: views/quiz/attempt-details.php:343
+msgid "Quiz Overview"
+msgstr "小テスト概要"
+
+#: views/quiz/contexts.php:69
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:32
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:37
+msgid "Attempt Time"
+msgstr "試行時間"
+
+#: templates/single/quiz/top.php:81 views/quiz/contexts.php:68
+#: views/quiz/header-context/course-single-previous-attempts.php:37
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:29
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:34
+msgid "Quiz Time"
+msgstr "クイズタイム"
+
+#: templates/dashboard/assignments/submitted.php:86
+#: templates/single/assignment/content.php:423 views/quiz/contexts.php:24
+#: views/quiz/contexts.php:75 views/quiz/contexts.php:100
+msgid "Result"
+msgstr "結果"
+
+#: classes/Lesson.php:407 classes/Options_V2.php:617 classes/Options_V2.php:974
+#: classes/Options_V2.php:1490 classes/Tutor_Setup.php:554
+#: templates/dashboard/announcements/details.php:31
+#: templates/dashboard/assignments.php:101
+#: templates/dashboard/assignments/review.php:49
+#: templates/dashboard/assignments/submitted.php:40
+#: templates/instructor/cover.php:39 templates/instructor/default.php:33
+#: templates/instructor/minimal-horizontal.php:31
+#: templates/instructor/minimal.php:35
+#: templates/instructor/portrait-horizontal.php:36
+#: templates/public-profile.php:128 views/elements/filters.php:92
+#: views/elements/search-filter.php:40
+#: views/fragments/announcement-list.php:144
+#: views/fragments/announcement-list.php:301 views/qna/qna-table.php:102
+#: views/quiz/contexts.php:18
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:25
+#: views/quiz/header-context/frontend-dashboard-my-attempts.php:19
+#: views/quiz/header-context/frontend-dashboard-students-attempts.php:21
+msgid "Course"
+msgstr "講座"
+
+#: views/quiz/contexts.php:65
+msgid "Attempt By"
+msgstr "最後の試行"
+
+#: views/pages/view_attempt.php:25 views/pages/view_attempt.php:29
+msgid "Attemp not found"
+msgstr "Attemp が見つかりません"
+
+#: templates/dashboard/reviews.php:93
+msgid "Course:"
+msgstr "コース"
+
+#: classes/Lesson.php:583 classes/Utils.php:1680
+#: templates/single/course/enrolled/announcements.php:39
+#: templates/single/lesson/comments-loop.php:30
+#: templates/single/lesson/comments-loop.php:63
+msgid " ago"
+msgstr "前"
+
+#: classes/Options_V2.php:737 templates/single/quiz/top.php:43
+#: views/metabox/course-contents.php:142 views/metabox/course-contents.php:211
+#: views/metabox/course-topics.php:49
+#: views/quiz/header-context/backend-dashboard-students-attempts.php:28
+#: views/quiz/header-context/course-single-previous-attempts.php:23
+msgid "Quiz"
+msgstr "テスト"
+
+#: classes/Options_V2.php:1260 views/quiz/attempt-table.php:172
+#: views/quiz/contexts.php:101
+msgid "Review"
+msgstr "レビュー"
+
+#: classes/Admin.php:243 classes/Tools_V2.php:108
+#: templates/dashboard/purchase_history.php:100
+#: templates/dashboard/withdraw.php:213 views/options/template/status.php:13
+#: views/options/template/tutor_pages.php:33 views/pages/instructors.php:127
+#: views/pages/instructors.php:178 views/pages/instructors.php:197
+#: views/pages/tools/tutor_pages.php:20 views/pages/withdraw_requests.php:101
+#: views/pages/withdraw_requests.php:251 views/qna/contexts.php:20
+msgid "Status"
+msgstr "ステータス"
+
+#: includes/tinymce_translate.php:27
+msgid "Count"
+msgstr "カウント"
+
+#: classes/Admin.php:113 classes/Course.php:659 classes/Students_List.php:62
+#: templates/public-profile.php:135 views/pages/students.php:84
+msgid "Students"
+msgstr "受講生"
+
+#: classes/Utils.php:9002 templates/dashboard/wishlist.php:23
+#: templates/single/course/lead-info.php:101
+msgid "Wishlist"
+msgstr "お気に入り"
+
+#: views/pages/withdraw_requests.php:412
+msgid "Reject Withdrawal?"
+msgstr "出金を拒否しますか?"
+
+#: templates/dashboard/withdraw.php:207
+msgid "Requested On"
+msgstr "請求日"
+
+#: templates/dashboard/announcements.php:116
+#: templates/dashboard/assignments/submitted.php:77
+#: templates/dashboard/purchase_history.php:94
+#: templates/dashboard/reviews.php:57
+#: templates/single/assignment/content.php:411 views/elements/filters.php:149
+#: views/fragments/announcement-list.php:245
+#: views/fragments/announcement-list.php:249
+#: views/options/template/import_export.php:84 views/pages/course-list.php:174
+#: views/quiz/contexts.php:16 views/quiz/contexts.php:66
+msgid "Date"
+msgstr "日付"
+
+#: views/pages/withdraw_requests.php:92
+msgid "Withdraw Method"
+msgstr "出金方法"
+
+#: templates/dashboard/withdraw.php:152 templates/dashboard/withdraw.php:210
+#: views/pages/withdraw_requests.php:98 views/pages/withdraw_requests.php:246
+msgid "Amount"
+msgstr "金額"
+
+#: templates/dashboard/withdraw.php:101
+msgid "You can change your %1$s Withdraw Preference %2$s"
+msgstr "%1$s 引き落とし方法を変更する %2$s"
+
+#: templates/dashboard/withdraw.php:72
+msgid "You have %1$s %2$s %3$s and this is insufficient balance to withdraw"
+msgstr "現在の残高は %1$s %2$s %3$s 、引き落としに十分ではありません"
+
+#: templates/dashboard/dashboard.php:290
+msgid "Completed Lessons:"
+msgstr "完了したレッスン"
+
+#: templates/dashboard/dashboard.php:192
+#: templates/dashboard/enrolled-courses.php:22
+msgid "Completed Courses"
+msgstr "完了したコース"
+
+#: templates/dashboard/dashboard.php:179
+#: templates/dashboard/enrolled-courses.php:21
+msgid "Active Courses"
+msgstr "進行中のコース"
+
+#: views/elements/filters.php:97
+msgid "All Courses"
+msgstr "すべての講座"
+
+#: classes/Utils.php:8998 templates/dashboard/dashboard.php:166
+#: templates/dashboard/enrolled-courses.php:20
+msgid "Enrolled Courses"
+msgstr "登録済みコース"
+
+#: templates/dashboard/settings/reset-password.php:36
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: templates/dashboard/settings/profile.php:194
+#: templates/dashboard/settings/social-profile.php:46
+msgid "Update Profile"
+msgstr "プロフィールを更新"
+
+#: views/fragments/thumbnail-uploader.php:61
+#: views/modal/question_answer_form.php:61
+#: views/modal/question_answer_form.php:177
+#: views/modal/question_answer_form.php:223
+#: views/modal/question_answer_form.php:252
+#: views/options/field-types/upload_half.php:42
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: views/metabox/user-profile-fields.php:51
+msgid "Profile Photo"
+msgstr "プロフィール写真"
+
+#: templates/dashboard/settings/withdraw-settings.php:143
+msgid "Save Withdrawal Account"
+msgstr "引き落とし口座を設定"
+
+#: templates/dashboard/settings/withdraw-settings.php:50
+msgid "Min withdraw"
+msgstr "最小出金金額"
+
+#: templates/dashboard/settings/withdraw-settings.php:25
+msgid "Select a withdraw method"
+msgstr "出金方法の選択"
+
+#: classes/Backend_Page_Trait.php:143
+#: templates/dashboard/announcements/create.php:65
+#: templates/dashboard/announcements/details.php:41
+#: templates/dashboard/announcements/update.php:64
+#: templates/dashboard/my-courses.php:298
+#: templates/dashboard/reviews/given-reviews.php:119
+#: templates/dashboard/withdraw.php:171 templates/modal/confirm.php:55
+#: views/elements/bulk-confirm-popup.php:33
+#: views/elements/common-confirm-popup.php:65
+#: views/fragments/announcement-list.php:88
+#: views/fragments/announcement-list.php:164
+#: views/fragments/announcement-list.php:217 views/metabox/course-topics.php:81
+#: views/metabox/course-topics.php:118 views/metabox/course-topics.php:146
+#: views/modal/review.php:39 views/modal/topic-form.php:51
+#: views/options/template/common/modal-confirm.php:38
+#: views/pages/instructors.php:338 views/pages/tools/manage-tokens.php:119
+#: views/pages/withdraw_requests.php:373 views/pages/withdraw_requests.php:431
+#: views/qna/qna-new.php:30 views/qna/qna-table.php:176
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: templates/dashboard/my-courses.php:293
+msgid "Delete This Course?"
+msgstr "このコースを削除しますか？"
+
+#: views/quiz/attempt-table.php:136
+msgid "Student:"
+msgstr "受講者:"
+
+#: templates/single/assignment/content.php:132
+msgid "Duration:"
+msgstr "期間:"
+
+#: classes/Utils.php:8950 templates/dashboard.php:48
+#: templates/dashboard/dashboard.php:338 templates/dashboard/my-courses.php:47
+msgid "My Courses"
+msgstr "参加講座"
+
+#: templates/dashboard/reviews/given-reviews.php:59
+msgid "Course: "
+msgstr "コース: "
+
+#: templates/dashboard/reviews.php:34
+#: templates/dashboard/reviews/given-reviews.php:32
+msgid "Received"
+msgstr "受信"
+
+#: templates/dashboard/reviews.php:40
+#: templates/dashboard/reviews/given-reviews.php:35
+msgid "Given"
+msgstr "与えられた"
+
+#: templates/single/assignment/content.php:417 views/quiz/contexts.php:71
+msgid "Pass Marks"
+msgstr "合格点"
+
+#: classes/Quiz_Attempts_List.php:214 includes/translate-text.php:53
+#: views/quiz/attempt-details.php:310 views/quiz/attempt-table.php:160
+msgid "Fail"
+msgstr "失敗"
+
+#: classes/Quiz_Attempts_List.php:208 includes/translate-text.php:45
+#: views/quiz/attempt-details.php:308 views/quiz/attempt-table.php:159
+msgid "Pass"
+msgstr "パス"
+
+#: templates/single/assignment/content.php:420 views/quiz/contexts.php:23
+#: views/quiz/contexts.php:74
+msgid "Earned Marks"
+msgstr "満点"
+
+#: templates/dashboard/assignments.php:80
+#: templates/single/assignment/content.php:414 views/quiz/contexts.php:20
+#: views/quiz/contexts.php:70
+#: views/quiz/header-context/course-single-previous-attempts.php:43
+msgid "Total Marks"
+msgstr "総合点"
+
+#: templates/single/quiz/top.php:60 views/quiz/contexts.php:97
+#: views/quiz/header-context/course-single-previous-attempts.php:31
+msgid "Questions"
+msgstr "問題"
+
+#: classes/Utils.php:9010 templates/dashboard/my-quiz-attempts.php:35
+msgid "My Quiz Attempts"
+msgstr "クイズ回答履歴"
+
+#: classes/Options_V2.php:928 templates/dashboard/settings/nav-bar.php:30
+msgid "Withdraw"
+msgstr "売上の払い戻し"
+
+#: templates/dashboard/settings/reset-password.php:87
+msgid "Reset Password"
+msgstr "パスワードをリセット"
+
+#: templates/dashboard/settings/nav-bar.php:20
+msgid "Profile"
+msgstr "プロフィール"
+
+#: classes/Admin.php:135 classes/Admin.php:562 classes/Utils.php:2808
+#: templates/dashboard/notifications/profile-completion.php:22
+#: templates/dashboard/settings.php:13
+#: templates/dashboard/settings/social-profile.php:15
+#: views/metabox/course-topics.php:68 views/options/settings.php:19
+msgid "Settings"
+msgstr "設定"
+
+#: templates/dashboard/settings/profile.php:163
+#: views/pages/add_new_instructor.php:133 views/pages/instructors.php:323
+msgid "Bio"
+msgstr "自己紹介"
+
+#: templates/dashboard/my-profile.php:33
+#: templates/dashboard/settings/profile.php:145
+#: templates/dashboard/settings/profile.php:147
+#: views/pages/add_new_instructor.php:94 views/pages/add_new_instructor.php:100
+#: views/pages/instructors.php:278
+msgid "Phone Number"
+msgstr "電話番号"
+
+#: templates/dashboard/my-profile.php:32 views/pages/instructors.php:116
+#: views/pages/instructors.php:159 views/pages/students.php:88
+msgid "Email"
+msgstr "メール"
+
+#: templates/dashboard/my-profile.php:31 views/pages/instructors.php:270
+msgid "Username"
+msgstr "ユーザー名"
+
+#: templates/dashboard/instructor/registration.php:68
+#: templates/dashboard/instructor/registration.php:71
+#: templates/dashboard/my-profile.php:30
+#: templates/dashboard/registration.php:70
+#: templates/dashboard/registration.php:73
+#: templates/dashboard/settings/profile.php:129
+#: templates/dashboard/settings/profile.php:131
+#: views/pages/add_new_instructor.php:55 views/pages/add_new_instructor.php:61
+#: views/pages/instructors.php:260
+msgid "Last Name"
+msgstr "姓"
+
+#: templates/dashboard/instructor/registration.php:58
+#: templates/dashboard/instructor/registration.php:61
+#: templates/dashboard/my-profile.php:29
+#: templates/dashboard/registration.php:60
+#: templates/dashboard/registration.php:63
+#: templates/dashboard/settings/profile.php:122
+#: templates/dashboard/settings/profile.php:124
+#: views/pages/add_new_instructor.php:41 views/pages/add_new_instructor.php:47
+#: views/pages/instructors.php:252
+msgid "First Name"
+msgstr "名"
+
+#: templates/dashboard/my-profile.php:28 views/pages/students.php:92
+msgid "Registration Date"
+msgstr "登録日"
+
+#: classes/Utils.php:8994 templates/dashboard/my-profile.php:39
+msgid "My Profile"
+msgstr "プロフィール"
+
+#: templates/course-embed.php:99 templates/loop/course-author.php:36
+#: templates/loop/meta.php:57
+msgid "In"
+msgstr "カテゴリー:"
+
+#: templates/course-filter/filters.php:15
+#: templates/dashboard/my-courses.php:164 templates/loop/course-in-cart.php:19
+#: templates/single/course/course-entry-box.php:215
+#: templates/single/course/wc-price-html.php:20
+#: views/metabox/product-selection.php:35 views/pages/course-list.php:295
+msgid "Free"
+msgstr "無料"
+
+#: classes/Lesson.php:124 templates/single/assignment/content.php:206
+msgid "Attachments"
+msgstr "添付ファイル"
+
+#: templates/dashboard/instructor/registration.php:106
+#: templates/dashboard/instructor/registration.php:109
+#: templates/dashboard/registration.php:106
+#: templates/dashboard/registration.php:109
+#: templates/dashboard/settings/nav-bar.php:25 templates/login-form.php:63
+#: templates/template-part/form-retrieve-password.php:36
+#: views/pages/add_new_instructor.php:107
+#: views/pages/add_new_instructor.php:113 views/pages/instructors.php:300
+msgid "Password"
+msgstr "パスワード"
+
+#: templates/login-form.php:59
+msgid "Username or Email Address"
+msgstr "ユーザー名またはメールアドレス"
+
+#: templates/course-filter/course-archive-filter-bar.php:35
+msgid "Course Title (z-a)"
+msgstr "コースタイトル (z-a)"
+
+#: templates/course-filter/course-archive-filter-bar.php:32
+msgid "Course Title (a-z)"
+msgstr "コースタイトル (a-z)"
+
+#: templates/course-filter/course-archive-filter-bar.php:29
+msgid "Release Date (oldest first)"
+msgstr "リリース日(古いものから順)"
+
+#: templates/course-filter/course-archive-filter-bar.php:26
+msgid "Release Date (newest first)"
+msgstr "発売日(最新順)"
+
+#: templates/dashboard.php:127
+msgid "Become an instructor"
+msgstr "インストラクターになる"
+
+#: templates/profile/bio.php:24
+msgid "Bio data is empty"
+msgstr "バイオデータが空です"
+
+#: templates/dashboard/question-answer/answers.php:39
+#: templates/dashboard/question-answer/answers.php:73
+#: templates/single/course/reviews-loop.php:33 views/pages/answer.php:62
+#: views/pages/answer.php:107
+msgid "%s ago"
+msgstr "%s前"
+
+#: templates/dashboard/assignments/review.php:19
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "お探しのものは見つかりませんでした。"
+
+#: classes/Tutor.php:853 tutor.php:77
+msgid "Tutor Instructor"
+msgstr "インストラクター"
+
+#. Author URI of the plugin
+msgid "https://themeum.com"
+msgstr "https://themeum.com"
+
+#. Author of the plugin
+msgid "Themeum"
+msgstr "Themeum"
+
+#. Description of the plugin
+msgid "Tutor is a complete solution for creating a Learning Management System in WordPress way. It can help you to create small to large scale online education site very conveniently. Power features like report, certificate, course preview, private file sharing make Tutor a robust plugin for any educational institutes."
+msgstr "Tutor は、 WordPress で学習管理システムを作成するための完全なソリューションです。小規模から大規模なオンライン教育サイトを作成するのに非常に便利に役立ちます。 Tutor の強力なレポート、証明書、コースのプレビュー、プライベートファイルの共有のような機能は、教育機関のための堅牢なプラグインです。"
+
+#. Plugin URI of the plugin
+msgid "https://www.themeum.com/product/tutor-lms/"
+msgstr "https://www.themeum.com/product/tutor-lms/"
+
+#. Plugin Name of the plugin
+#: classes/Admin.php:90 classes/Admin.php:91 classes/Admin.php:613
+#: classes/Gutenberg.php:144
+msgid "Tutor LMS"
+msgstr "チューター LMS"
